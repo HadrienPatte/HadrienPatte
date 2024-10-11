@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.5.0), today) - Terraform provider for Azure Resource Manager
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.6.4.4402](https://github.com/Lidarr/Lidarr/releases/tag/v2.6.4.4402), 2 days ago) - Looks and smells like Sonarr but made for music.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.4.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.4.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [DataDog/nginx-datadog](https://github.com/DataDog/nginx-datadog) ([installer-0.1.1](https://github.com/DataDog/nginx-datadog/releases/tag/installer-0.1.1), 1 week ago) - Enhance NGINX Observability and Security with Datadog&#39;s Module
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.57.2](https://github.com/DataDog/datadog-agent/releases/tag/7.57.2), 2 weeks ago) - Main repository for Datadog Agent
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.40.6](https://github.com/zigpy/bellows/releases/tag/0.40.6), 4 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
