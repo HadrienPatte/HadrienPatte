@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.5.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.6.4.4402](https://github.com/Lidarr/Lidarr/releases/tag/v2.6.4.4402), 4 days ago) - Looks and smells like Sonarr but made for music.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.5.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.6.4.4402](https://github.com/Lidarr/Lidarr/releases/tag/v2.6.4.4402), 5 days ago) - Looks and smells like Sonarr but made for music.
 - [DataDog/nginx-datadog](https://github.com/DataDog/nginx-datadog) ([installer-0.1.1](https://github.com/DataDog/nginx-datadog/releases/tag/installer-0.1.1), 1 week ago) - Enhance NGINX Observability and Security with Datadog&#39;s Module
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.57.2](https://github.com/DataDog/datadog-agent/releases/tag/7.57.2), 2 weeks ago) - Main repository for Datadog Agent
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.40.6](https://github.com/zigpy/bellows/releases/tag/0.40.6), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
@@ -12,8 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Sync OsInfo with upstream](https://github.com/Lidarr/Lidarr/pull/5163) on [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) (5 days ago)
-- [Add `IsNetBSD` to `OperatingSystem`](https://github.com/dotnet/runtime/pull/108630) on [dotnet/runtime](https://github.com/dotnet/runtime) (6 days ago)
+- [Sync OsInfo with upstream](https://github.com/Lidarr/Lidarr/pull/5163) on [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) (6 days ago)
+- [Add `IsNetBSD` to `OperatingSystem`](https://github.com/dotnet/runtime/pull/108630) on [dotnet/runtime](https://github.com/dotnet/runtime) (1 week ago)
 - [Add `rewrite-timestamp` buildx output parameter](https://github.com/docker/docs/pull/21055) on [docker/docs](https://github.com/docker/docs) (1 week ago)
 - [feat: make suites mandatory in archive config](https://github.com/canonical/chisel/pull/161) on [canonical/chisel](https://github.com/canonical/chisel) (1 week ago)
 - [feat(24.04): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/359) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 week ago)
