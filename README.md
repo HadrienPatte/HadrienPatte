@@ -2,13 +2,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.41.0](https://github.com/zigpy/bellows/releases/tag/0.41.0), today) - A Python 3 project to implement EZSP for EmberZNet devices
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.34.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.34.0), 1 day ago) - TFLint ruleset for terraform-provider-aws
 - [DataDog/nginx-datadog](https://github.com/DataDog/nginx-datadog) ([installer-0.1.2](https://github.com/DataDog/nginx-datadog/releases/tag/installer-0.1.2), 1 day ago) - Enhance NGINX Observability and Security with Datadog&#39;s Module
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.5.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.0.0](https://github.com/canonical/chisel/releases/tag/v1.0.0), 6 days ago) - 
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.6.4.4402](https://github.com/Lidarr/Lidarr/releases/tag/v2.6.4.4402), 6 days ago) - Looks and smells like Sonarr but made for music.
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.57.2](https://github.com/DataDog/datadog-agent/releases/tag/7.57.2), 3 weeks ago) - Main repository for Datadog Agent
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.40.6](https://github.com/zigpy/bellows/releases/tag/0.40.6), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.4.1](https://github.com/padok-team/burrito/releases/tag/v0.4.1), 4 months ago) - 🌯 Burrito is a TACoS 🌮
 
 #### 🔨 My recent Pull Requests
