@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.58.0](https://github.com/DataDog/datadog-agent/releases/tag/7.58.0), 3 days ago) - Main repository for Datadog Agent
+- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.58.1](https://github.com/DataDog/datadog-agent/releases/tag/7.58.1), today) - Main repository for Datadog Agent
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.7.0.4413](https://github.com/Lidarr/Lidarr/releases/tag/v2.7.0.4413), 4 days ago) - Looks and smells like Sonarr but made for music.
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.0](https://github.com/padok-team/burrito/releases/tag/v0.5.0), 6 days ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.6.0), 6 days ago) - Terraform provider for Azure Resource Manager
