@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), today) - Terraform provider for Azure Resource Manager
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.58.1](https://github.com/DataDog/datadog-agent/releases/tag/7.58.1), 1 day ago) - Main repository for Datadog Agent
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.7.0.4413](https://github.com/Lidarr/Lidarr/releases/tag/v2.7.0.4413), 5 days ago) - Looks and smells like Sonarr but made for music.
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.0](https://github.com/padok-team/burrito/releases/tag/v0.5.0), 1 week ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.6.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.41.0](https://github.com/zigpy/bellows/releases/tag/0.41.0), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.34.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.34.0), 1 week ago) - TFLint ruleset for terraform-provider-aws
 - [DataDog/nginx-datadog](https://github.com/DataDog/nginx-datadog) ([installer-0.1.2](https://github.com/DataDog/nginx-datadog/releases/tag/installer-0.1.2), 1 week ago) - Enhance NGINX Observability and Security with Datadog&#39;s Module
