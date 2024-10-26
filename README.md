@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2579](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2579), today) - Smart PVR for newsgroup and bittorrent users.
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.7.1.4417](https://github.com/Lidarr/Lidarr/releases/tag/v2.7.1.4417), today) - Looks and smells like Sonarr but made for music.
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2544](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2544), today) - Smart PVR for newsgroup and bittorrent users.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.58.1](https://github.com/DataDog/datadog-agent/releases/tag/7.58.1), 2 days ago) - Main repository for Datadog Agent
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.0](https://github.com/padok-team/burrito/releases/tag/v0.5.0), 1 week ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
