@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.8.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.0](https://github.com/zigpy/bellows/releases/tag/0.42.0), 5 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.8.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.0](https://github.com/zigpy/bellows/releases/tag/0.42.0), 6 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2579](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2579), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.0), 1 week ago) - The Free Software Media System
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.7.1.4417](https://github.com/Lidarr/Lidarr/releases/tag/v2.7.1.4417), 1 week ago) - Looks and smells like Sonarr but made for music.
@@ -15,7 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Auto update issue template version on new release](https://github.com/jellyfin/jellyfin/pull/12893) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (6 days ago)
+- [Auto update issue template version on new release](https://github.com/jellyfin/jellyfin/pull/12893) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 week ago)
 - [Update issue template version from 10.9.11 to 10.10.0](https://github.com/jellyfin/jellyfin/pull/12882) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 week ago)
 - [Sync OsInfo with upstream](https://github.com/Lidarr/Lidarr/pull/5163) on [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) (3 weeks ago)
 - [Add `IsNetBSD` to `OperatingSystem`](https://github.com/dotnet/runtime/pull/108630) on [dotnet/runtime](https://github.com/dotnet/runtime) (3 weeks ago)
