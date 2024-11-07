@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update changed-files action to v45](https://github.com/canonical/chisel-releases/pull/383) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
 - [Auto update issue template version on new release](https://github.com/jellyfin/jellyfin/pull/12893) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 week ago)
 - [Update issue template version from 10.9.11 to 10.10.0](https://github.com/jellyfin/jellyfin/pull/12882) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 week ago)
 - [Sync OsInfo with upstream](https://github.com/Lidarr/Lidarr/pull/5163) on [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) (1 month ago)
@@ -24,4 +25,3 @@
 - [feat(24.04): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/359) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
 - [Use `OperatingSystem` class to get OS information](https://github.com/Sonarr/Sonarr/pull/7249) on [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) (1 month ago)
 - [feat(24.04): add SDF for ocl-icd-libopencl1](https://github.com/canonical/chisel-releases/pull/353) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
-- [fix(24.04): add missing symlink for `libblas3`](https://github.com/canonical/chisel-releases/pull/351) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
