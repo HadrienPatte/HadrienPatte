@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.58.2](https://github.com/DataDog/datadog-agent/releases/tag/7.58.2), 3 days ago) - Main repository for Datadog Agent
+- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.59.0](https://github.com/DataDog/datadog-agent/releases/tag/7.59.0), today) - Main repository for Datadog Agent
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2624](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2624), 3 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.1](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.1), 4 days ago) - The Free Software Media System
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.8.0.4431](https://github.com/Lidarr/Lidarr/releases/tag/v2.8.0.4431), 4 days ago) - Looks and smells like Sonarr but made for music.
