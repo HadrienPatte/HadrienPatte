@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.9.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.59.0](https://github.com/DataDog/datadog-agent/releases/tag/7.59.0), 4 days ago) - Main repository for Datadog Agent
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.9.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.59.0](https://github.com/DataDog/datadog-agent/releases/tag/7.59.0), 5 days ago) - Main repository for Datadog Agent
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2624](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2624), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.1](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.1), 1 week ago) - The Free Software Media System
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.8.0.4431](https://github.com/Lidarr/Lidarr/releases/tag/v2.8.0.4431), 1 week ago) - Looks and smells like Sonarr but made for music.
@@ -15,7 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update changed-files action to v45](https://github.com/canonical/chisel-releases/pull/383) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 days ago)
+- [Update changed-files action to v45](https://github.com/canonical/chisel-releases/pull/383) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (5 days ago)
 - [Auto update issue template version on new release](https://github.com/jellyfin/jellyfin/pull/12893) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (2 weeks ago)
 - [Update issue template version from 10.9.11 to 10.10.0](https://github.com/jellyfin/jellyfin/pull/12882) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (2 weeks ago)
 - [Sync OsInfo with upstream](https://github.com/Lidarr/Lidarr/pull/5163) on [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) (1 month ago)
