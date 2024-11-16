@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), today) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), today) - Terraform provider for Azure Resource Manager
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2656](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2656), today) - Smart PVR for newsgroup and bittorrent users.
+- [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 1 day ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2656](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2656), 1 day ago) - Smart PVR for newsgroup and bittorrent users.
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.59.0](https://github.com/DataDog/datadog-agent/releases/tag/7.59.0), 1 week ago) - Main repository for Datadog Agent
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.1](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.1), 1 week ago) - The Free Software Media System
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.8.0.4431](https://github.com/Lidarr/Lidarr/releases/tag/v2.8.0.4431), 1 week ago) - Looks and smells like Sonarr but made for music.
@@ -17,7 +17,7 @@
 
 - [Update changed-files action to v45](https://github.com/canonical/chisel-releases/pull/383) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 week ago)
 - [Auto update issue template version on new release](https://github.com/jellyfin/jellyfin/pull/12893) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (2 weeks ago)
-- [Update issue template version from 10.9.11 to 10.10.0](https://github.com/jellyfin/jellyfin/pull/12882) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (2 weeks ago)
+- [Update issue template version from 10.9.11 to 10.10.0](https://github.com/jellyfin/jellyfin/pull/12882) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (3 weeks ago)
 - [Sync OsInfo with upstream](https://github.com/Lidarr/Lidarr/pull/5163) on [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) (1 month ago)
 - [Add `IsNetBSD` to `OperatingSystem`](https://github.com/dotnet/runtime/pull/108630) on [dotnet/runtime](https://github.com/dotnet/runtime) (1 month ago)
 - [Add `rewrite-timestamp` buildx output parameter](https://github.com/docker/docs/pull/21055) on [docker/docs](https://github.com/docker/docs) (1 month ago)
