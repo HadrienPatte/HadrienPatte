@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), today) - The Free Software Media System
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.35.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.35.0), 2 days ago) - TFLint ruleset for terraform-provider-aws
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.2](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.2), 3 days ago) - The Free Software Media System
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 4 days ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2656](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2656), 4 days ago) - Smart PVR for newsgroup and bittorrent users.
