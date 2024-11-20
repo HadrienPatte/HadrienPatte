@@ -2,12 +2,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/nginx-datadog](https://github.com/DataDog/nginx-datadog) ([v1.4.0](https://github.com/DataDog/nginx-datadog/releases/tag/v1.4.0), today) - Enhance NGINX Observability and Security with Datadog&#39;s Module
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), today) - The Free Software Media System
-- [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.35.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.35.0), 2 days ago) - TFLint ruleset for terraform-provider-aws
-- [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 4 days ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2656](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2656), 4 days ago) - Smart PVR for newsgroup and bittorrent users.
+- [DataDog/nginx-datadog](https://github.com/DataDog/nginx-datadog) ([v1.4.0](https://github.com/DataDog/nginx-datadog/releases/tag/v1.4.0), 1 day ago) - Enhance NGINX Observability and Security with Datadog&#39;s Module
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), 1 day ago) - The Free Software Media System
+- [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.35.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.35.0), 3 days ago) - TFLint ruleset for terraform-provider-aws
+- [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 5 days ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2656](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2656), 5 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) ([7.59.0](https://github.com/DataDog/datadog-agent/releases/tag/7.59.0), 1 week ago) - Main repository for Datadog Agent
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.8.0.4431](https://github.com/Lidarr/Lidarr/releases/tag/v2.8.0.4431), 2 weeks ago) - Looks and smells like Sonarr but made for music.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.0](https://github.com/zigpy/bellows/releases/tag/0.42.0), 3 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
