@@ -2,13 +2,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.1](https://github.com/zigpy/bellows/releases/tag/0.42.1), today) - A Python 3 project to implement EZSP for EmberZNet devices
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.11.2688](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.11.2688), today) - Smart PVR for newsgroup and bittorrent users.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.11.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), 1 week ago) - The Free Software Media System
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.35.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.35.0), 1 week ago) - TFLint ruleset for terraform-provider-aws
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 1 week ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.10.2656](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.10.2656), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.8.0.4431](https://github.com/Lidarr/Lidarr/releases/tag/v2.8.0.4431), 3 weeks ago) - Looks and smells like Sonarr but made for music.
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.0](https://github.com/zigpy/bellows/releases/tag/0.42.0), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.0.0](https://github.com/canonical/chisel/releases/tag/v1.0.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
