@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add cmdref generated documentation for `clustermesh-apiserver`](https://github.com/cilium/cilium/pull/36205) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [feat(24.04): Add SDF for `librdkafka&#43;&#43;1`](https://github.com/canonical/chisel-releases/pull/399) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 days ago)
 - [feat(24.10): Add SDF for `librdkafka&#43;&#43;1`](https://github.com/canonical/chisel-releases/pull/398) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 days ago)
 - [Update changed-files action to v45](https://github.com/canonical/chisel-releases/pull/383) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
@@ -22,4 +23,3 @@
 - [Add `IsNetBSD` to `OperatingSystem`](https://github.com/dotnet/runtime/pull/108630) on [dotnet/runtime](https://github.com/dotnet/runtime) (1 month ago)
 - [Add `rewrite-timestamp` buildx output parameter](https://github.com/docker/docs/pull/21055) on [docker/docs](https://github.com/docker/docs) (1 month ago)
 - [feat: make suites mandatory in archive config](https://github.com/canonical/chisel/pull/161) on [canonical/chisel](https://github.com/canonical/chisel) (1 month ago)
-- [feat(24.04): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/359) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
