@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.12.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.12.0), today) - Terraform provider for Azure Resource Manager
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.11.2697](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.11.2697), 1 day ago) - Smart PVR for newsgroup and bittorrent users.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.2](https://github.com/zigpy/bellows/releases/tag/0.42.2), 2 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.11.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.4](https://github.com/cilium/cilium/releases/tag/v1.16.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), 1 week ago) - The Free Software Media System
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.35.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.35.0), 1 week ago) - TFLint ruleset for terraform-provider-aws
