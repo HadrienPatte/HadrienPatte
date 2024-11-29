@@ -8,7 +8,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.4](https://github.com/cilium/cilium/releases/tag/v1.16.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), 1 week ago) - The Free Software Media System
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.35.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.35.0), 1 week ago) - TFLint ruleset for terraform-provider-aws
-- [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 2 weeks ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;ArgoCD for Terraform&#34;
+- [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 2 weeks ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;Argo CD for Terraform&#34;
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.8.0.4431](https://github.com/Lidarr/Lidarr/releases/tag/v2.8.0.4431), 3 weeks ago) - Looks and smells like Sonarr but made for music.
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.0.0](https://github.com/canonical/chisel/releases/tag/v1.0.0), 1 month ago) - 
 
