@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.3](https://github.com/zigpy/bellows/releases/tag/0.42.3), today) - A Python 3 project to implement EZSP for EmberZNet devices
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.17.0-pre.3), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.11.2724](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.11.2724), 3 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.12.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.12.0), 6 days ago) - Terraform provider for Azure Resource Manager
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.2](https://github.com/zigpy/bellows/releases/tag/0.42.2), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), 2 weeks ago) - The Free Software Media System
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.35.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.35.0), 2 weeks ago) - TFLint ruleset for terraform-provider-aws
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 2 weeks ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;Argo CD for Terraform&#34;
