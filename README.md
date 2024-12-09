@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [KVStoreMesh: only sync identities ID](https://github.com/cilium/cilium/pull/36471) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [feat(24.04): Add SDF for `librocksdb8.9` and dependencies](https://github.com/canonical/chisel-releases/pull/401) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 week ago)
 - [feat(24.10): Add SDF for `librocksdb9.3` and dependencies](https://github.com/canonical/chisel-releases/pull/400) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 week ago)
 - [Add cmdref generated documentation for `clustermesh-apiserver`](https://github.com/cilium/cilium/pull/36205) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -23,4 +24,3 @@
 - [Auto update issue template version on new release](https://github.com/jellyfin/jellyfin/pull/12893) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 month ago)
 - [Update issue template version from 10.9.11 to 10.10.0](https://github.com/jellyfin/jellyfin/pull/12882) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 month ago)
 - [Sync OsInfo with upstream](https://github.com/Lidarr/Lidarr/pull/5163) on [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) (2 months ago)
-- [Add `IsNetBSD` to `OperatingSystem`](https://github.com/dotnet/runtime/pull/108630) on [dotnet/runtime](https://github.com/dotnet/runtime) (2 months ago)
