@@ -14,6 +14,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(24.04): Add SDF for `libtheora0` and `libx11-xcb1`](https://github.com/canonical/chisel-releases/pull/433) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
+- [feat(24.10): Add SDF for `libtheora0` and `libx11-xcb1`](https://github.com/canonical/chisel-releases/pull/432) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
 - [Add team and service labels to test pods](https://github.com/DataDog/cilium-cli/pull/12) on [DataDog/cilium-cli](https://github.com/DataDog/cilium-cli) (3 days ago)
 - [KVStoreMesh: only sync identities ID](https://github.com/cilium/cilium/pull/36471) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [feat(24.04): Add SDF for `librocksdb8.9` and dependencies](https://github.com/canonical/chisel-releases/pull/401) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
@@ -22,5 +24,3 @@
 - [feat(24.04): Add SDF for `librdkafka&#43;&#43;1`](https://github.com/canonical/chisel-releases/pull/399) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [feat(24.10): Add SDF for `librdkafka&#43;&#43;1`](https://github.com/canonical/chisel-releases/pull/398) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [Update changed-files action to v45](https://github.com/canonical/chisel-releases/pull/383) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
-- [Auto update issue template version on new release](https://github.com/jellyfin/jellyfin/pull/12893) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 month ago)
-- [Update issue template version from 10.9.11 to 10.10.0](https://github.com/jellyfin/jellyfin/pull/12882) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 month ago)
