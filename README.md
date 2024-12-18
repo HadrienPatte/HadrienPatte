@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.5](https://github.com/cilium/cilium/releases/tag/v1.16.5), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.0), today) - eBPF-based Networking, Security, and Observability
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.11.2774](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.11.2774), 1 day ago) - Smart PVR for newsgroup and bittorrent users.
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.8.2.4493](https://github.com/Lidarr/Lidarr/releases/tag/v2.8.2.4493), 2 days ago) - Looks and smells like Sonarr but made for music.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.14.0), 5 days ago) - Terraform provider for Azure Resource Manager
