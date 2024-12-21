@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update azure go sdk](https://github.com/cilium/cilium/pull/36751) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [feat(24.10): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/435) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (5 days ago)
 - [feat(24.10): add SDF for `ocl-icd-libopencl1`](https://github.com/canonical/chisel-releases/pull/434) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (5 days ago)
 - [feat(24.04): Add SDF for `libtheora0` and `libx11-xcb1`](https://github.com/canonical/chisel-releases/pull/433) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (6 days ago)
@@ -23,4 +24,3 @@
 - [feat(24.04): Add SDF for `librocksdb8.9` and dependencies](https://github.com/canonical/chisel-releases/pull/401) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
 - [feat(24.10): Add SDF for `librocksdb9.3` and dependencies](https://github.com/canonical/chisel-releases/pull/400) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
 - [Add cmdref generated documentation for `clustermesh-apiserver`](https://github.com/cilium/cilium/pull/36205) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [feat(24.04): Add SDF for `librdkafka&#43;&#43;1`](https://github.com/canonical/chisel-releases/pull/399) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
