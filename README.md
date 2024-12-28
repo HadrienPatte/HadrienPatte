@@ -2,7 +2,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.11.2800](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.11.2800), 2 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.0.4508](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.0.4508), 6 days ago) - Looks and smells like Sonarr but made for music.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.6](https://github.com/zigpy/bellows/releases/tag/0.42.6), 6 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
