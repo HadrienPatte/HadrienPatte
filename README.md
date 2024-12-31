@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.37.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.37.0), today) - TFLint ruleset for terraform-provider-aws
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.1.4517](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.1.4517), 1 day ago) - Looks and smells like Sonarr but made for music.
+- [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.37.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.37.0), 1 day ago) - TFLint ruleset for terraform-provider-aws
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.1.4517](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.1.4517), 2 days ago) - Looks and smells like Sonarr but made for music.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.6](https://github.com/zigpy/bellows/releases/tag/0.42.6), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.14.0), 2 weeks ago) - Terraform provider for Azure Resource Manager
@@ -13,8 +13,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(24.10): Add SDF for `libavcodec61` and dependencies](https://github.com/canonical/chisel-releases/pull/442) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (5 days ago)
-- [feat(24.04): Add SDF for `libavcodec60` and dependencies](https://github.com/canonical/chisel-releases/pull/441) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (5 days ago)
+- [feat(24.10): Add SDF for `libavcodec61` and dependencies](https://github.com/canonical/chisel-releases/pull/442) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (6 days ago)
+- [feat(24.04): Add SDF for `libavcodec60` and dependencies](https://github.com/canonical/chisel-releases/pull/441) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (6 days ago)
 - [Update azure go sdk](https://github.com/cilium/cilium/pull/36751) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [feat(24.10): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/435) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [feat(24.10): add SDF for `ocl-icd-libopencl1`](https://github.com/canonical/chisel-releases/pull/434) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
