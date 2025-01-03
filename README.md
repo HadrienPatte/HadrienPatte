@@ -2,7 +2,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) ([v0.37.0](https://github.com/terraform-linters/tflint-ruleset-aws/releases/tag/v0.37.0), 4 days ago) - TFLint ruleset for terraform-provider-aws
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.1.4517](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.1.4517), 5 days ago) - Looks and smells like Sonarr but made for music.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.6](https://github.com/zigpy/bellows/releases/tag/0.42.6), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
