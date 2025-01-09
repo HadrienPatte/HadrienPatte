@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Emit azure API rate limits metrics](https://github.com/cilium/cilium/pull/36919) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [feat(24.10): Add SDF for `libavcodec61` and dependencies](https://github.com/canonical/chisel-releases/pull/442) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [feat(24.04): Add SDF for `libavcodec60` and dependencies](https://github.com/canonical/chisel-releases/pull/441) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [Update azure go sdk](https://github.com/cilium/cilium/pull/36751) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -22,4 +23,3 @@
 - [feat(24.10): Add SDF for `libtheora0` and `libx11-xcb1`](https://github.com/canonical/chisel-releases/pull/432) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
 - [Add team and service labels to test pods](https://github.com/DataDog/cilium-cli/pull/12) on [DataDog/cilium-cli](https://github.com/DataDog/cilium-cli) (4 weeks ago)
 - [KVStoreMesh: only sync identities ID](https://github.com/cilium/cilium/pull/36471) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [feat(24.04): Add SDF for `librocksdb8.9` and dependencies](https://github.com/canonical/chisel-releases/pull/401) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
