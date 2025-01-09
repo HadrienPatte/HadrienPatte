@@ -2,6 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), today) - 
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.2.4521](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.2.4521), 4 days ago) - Looks and smells like Sonarr but made for music.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.12.2825](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.12.2825), 4 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.6](https://github.com/zigpy/bellows/releases/tag/0.42.6), 2 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
@@ -9,7 +10,6 @@
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.14.0), 3 weeks ago) - Terraform provider for Azure Resource Manager
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.3), 1 month ago) - The Free Software Media System - Server Backend &amp; API
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.5.1](https://github.com/padok-team/burrito/releases/tag/v0.5.1), 1 month ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;Argo CD for Terraform&#34;
-- [canonical/chisel](https://github.com/canonical/chisel) ([v1.0.0](https://github.com/canonical/chisel/releases/tag/v1.0.0), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
