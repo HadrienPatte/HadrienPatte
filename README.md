@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.4.4539](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.4.4539), today) - Looks and smells like Sonarr but made for music.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.12.2866](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.12.2866), 1 day ago) - Smart PVR for newsgroup and bittorrent users.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.16.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [padok-team/burrito](https://github.com/padok-team/burrito) ([v0.6.0](https://github.com/padok-team/burrito/releases/tag/v0.6.0), 3 days ago) - 🌯 Burrito is a TACoS Kubernetes Operator - &#34;Argo CD for Terraform&#34;
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.3.4527](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.3.4527), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), 1 week ago) - 
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.42.6](https://github.com/zigpy/bellows/releases/tag/0.42.6), 4 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
