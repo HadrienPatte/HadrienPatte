@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update azure modules in cloud providers modules update script](https://github.com/cilium/cilium/pull/37087) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [fix(24.10): Fix notices file path in `aspnetcore-runtime-9.0_notice` slice](https://github.com/canonical/chisel-releases/pull/459) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 days ago)
 - [Create common cmdref package](https://github.com/cilium/cilium/pull/36965) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Emit azure API rate limits metrics](https://github.com/cilium/cilium/pull/36919) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -22,4 +23,3 @@
 - [feat(24.10): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/435) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
 - [feat(24.10): add SDF for `ocl-icd-libopencl1`](https://github.com/canonical/chisel-releases/pull/434) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
 - [feat(24.04): Add SDF for `libtheora0` and `libx11-xcb1`](https://github.com/canonical/chisel-releases/pull/433) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
-- [feat(24.10): Add SDF for `libtheora0` and `libx11-xcb1`](https://github.com/canonical/chisel-releases/pull/432) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
