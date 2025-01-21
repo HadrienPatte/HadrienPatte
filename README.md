@@ -14,7 +14,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Remove usage of depreciated `aws.EndpointResolver`](https://github.com/cilium/cilium/pull/37098) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [Update azure modules in cloud providers modules update script](https://github.com/cilium/cilium/pull/37087) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Configure renovate to update all cloud provider SDKs monthly](https://github.com/cilium/cilium/pull/37087) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [fix(24.10): Fix notices file path in `aspnetcore-runtime-9.0_notice` slice](https://github.com/canonical/chisel-releases/pull/459) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 days ago)
 - [Create common cmdref package](https://github.com/cilium/cilium/pull/36965) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Emit azure API rate limits metrics](https://github.com/cilium/cilium/pull/36919) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
