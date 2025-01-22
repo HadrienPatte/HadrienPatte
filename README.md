@@ -13,6 +13,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(24.10): Add SDF for `liblilv-0-0` and dependencies](https://github.com/canonical/chisel-releases/pull/470) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
+- [feat(24.04): Add SDF for `liblilv-0-0` and dependencies](https://github.com/canonical/chisel-releases/pull/469) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
+- [feat(24.04): Add SDF for `libavformat60` and dependencies](https://github.com/canonical/chisel-releases/pull/468) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
 - [Migrate from `net` to `net/netip` in `pkg/aws/eni`](https://github.com/cilium/cilium/pull/37167) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Remove usage of depreciated `aws.EndpointResolver`](https://github.com/cilium/cilium/pull/37098) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [Configure renovate to update all cloud provider SDKs monthly](https://github.com/cilium/cilium/pull/37087) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -20,6 +23,3 @@
 - [Create common cmdref package](https://github.com/cilium/cilium/pull/36965) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Emit azure API rate limits metrics](https://github.com/cilium/cilium/pull/36919) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [feat(24.10): Add SDF for `libavcodec61` and dependencies](https://github.com/canonical/chisel-releases/pull/442) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 weeks ago)
-- [feat(24.04): Add SDF for `libavcodec60` and dependencies](https://github.com/canonical/chisel-releases/pull/441) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 weeks ago)
-- [Update azure go sdk](https://github.com/cilium/cilium/pull/36751) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [feat(24.10): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/435) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
