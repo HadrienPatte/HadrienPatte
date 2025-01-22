@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate from `net` to `net/netip` in `pkg/aws/eni`](https://github.com/cilium/cilium/pull/37167) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Remove usage of depreciated `aws.EndpointResolver`](https://github.com/cilium/cilium/pull/37098) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [Configure renovate to update all cloud provider SDKs monthly](https://github.com/cilium/cilium/pull/37087) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [fix(24.10): Fix notices file path in `aspnetcore-runtime-9.0_notice` slice](https://github.com/canonical/chisel-releases/pull/459) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 days ago)
@@ -22,4 +23,3 @@
 - [feat(24.04): Add SDF for `libavcodec60` and dependencies](https://github.com/canonical/chisel-releases/pull/441) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 weeks ago)
 - [Update azure go sdk](https://github.com/cilium/cilium/pull/36751) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [feat(24.10): add ffmpeg dependencies slices](https://github.com/canonical/chisel-releases/pull/435) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
-- [feat(24.10): add SDF for `ocl-icd-libopencl1`](https://github.com/canonical/chisel-releases/pull/434) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 month ago)
