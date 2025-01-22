@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(24.10): Add SDF for `libavformat61` and dependencies](https://github.com/canonical/chisel-releases/pull/471) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
 - [feat(24.10): Add SDF for `liblilv-0-0` and dependencies](https://github.com/canonical/chisel-releases/pull/470) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
 - [feat(24.04): Add SDF for `liblilv-0-0` and dependencies](https://github.com/canonical/chisel-releases/pull/469) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
 - [feat(24.04): Add SDF for `libavformat60` and dependencies](https://github.com/canonical/chisel-releases/pull/468) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
@@ -22,4 +23,3 @@
 - [fix(24.10): Fix notices file path in `aspnetcore-runtime-9.0_notice` slice](https://github.com/canonical/chisel-releases/pull/459) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 days ago)
 - [Create common cmdref package](https://github.com/cilium/cilium/pull/36965) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Emit azure API rate limits metrics](https://github.com/cilium/cilium/pull/36919) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [feat(24.10): Add SDF for `libavcodec61` and dependencies](https://github.com/canonical/chisel-releases/pull/442) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 weeks ago)
