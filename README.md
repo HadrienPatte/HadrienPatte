@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.12.2892](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.12.2892), 5 days ago) - Smart PVR for newsgroup and bittorrent users.
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.12.2900](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.12.2900), today) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.5](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.5), 6 days ago) - The Free Software Media System - Server Backend &amp; API
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.2](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.43.0](https://github.com/zigpy/bellows/releases/tag/0.43.0), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
