@@ -2,12 +2,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.5.4550](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.5.4550), today) - Looks and smells like Sonarr but made for music.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.17.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.12.2900](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.12.2900), 2 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.5](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.5), 1 week ago) - The Free Software Media System - Server Backend &amp; API
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.2](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.43.0](https://github.com/zigpy/bellows/releases/tag/0.43.0), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.4.4539](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.4.4539), 2 weeks ago) - Looks and smells like Sonarr but made for music.
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), 3 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
