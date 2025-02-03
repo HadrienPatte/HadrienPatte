@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.5.4550](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.5.4550), 1 day ago) - Looks and smells like Sonarr but made for music.
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.6.4552](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.6.4552), today) - Looks and smells like Sonarr but made for music.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.17.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.12.2900](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.12.2900), 3 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.5](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.5), 1 week ago) - The Free Software Media System - Server Backend &amp; API
