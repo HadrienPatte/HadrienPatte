@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Azure IPAM: Single instance resync](https://github.com/cilium/cilium/pull/37430) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [feat(24.10): Add SDF for `libgl1` and dependencies](https://github.com/canonical/chisel-releases/pull/475) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 week ago)
 - [feat(24.04): Add SDF for `libgl1` and dependencies](https://github.com/canonical/chisel-releases/pull/474) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 week ago)
 - [feat(24.10): Add SDF for `libavformat61` and dependencies](https://github.com/canonical/chisel-releases/pull/471) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (1 week ago)
@@ -21,4 +22,3 @@
 - [Migrate from `net` to `net/netip` in `pkg/aws/eni`](https://github.com/cilium/cilium/pull/37167) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Remove usage of depreciated `aws.EndpointResolver`](https://github.com/cilium/cilium/pull/37098) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Configure renovate to update all cloud provider SDKs monthly](https://github.com/cilium/cilium/pull/37087) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [fix(24.10): Fix notices file path in `aspnetcore-runtime-9.0_notice` slice](https://github.com/canonical/chisel-releases/pull/459) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
