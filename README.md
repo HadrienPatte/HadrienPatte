@@ -2,18 +2,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.14](https://github.com/cilium/cilium/releases/tag/v1.15.14), today) - eBPF-based Networking, Security, and Observability
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.6](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6), 2 days ago) - The Free Software Media System - Server Backend &amp; API
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.19.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.19.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.13.2932](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.13.2932), 6 days ago) - Smart PVR for newsgroup and bittorrent users.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.14](https://github.com/cilium/cilium/releases/tag/v1.15.14), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.6](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6), 3 days ago) - The Free Software Media System - Server Backend &amp; API
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.19.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.19.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.13.2932](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.13.2932), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.9.6.4552](https://github.com/Lidarr/Lidarr/releases/tag/v2.9.6.4552), 2 weeks ago) - Looks and smells like Sonarr but made for music.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.43.0](https://github.com/zigpy/bellows/releases/tag/0.43.0), 3 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Standardize hubble and cilium CLIs makefile](https://github.com/cilium/cilium/pull/37716) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [[1.16]: CMPT-2763](https://github.com/DataDog/cilium/pull/600) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
+- [Standardize hubble and cilium CLIs makefile](https://github.com/cilium/cilium/pull/37716) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [[1.16]: CMPT-2763](https://github.com/DataDog/cilium/pull/600) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 days ago)
 - [Use SDK pointer functions](https://github.com/cilium/cilium/pull/37523) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix error handling in Azure IPAM causing to an infinite loop and a deadlock](https://github.com/cilium/cilium/pull/37471) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [[1.15] Add more image build jobs](https://github.com/DataDog/cilium/pull/598) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
@@ -21,4 +21,4 @@
 - [Azure IPAM: Single instance resync](https://github.com/cilium/cilium/pull/37430) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [feat(24.10): Add SDF for `libgl1` and dependencies](https://github.com/canonical/chisel-releases/pull/475) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
 - [feat(24.04): Add SDF for `libgl1` and dependencies](https://github.com/canonical/chisel-releases/pull/474) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
-- [feat(24.10): Add SDF for `libavformat61` and dependencies](https://github.com/canonical/chisel-releases/pull/471) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
+- [feat(24.10): Add SDF for `libavformat61` and dependencies](https://github.com/canonical/chisel-releases/pull/471) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 weeks ago)
