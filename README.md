@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary nil checks in `pkg/azure/api`](https://github.com/cilium/cilium/pull/37769) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Standardize hubble and cilium CLIs makefile](https://github.com/cilium/cilium/pull/37716) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [[1.16]: CMPT-2763](https://github.com/DataDog/cilium/pull/600) on [DataDog/cilium](https://github.com/DataDog/cilium) (3 days ago)
 - [Use SDK pointer functions](https://github.com/cilium/cilium/pull/37523) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [Azure IPAM: Single instance resync](https://github.com/cilium/cilium/pull/37430) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [feat(24.10): Add SDF for `libgl1` and dependencies](https://github.com/canonical/chisel-releases/pull/475) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
 - [feat(24.04): Add SDF for `libgl1` and dependencies](https://github.com/canonical/chisel-releases/pull/474) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
-- [feat(24.10): Add SDF for `libavformat61` and dependencies](https://github.com/canonical/chisel-releases/pull/471) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 weeks ago)
