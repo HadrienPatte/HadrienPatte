@@ -12,7 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update ENI limits](https://github.com/cilium/cilium/pull/37861) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [ipam/aws: Update EC2 instances ENI limits](https://github.com/cilium/cilium/pull/37861) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Remove unnecessary nil checks in `pkg/azure/api`](https://github.com/cilium/cilium/pull/37769) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [Standardize hubble and cilium CLIs makefile](https://github.com/cilium/cilium/pull/37716) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [[1.16]: CMPT-2763](https://github.com/DataDog/cilium/pull/600) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
