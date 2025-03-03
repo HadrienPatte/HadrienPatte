@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.0), today) - eBPF-based Networking, Security, and Observability
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.10.0.4574](https://github.com/Lidarr/Lidarr/releases/tag/v2.10.0.4574), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.13.2933](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.13.2933), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.14](https://github.com/cilium/cilium/releases/tag/v1.15.14), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.6](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6), 2 weeks ago) - The Free Software Media System - Server Backend &amp; API
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.43.0](https://github.com/zigpy/bellows/releases/tag/0.43.0), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), 1 month ago) - 
