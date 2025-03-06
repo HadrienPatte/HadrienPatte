@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [Update cilium process signatures](https://github.com/DataDog/integrations-core/pull/19753) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (2 days ago)
 - [ipam/aws: Update EC2 instances ENI limits](https://github.com/cilium/cilium/pull/37861) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Remove unnecessary nil checks in `pkg/azure/api`](https://github.com/cilium/cilium/pull/37769) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -21,4 +22,3 @@
 - [Fix error handling in Azure IPAM causing to an infinite loop and a deadlock](https://github.com/cilium/cilium/pull/37471) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [[1.15] Add more image build jobs](https://github.com/DataDog/cilium/pull/598) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 month ago)
 - [[1.16] Add more image build jobs](https://github.com/DataDog/cilium/pull/597) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 month ago)
-- [Azure IPAM: Single instance resync](https://github.com/cilium/cilium/pull/37430) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
