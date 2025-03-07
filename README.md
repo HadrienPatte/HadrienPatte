@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.0), 3 days ago) - eBPF-based Networking, Security, and Observability
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 6 days ago) - Terraform provider for Azure Resource Manager
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.0), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 1 week ago) - Terraform provider for Azure Resource Manager
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.10.0.4574](https://github.com/Lidarr/Lidarr/releases/tag/v2.10.0.4574), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.13.2933](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.13.2933), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.6](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6), 2 weeks ago) - The Free Software Media System - Server Backend &amp; API
@@ -12,8 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
-- [Update cilium process signatures](https://github.com/DataDog/integrations-core/pull/19753) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (2 days ago)
+- [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
+- [Update cilium process signatures](https://github.com/DataDog/integrations-core/pull/19753) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (3 days ago)
 - [ipam/aws: Update EC2 instances ENI limits](https://github.com/cilium/cilium/pull/37861) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Remove unnecessary nil checks in `pkg/azure/api`](https://github.com/cilium/cilium/pull/37769) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Standardize hubble and cilium CLIs makefile](https://github.com/cilium/cilium/pull/37716) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
