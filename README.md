@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), today) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.0), 4 days ago) - eBPF-based Networking, Security, and Observability
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 1 week ago) - Terraform provider for Azure Resource Manager
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.10.0.4574](https://github.com/Lidarr/Lidarr/releases/tag/v2.10.0.4574), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.13.2933](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.13.2933), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.6](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6), 2 weeks ago) - The Free Software Media System - Server Backend &amp; API
