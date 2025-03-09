@@ -2,18 +2,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.0), 5 days ago) - eBPF-based Networking, Security, and Observability
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.10.0.4574](https://github.com/Lidarr/Lidarr/releases/tag/v2.10.0.4574), 1 week ago) - Looks and smells like Sonarr but made for music.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.0), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.10.0.4574](https://github.com/Lidarr/Lidarr/releases/tag/v2.10.0.4574), 2 weeks ago) - Looks and smells like Sonarr but made for music.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.13.2933](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.13.2933), 2 weeks ago) - Smart PVR for newsgroup and bittorrent users.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.6](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6), 2 weeks ago) - The Free Software Media System - Server Backend &amp; API
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.6](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6), 3 weeks ago) - The Free Software Media System - Server Backend &amp; API
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.43.0](https://github.com/zigpy/bellows/releases/tag/0.43.0), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 days ago)
-- [Update cilium process signatures](https://github.com/DataDog/integrations-core/pull/19753) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (4 days ago)
+- [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (3 days ago)
+- [Update cilium process signatures](https://github.com/DataDog/integrations-core/pull/19753) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (5 days ago)
 - [ipam/aws: Update EC2 instances ENI limits](https://github.com/cilium/cilium/pull/37861) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Remove unnecessary nil checks in `pkg/azure/api`](https://github.com/cilium/cilium/pull/37769) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Standardize hubble and cilium CLIs makefile](https://github.com/cilium/cilium/pull/37716) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
