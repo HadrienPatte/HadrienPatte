@@ -12,7 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Deduplicate go build flags when building with race detection enabled and CGO](https://github.com/cilium/cilium/pull/38322) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Make all cilium components FIPS](https://github.com/DataDog/cilium/pull/602) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
+- [Deduplicate go build flags when building with CGO enabled](https://github.com/cilium/cilium/pull/38322) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Propagate `MODIFIERS` build arg when building hubble in cilium image](https://github.com/cilium/cilium/pull/38288) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [helm: Remove trailing whitespace characters from templates](https://github.com/cilium/cilium/pull/38237) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
@@ -21,4 +22,3 @@
 - [Remove unnecessary nil checks in `pkg/azure/api`](https://github.com/cilium/cilium/pull/37769) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [Standardize hubble and cilium CLIs makefile](https://github.com/cilium/cilium/pull/37716) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [[1.16]: CMPT-2763](https://github.com/DataDog/cilium/pull/600) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 month ago)
-- [Use SDK pointer functions](https://github.com/cilium/cilium/pull/37523) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
