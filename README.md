@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PR template](https://github.com/cilium/community/pull/224) on [cilium/community](https://github.com/cilium/community) (today)
 - [Add HadrienPatte as organization member](https://github.com/cilium/community/pull/223) on [cilium/community](https://github.com/cilium/community) (today)
 - [Sort team members](https://github.com/cilium/community/pull/222) on [cilium/community](https://github.com/cilium/community) (today)
 - [Make all cilium components FIPS](https://github.com/DataDog/cilium/pull/602) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
@@ -21,4 +22,3 @@
 - [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
 - [Update cilium process signatures](https://github.com/DataDog/integrations-core/pull/19753) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (2 weeks ago)
 - [ipam/aws: Update EC2 instances ENI limits](https://github.com/cilium/cilium/pull/37861) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [Remove unnecessary nil checks in `pkg/azure/api`](https://github.com/cilium/cilium/pull/37769) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
