@@ -12,6 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(24.04): Add SDF for `libswscale7`](https://github.com/canonical/chisel-releases/pull/520) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
+- [feat(24.10): Add SDF for `libswscale8`](https://github.com/canonical/chisel-releases/pull/519) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (today)
 - [Update PR template](https://github.com/cilium/community/pull/224) on [cilium/community](https://github.com/cilium/community) (5 days ago)
 - [Add HadrienPatte as organization member](https://github.com/cilium/community/pull/223) on [cilium/community](https://github.com/cilium/community) (5 days ago)
 - [Sort team members](https://github.com/cilium/community/pull/222) on [cilium/community](https://github.com/cilium/community) (5 days ago)
@@ -20,5 +22,3 @@
 - [Propagate `MODIFIERS` build arg when building hubble in cilium image](https://github.com/cilium/cilium/pull/38288) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [helm: Remove trailing whitespace characters from templates](https://github.com/cilium/cilium/pull/38237) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Switch operator back to distroless base image](https://github.com/DataDog/cilium/pull/601) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
-- [Update cilium process signatures](https://github.com/DataDog/integrations-core/pull/19753) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (3 weeks ago)
-- [ipam/aws: Update EC2 instances ENI limits](https://github.com/cilium/cilium/pull/37861) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
