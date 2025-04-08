@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [IPAM: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38810) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [build: Add flag to control goexperiments](https://github.com/cilium/cilium/pull/38807) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam/eni: Prepare scaffolding for dense IP allocation](https://github.com/cilium/cilium/pull/38650) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [helm: Set kubectl default-container annotation](https://github.com/cilium/cilium/pull/38589) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [Add HadrienPatte as organization member](https://github.com/cilium/community/pull/223) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
 - [Sort team members](https://github.com/cilium/community/pull/222) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
 - [Make all cilium components FIPS](https://github.com/DataDog/cilium/pull/602) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
-- [Deduplicate go build flags when building with CGO enabled](https://github.com/cilium/cilium/pull/38322) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
