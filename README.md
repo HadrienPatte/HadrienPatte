@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use modern Go constructs](https://github.com/canonical/chisel/pull/215) on [canonical/chisel](https://github.com/canonical/chisel) (today)
 - [IPAM: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38810) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [build: Add flag to control goexperiments](https://github.com/cilium/cilium/pull/38807) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam/eni: Prepare scaffolding for dense IP allocation](https://github.com/cilium/cilium/pull/38650) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [Update PR template](https://github.com/cilium/community/pull/224) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
 - [Add HadrienPatte as organization member](https://github.com/cilium/community/pull/223) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
 - [Sort team members](https://github.com/cilium/community/pull/222) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
-- [Make all cilium components FIPS](https://github.com/DataDog/cilium/pull/602) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
