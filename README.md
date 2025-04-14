@@ -12,6 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (today)
+- [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Use modern Go constructs](https://github.com/canonical/chisel/pull/215) on [canonical/chisel](https://github.com/canonical/chisel) (5 days ago)
 - [IPAM: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38810) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [build: Add flag to control goexperiments](https://github.com/cilium/cilium/pull/38807) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -20,5 +22,3 @@
 - [feat(24.04): Add SDF for `libswscale7`](https://github.com/canonical/chisel-releases/pull/520) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [feat(24.10): Add SDF for `libswscale8`](https://github.com/canonical/chisel-releases/pull/519) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [Update PR template](https://github.com/cilium/community/pull/224) on [cilium/community](https://github.com/cilium/community) (3 weeks ago)
-- [Add HadrienPatte as organization member](https://github.com/cilium/community/pull/223) on [cilium/community](https://github.com/cilium/community) (3 weeks ago)
-- [Sort team members](https://github.com/cilium/community/pull/222) on [cilium/community](https://github.com/cilium/community) (3 weeks ago)
