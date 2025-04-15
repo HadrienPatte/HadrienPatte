@@ -2,16 +2,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.16](https://github.com/cilium/cilium/releases/tag/v1.15.16), today) - eBPF-based Networking, Security, and Observability
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.11.1.4621](https://github.com/Lidarr/Lidarr/releases/tag/v2.11.1.4621), 2 days ago) - Looks and smells like Sonarr but made for music.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.7](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7), 1 week ago) - The Free Software Media System - Server Backend &amp; API
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 1 week ago) - Terraform provider for Azure Resource Manager
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.44.0](https://github.com/zigpy/bellows/releases/tag/0.44.0), 2 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.14.2939](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.14.2939), 4 weeks ago) - Smart PVR for newsgroup and bittorrent users.
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Update `hubble-metrics` flag documentation](https://github.com/cilium/cilium/pull/38960) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (1 day ago)
 - [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Use modern Go constructs](https://github.com/canonical/chisel/pull/215) on [canonical/chisel](https://github.com/canonical/chisel) (6 days ago)
@@ -21,4 +22,3 @@
 - [helm: Set kubectl default-container annotation](https://github.com/cilium/cilium/pull/38589) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [feat(24.04): Add SDF for `libswscale7`](https://github.com/canonical/chisel-releases/pull/520) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [feat(24.10): Add SDF for `libswscale8`](https://github.com/canonical/chisel-releases/pull/519) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
-- [Update PR template](https://github.com/cilium/community/pull/224) on [cilium/community](https://github.com/cilium/community) (3 weeks ago)
