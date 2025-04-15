@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.11.1.4621](https://github.com/Lidarr/Lidarr/releases/tag/v2.11.1.4621), 1 day ago) - Looks and smells like Sonarr but made for music.
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.11.1.4621](https://github.com/Lidarr/Lidarr/releases/tag/v2.11.1.4621), 2 days ago) - Looks and smells like Sonarr but made for music.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.7](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7), 1 week ago) - The Free Software Media System - Server Backend &amp; API
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
@@ -12,12 +12,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (today)
-- [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [Use modern Go constructs](https://github.com/canonical/chisel/pull/215) on [canonical/chisel](https://github.com/canonical/chisel) (5 days ago)
-- [IPAM: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38810) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
-- [build: Add flag to control goexperiments](https://github.com/cilium/cilium/pull/38807) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
-- [ipam/eni: Prepare scaffolding for dense IP allocation](https://github.com/cilium/cilium/pull/38650) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (1 day ago)
+- [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Use modern Go constructs](https://github.com/canonical/chisel/pull/215) on [canonical/chisel](https://github.com/canonical/chisel) (6 days ago)
+- [IPAM: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38810) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [build: Add flag to control goexperiments](https://github.com/cilium/cilium/pull/38807) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [ipam/eni: Prepare scaffolding for dense IP allocation](https://github.com/cilium/cilium/pull/38650) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [helm: Set kubectl default-container annotation](https://github.com/cilium/cilium/pull/38589) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [feat(24.04): Add SDF for `libswscale7`](https://github.com/canonical/chisel-releases/pull/520) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
 - [feat(24.10): Add SDF for `libswscale8`](https://github.com/canonical/chisel-releases/pull/519) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (2 weeks ago)
