@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CA - AWS - Apr25 Instance Update](https://github.com/kubernetes/autoscaler/pull/8050) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (today)
 - [docs: Update `hubble-metrics` flag documentation](https://github.com/cilium/cilium/pull/38960) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (4 days ago)
 - [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [ipam/eni: Prepare scaffolding for dense IP allocation](https://github.com/cilium/cilium/pull/38650) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [helm: Set kubectl default-container annotation](https://github.com/cilium/cilium/pull/38589) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [feat(24.04): Add SDF for `libswscale7`](https://github.com/canonical/chisel-releases/pull/520) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
-- [feat(24.10): Add SDF for `libswscale8`](https://github.com/canonical/chisel-releases/pull/519) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (3 weeks ago)
