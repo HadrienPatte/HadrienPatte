@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix small typos in `pkg/api` and `pkg/maps`](https://github.com/cilium/cilium/pull/39107) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [CA - AWS - Apr25 Instance Update](https://github.com/kubernetes/autoscaler/pull/8050) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (5 days ago)
 - [docs: Update `hubble-metrics` flag documentation](https://github.com/cilium/cilium/pull/38960) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (1 week ago)
@@ -21,4 +22,3 @@
 - [build: Add flag to control goexperiments](https://github.com/cilium/cilium/pull/38807) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam/eni: Prepare scaffolding for dense IP allocation](https://github.com/cilium/cilium/pull/38650) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [helm: Set kubectl default-container annotation](https://github.com/cilium/cilium/pull/38589) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [feat(24.04): Add SDF for `libswscale7`](https://github.com/canonical/chisel-releases/pull/520) on [canonical/chisel-releases](https://github.com/canonical/chisel-releases) (4 weeks ago)
