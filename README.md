@@ -12,9 +12,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [aws/ENI: Only use pagination when not specifying IDs](https://github.com/cilium/cilium/pull/39120) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [Fix small typos in `pkg/api` and `pkg/maps`](https://github.com/cilium/cilium/pull/39107) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [CA - AWS - Apr25 Instance Update](https://github.com/kubernetes/autoscaler/pull/8050) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (5 days ago)
+- [aws/ENI: Only use pagination when not specifying IDs](https://github.com/cilium/cilium/pull/39120) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Fix small typos in `pkg/api` and `pkg/maps`](https://github.com/cilium/cilium/pull/39107) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [CA - AWS - Apr25 Instance Update](https://github.com/kubernetes/autoscaler/pull/8050) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (6 days ago)
 - [docs: Update `hubble-metrics` flag documentation](https://github.com/cilium/cilium/pull/38960) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (1 week ago)
 - [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
