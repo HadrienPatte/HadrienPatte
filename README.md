@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.44.2](https://github.com/zigpy/bellows/releases/tag/0.44.2), today) - A Python 3 project to implement EZSP for EmberZNet devices
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.44.1](https://github.com/zigpy/bellows/releases/tag/0.44.1), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.16](https://github.com/cilium/cilium/releases/tag/v1.15.16), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.11.1.4621](https://github.com/Lidarr/Lidarr/releases/tag/v2.11.1.4621), 2 weeks ago) - Looks and smells like Sonarr but made for music.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.7](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7), 3 weeks ago) - The Free Software Media System - Server Backend &amp; API
