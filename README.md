@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.0](https://github.com/zigpy/bellows/releases/tag/0.45.0), 1 day ago) - A Python 3 project to implement EZSP for EmberZNet devices
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.11.2.4629](https://github.com/Lidarr/Lidarr/releases/tag/v2.11.2.4629), 2 days ago) - Looks and smells like Sonarr but made for music.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.0](https://github.com/zigpy/bellows/releases/tag/0.45.0), 2 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.11.2.4629](https://github.com/Lidarr/Lidarr/releases/tag/v2.11.2.4629), 3 days ago) - Looks and smells like Sonarr but made for music.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.16](https://github.com/cilium/cilium/releases/tag/v1.15.16), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.7](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7), 3 weeks ago) - The Free Software Media System - Server Backend &amp; API
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.14.2939](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.14.2939), 1 month ago) - Smart PVR for newsgroup and bittorrent users.
@@ -12,8 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Enforce consistent quoting style for cilium integration](https://github.com/DataDog/integrations-core/pull/20175) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (1 day ago)
-- [Trigger golangci-lint error](https://github.com/DataDog/cilium/pull/605) on [DataDog/cilium](https://github.com/DataDog/cilium) (5 days ago)
+- [Enforce consistent quoting style for cilium integration](https://github.com/DataDog/integrations-core/pull/20175) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (2 days ago)
+- [Trigger golangci-lint error](https://github.com/DataDog/cilium/pull/605) on [DataDog/cilium](https://github.com/DataDog/cilium) (6 days ago)
 - [aws/ENI: Only use pagination when not specifying IDs](https://github.com/cilium/cilium/pull/39120) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix small typos in `pkg/api` and `pkg/maps`](https://github.com/cilium/cilium/pull/39107) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [CA - AWS - Apr25 Instance Update](https://github.com/kubernetes/autoscaler/pull/8050) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (1 week ago)
