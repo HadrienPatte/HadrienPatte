@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [pkg/ipam: Migrate Subnet from net.IPNet to netip.Prefix](https://github.com/cilium/cilium/pull/39335) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Enforce consistent quoting style for cilium integration](https://github.com/DataDog/integrations-core/pull/20175) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (6 days ago)
 - [Trigger golangci-lint error](https://github.com/DataDog/cilium/pull/605) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
 - [aws/ENI: Only use pagination when not specifying IDs](https://github.com/cilium/cilium/pull/39120) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (3 weeks ago)
 - [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Use modern Go constructs](https://github.com/canonical/chisel/pull/215) on [canonical/chisel](https://github.com/canonical/chisel) (3 weeks ago)
-- [IPAM: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38810) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
