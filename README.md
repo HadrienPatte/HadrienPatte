@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium-cli: Migrate from `corev1.Endpoints` to `discoveryv1.EndpointSlice`](https://github.com/cilium/cilium/pull/39364) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [pkg/ipam: Migrate Subnet from net.IPNet to netip.Prefix](https://github.com/cilium/cilium/pull/39335) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Enforce consistent quoting style for cilium integration](https://github.com/DataDog/integrations-core/pull/20175) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (1 week ago)
 - [Trigger golangci-lint error](https://github.com/DataDog/cilium/pull/605) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [docs: Update `hubble-metrics` flag documentation](https://github.com/cilium/cilium/pull/38960) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Update go wiki URL in contributing docs](https://github.com/kubernetes/autoscaler/pull/8027) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (3 weeks ago)
 - [operator: Use testing.T.Context added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/38925) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [Use modern Go constructs](https://github.com/canonical/chisel/pull/215) on [canonical/chisel](https://github.com/canonical/chisel) (3 weeks ago)
