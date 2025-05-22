@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.29.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.29.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.4](https://github.com/cilium/cilium/releases/tag/v1.17.4), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.29.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.29.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.4](https://github.com/cilium/cilium/releases/tag/v1.17.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.12.0.4633](https://github.com/Lidarr/Lidarr/releases/tag/v2.12.0.4633), 2 weeks ago) - Looks and smells like Sonarr but made for music.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.0](https://github.com/zigpy/bellows/releases/tag/0.45.0), 3 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.7](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7), 1 month ago) - The Free Software Media System - Server Backend &amp; API
@@ -12,7 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [cilium-cli: Migrate from `corev1.Endpoints` to `discoveryv1.EndpointSlice`](https://github.com/cilium/cilium/pull/39364) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [pkg/ipam: Migrate Subnet from net.IPNet to netip.Prefix](https://github.com/cilium/cilium/pull/39335) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Enforce consistent quoting style for cilium integration](https://github.com/DataDog/integrations-core/pull/20175) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (3 weeks ago)
