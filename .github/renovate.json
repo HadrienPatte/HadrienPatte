@@ -1,11 +1,22 @@
-
 {
-  "extends": ["config:base"],
-  "enabledManagers": ["github-actions"],
+  "extends": [
+    "config:recommended"
+  ],
+  "enabledManagers": [
+    "github-actions"
+  ],
   "packageRules": [
     {
-      "matchManagers": ["github-actions"],
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"]
+      "matchManagers": [
+        "github-actions"
+      ],
+      "matchUpdateTypes": [
+        "major",
+        "minor",
+        "patch",
+        "pin",
+        "digest"
+      ]
     }
   ]
 }
