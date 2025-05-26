@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator: Attach context to logs when available](https://github.com/cilium/cilium/pull/39728) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [hubble: Use `testing.T.Context` added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/39675) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [cilium-cli: Migrate from `corev1.Endpoints` to `discoveryv1.EndpointSlice`](https://github.com/cilium/cilium/pull/39364) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -21,4 +22,3 @@
 - [aws/ENI: Only use pagination when not specifying IDs](https://github.com/cilium/cilium/pull/39120) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Fix small typos in `pkg/api` and `pkg/maps`](https://github.com/cilium/cilium/pull/39107) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [CA - AWS - Apr25 Instance Update](https://github.com/kubernetes/autoscaler/pull/8050) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (1 month ago)
-- [docs: Update `hubble-metrics` flag documentation](https://github.com/cilium/cilium/pull/38960) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
