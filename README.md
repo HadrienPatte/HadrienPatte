@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test FIPS CI](https://github.com/DataDog/cilium/pull/611) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [operator: Attach context to logs when available](https://github.com/cilium/cilium/pull/39728) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [hubble: Use `testing.T.Context` added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/39675) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -21,4 +22,3 @@
 - [Trigger golangci-lint error](https://github.com/DataDog/cilium/pull/605) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 month ago)
 - [aws/ENI: Only use pagination when not specifying IDs](https://github.com/cilium/cilium/pull/39120) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Fix small typos in `pkg/api` and `pkg/maps`](https://github.com/cilium/cilium/pull/39107) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [CA - AWS - Apr25 Instance Update](https://github.com/kubernetes/autoscaler/pull/8050) on [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) (1 month ago)
