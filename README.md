@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.12.1.4636](https://github.com/Lidarr/Lidarr/releases/tag/v2.12.1.4636), 6 days ago) - Looks and smells like Sonarr but made for music.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.12.1.4636](https://github.com/Lidarr/Lidarr/releases/tag/v2.12.1.4636), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.0), 1 week ago) - Autoscaling components for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.4](https://github.com/cilium/cilium/releases/tag/v1.17.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.0](https://github.com/zigpy/bellows/releases/tag/0.45.0), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
@@ -13,10 +13,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [logging: Update klog matching regexp](https://github.com/cilium/cilium/pull/39748) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [Test FIPS CI](https://github.com/DataDog/cilium/pull/611) on [DataDog/cilium](https://github.com/DataDog/cilium) (4 days ago)
-- [operator: Attach context to logs when available](https://github.com/cilium/cilium/pull/39728) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [logging: Update klog matching regexp](https://github.com/cilium/cilium/pull/39748) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [Test FIPS CI](https://github.com/DataDog/cilium/pull/611) on [DataDog/cilium](https://github.com/DataDog/cilium) (5 days ago)
+- [operator: Attach context to logs when available](https://github.com/cilium/cilium/pull/39728) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [hubble: Use `testing.T.Context` added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/39675) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cilium-cli: Migrate from `corev1.Endpoints` to `discoveryv1.EndpointSlice`](https://github.com/cilium/cilium/pull/39364) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
