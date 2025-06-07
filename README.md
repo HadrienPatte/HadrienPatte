@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.32.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.32.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 3 days ago) - eBPF-based Networking, Security, and Observability
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.1](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.1), 4 days ago) - Autoscaling components for Kubernetes
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.32.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.32.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.1](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.1), 5 days ago) - Autoscaling components for Kubernetes
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.12.1.4636](https://github.com/Lidarr/Lidarr/releases/tag/v2.12.1.4636), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.0](https://github.com/zigpy/bellows/releases/tag/0.45.0), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.10.7](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7), 2 months ago) - The Free Software Media System - Server Backend &amp; API
