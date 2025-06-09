@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.12.3.4654](https://github.com/Lidarr/Lidarr/releases/tag/v2.12.3.4654), 1 day ago) - Looks and smells like Sonarr but made for music.
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.12.4.4658](https://github.com/Lidarr/Lidarr/releases/tag/v2.12.4.4658), today) - Looks and smells like Sonarr but made for music.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc1](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc1), 2 days ago) - The Free Software Media System - Server Backend &amp; API
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.32.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.32.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 6 days ago) - eBPF-based Networking, Security, and Observability
