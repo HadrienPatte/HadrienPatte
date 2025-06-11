@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/39996) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update `hubble-relay` image to use a distroless base](https://github.com/DataDog/cilium/pull/613) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [build: Fix dynamic libraries in arm64 version of the cilium-builder image](https://github.com/cilium/cilium/pull/39982) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -22,4 +23,3 @@
 - [hubble: Use `testing.T.Context` added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/39675) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [cilium-cli: Migrate from `corev1.Endpoints` to `discoveryv1.EndpointSlice`](https://github.com/cilium/cilium/pull/39364) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [pkg/ipam: Migrate Subnet from net.IPNet to netip.Prefix](https://github.com/cilium/cilium/pull/39335) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
