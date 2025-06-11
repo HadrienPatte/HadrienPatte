@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update `hubble-relay` image to use a distroless base](https://github.com/DataDog/cilium/pull/613) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [build: Fix dynamic libraries in arm64 version of the cilium-builder image](https://github.com/cilium/cilium/pull/39982) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [logging: Update klog matching regexp](https://github.com/cilium/cilium/pull/39748) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -22,4 +23,3 @@
 - [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [cilium-cli: Migrate from `corev1.Endpoints` to `discoveryv1.EndpointSlice`](https://github.com/cilium/cilium/pull/39364) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [pkg/ipam: Migrate Subnet from net.IPNet to netip.Prefix](https://github.com/cilium/cilium/pull/39335) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [Enforce consistent quoting style for cilium integration](https://github.com/DataDog/integrations-core/pull/20175) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (1 month ago)
