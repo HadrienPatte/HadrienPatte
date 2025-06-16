@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add HadrienPatte to `build` and `vendor` teams](https://github.com/cilium/community/pull/252) on [cilium/community](https://github.com/cilium/community) (today)
 - [Update reviewing guide link](https://github.com/cilium/community/pull/251) on [cilium/community](https://github.com/cilium/community) (today)
 - [docs: Add cmdref for cilium-cli](https://github.com/cilium/cilium/pull/40017) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/39996) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -22,4 +23,3 @@
 - [logging: Update klog matching regexp](https://github.com/cilium/cilium/pull/39748) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Test FIPS CI](https://github.com/DataDog/cilium/pull/611) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
 - [operator: Attach context to logs when available](https://github.com/cilium/cilium/pull/39728) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [hubble: Use `testing.T.Context` added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/39675) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
