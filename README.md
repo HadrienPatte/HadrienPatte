@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make `NUSQLITE3_PATH` build arg configurable](https://github.com/advplyr/audiobookshelf/pull/4413) on [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) (today)
 - [cli: Enable `tolerations` flag for all connectivity tests](https://github.com/cilium/cilium/pull/40072) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Add HadrienPatte to `build` and `vendor` teams](https://github.com/cilium/community/pull/252) on [cilium/community](https://github.com/cilium/community) (today)
 - [Update reviewing guide link](https://github.com/cilium/community/pull/251) on [cilium/community](https://github.com/cilium/community) (today)
@@ -22,4 +23,3 @@
 - [build: Fix dynamic libraries in arm64 version of the cilium-builder image](https://github.com/cilium/cilium/pull/39982) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [logging: Update klog matching regexp](https://github.com/cilium/cilium/pull/39748) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Test FIPS CI](https://github.com/DataDog/cilium/pull/611) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
