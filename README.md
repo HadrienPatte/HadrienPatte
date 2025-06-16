@@ -4,6 +4,7 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc2](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc2), 1 day ago) - The Free Software Media System - Server Backend &amp; API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.0.4664](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.0.4664), 1 day ago) - Looks and smells like Sonarr but made for music.
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.25.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.25.1), 2 days ago) - Self-hosted audiobook and podcast server
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.33.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.33.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2940](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2940), 6 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 1 week ago) - eBPF-based Networking, Security, and Observability
