@@ -19,7 +19,7 @@ jobs:
           template: "README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@ae114628ea78fd141aa4fa7730f70c984b29c391
+      - uses: stefanzweifel/git-auto-commit-action@01d77ca6cb089da1360e540865f7d035c95aa199
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
