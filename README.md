@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/40099) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Make `NUSQLITE3_PATH` build arg configurable](https://github.com/advplyr/audiobookshelf/pull/4413) on [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) (1 day ago)
 - [cli: Enable `tolerations` flag for all connectivity tests](https://github.com/cilium/cilium/pull/40072) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Add HadrienPatte to `build` and `vendor` teams](https://github.com/cilium/community/pull/252) on [cilium/community](https://github.com/cilium/community) (1 day ago)
@@ -28,4 +29,3 @@
 - [operator: Attach context to logs when available](https://github.com/cilium/cilium/pull/39728) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [hubble: Use `testing.T.Context` added in Go 1.24 in tests](https://github.com/cilium/cilium/pull/39675) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [eni: Associate EIPs with ENIs instead of instance](https://github.com/cilium/cilium/pull/39654) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [cilium-cli: Migrate from `corev1.Endpoints` to `discoveryv1.EndpointSlice`](https://github.com/cilium/cilium/pull/39364) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
