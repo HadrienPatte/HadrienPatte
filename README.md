@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), today) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.5](https://github.com/cilium/cilium/releases/tag/v1.17.5), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc2](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc2), 5 days ago) - The Free Software Media System - Server Backend &amp; API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.0.4664](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.0.4664), 5 days ago) - Looks and smells like Sonarr but made for music.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.25.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.25.1), 6 days ago) - Self-hosted audiobook and podcast server
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.33.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.33.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2940](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2940), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.1](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.1), 2 weeks ago) - Autoscaling components for Kubernetes
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.0](https://github.com/zigpy/bellows/releases/tag/0.45.0), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
