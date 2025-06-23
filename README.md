@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [maker: Update hadolint to 2.12.0](https://github.com/cilium/image-tools/pull/337) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [cilium-cli: Standardize build args in dockerfile](https://github.com/cilium/cilium/pull/40126) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -28,4 +29,3 @@
 - [build: Fix dynamic libraries in arm64 version of the cilium-builder image](https://github.com/cilium/cilium/pull/39982) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [logging: Update klog matching regexp](https://github.com/cilium/cilium/pull/39748) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [Test FIPS CI](https://github.com/DataDog/cilium/pull/611) on [DataDog/cilium](https://github.com/DataDog/cilium) (3 weeks ago)
