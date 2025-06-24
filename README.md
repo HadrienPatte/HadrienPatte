@@ -2,6 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), today) - 
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 4 days ago) - Smart PVR for newsgroup and bittorrent users.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.5](https://github.com/cilium/cilium/releases/tag/v1.17.5), 5 days ago) - eBPF-based Networking, Security, and Observability
@@ -10,7 +11,6 @@
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.25.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.25.1), 1 week ago) - Self-hosted audiobook and podcast server
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.1](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.1), 3 weeks ago) - Autoscaling components for Kubernetes
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.0](https://github.com/zigpy/bellows/releases/tag/0.45.0), 1 month ago) - A Python 3 project to implement EZSP for EmberZNet devices
-- [canonical/chisel](https://github.com/canonical/chisel) ([v1.1.0](https://github.com/canonical/chisel/releases/tag/v1.1.0), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
