@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
@@ -28,4 +29,3 @@
 - [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/39996) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update `hubble-relay` image to use a distroless base](https://github.com/DataDog/cilium/pull/613) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
 - [build: Fix dynamic libraries in arm64 version of the cilium-builder image](https://github.com/cilium/cilium/pull/39982) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
