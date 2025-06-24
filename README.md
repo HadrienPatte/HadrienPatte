@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 3 days ago) - Smart PVR for newsgroup and bittorrent users.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.5](https://github.com/cilium/cilium/releases/tag/v1.17.5), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 4 days ago) - Smart PVR for newsgroup and bittorrent users.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.5](https://github.com/cilium/cilium/releases/tag/v1.17.5), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc2](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc2), 1 week ago) - The Free Software Media System - Server Backend &amp; API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.0.4664](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.0.4664), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.25.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.25.1), 1 week ago) - Self-hosted audiobook and podcast server
@@ -14,12 +14,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
-- [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
-- [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
-- [maker: Update hadolint to 2.12.0](https://github.com/cilium/image-tools/pull/337) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
-- [cilium-cli: Standardize build args in dockerfile](https://github.com/cilium/cilium/pull/40126) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/40099) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
+- [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
+- [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
+- [maker: Update hadolint to 2.12.0](https://github.com/cilium/image-tools/pull/337) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
+- [cilium-cli: Standardize build args in dockerfile](https://github.com/cilium/cilium/pull/40126) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/40099) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Make `NUSQLITE3_PATH` build arg configurable](https://github.com/advplyr/audiobookshelf/pull/4413) on [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) (1 week ago)
 - [cli: Enable `tolerations` flag for all connectivity tests](https://github.com/cilium/cilium/pull/40072) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Add HadrienPatte to `build` and `vendor` teams](https://github.com/cilium/community/pull/252) on [cilium/community](https://github.com/cilium/community) (1 week ago)
@@ -27,5 +27,5 @@
 - [docs: Add cmdref for cilium-cli](https://github.com/cilium/cilium/pull/40017) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/39996) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update `hubble-relay` image to use a distroless base](https://github.com/DataDog/cilium/pull/613) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
-- [build: Fix dynamic libraries in arm64 version of the cilium-builder image](https://github.com/cilium/cilium/pull/39982) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
+- [build: Fix dynamic libraries in arm64 version of the cilium-builder image](https://github.com/cilium/cilium/pull/39982) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [tls: Remove mock TLS config GetCertificate method](https://github.com/cilium/cilium/pull/39753) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
