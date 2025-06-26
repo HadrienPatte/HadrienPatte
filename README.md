@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.2](https://github.com/cilium/statedb/releases/tag/v0.4.2), 1 day ago) - In-memory state database for Go
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.3](https://github.com/cilium/statedb/releases/tag/v0.4.3), today) - In-memory state database for Go
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.1](https://github.com/zigpy/bellows/releases/tag/0.45.1), 1 day ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 2 days ago) - 
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 6 days ago) - Smart PVR for newsgroup and bittorrent users.
