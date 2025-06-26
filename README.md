@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (1 day ago)
 - [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
 - [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
@@ -29,4 +30,3 @@
 - [Update reviewing guide link](https://github.com/cilium/community/pull/251) on [cilium/community](https://github.com/cilium/community) (1 week ago)
 - [docs: Add cmdref for cilium-cli](https://github.com/cilium/cilium/pull/40017) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/39996) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Update `hubble-relay` image to use a distroless base](https://github.com/DataDog/cilium/pull/613) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
