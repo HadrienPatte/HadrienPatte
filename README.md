@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.4](https://github.com/cilium/statedb/releases/tag/v0.4.4), today) - In-memory state database for Go
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.1](https://github.com/zigpy/bellows/releases/tag/0.45.1), 1 day ago) - A Python 3 project to implement EZSP for EmberZNet devices
-- [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 2 days ago) - 
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 6 days ago) - Smart PVR for newsgroup and bittorrent users.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.4](https://github.com/cilium/statedb/releases/tag/v0.4.4), 1 day ago) - In-memory state database for Go
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.1](https://github.com/zigpy/bellows/releases/tag/0.45.1), 2 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
+- [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 3 days ago) - 
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 1 week ago) - Smart PVR for newsgroup and bittorrent users.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.5](https://github.com/cilium/cilium/releases/tag/v1.17.5), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc2](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc2), 1 week ago) - The Free Software Media System - Server Backend &amp; API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.0.4664](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.0.4664), 1 week ago) - Looks and smells like Sonarr but made for music.
@@ -15,13 +15,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (1 day ago)
-- [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
-- [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
-- [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
-- [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
-- [maker: Update hadolint to 2.12.0](https://github.com/cilium/image-tools/pull/337) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
+- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (2 days ago)
+- [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
+- [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
+- [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
+- [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
+- [maker: Update hadolint to 2.12.0](https://github.com/cilium/image-tools/pull/337) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
 - [cilium-cli: Standardize build args in dockerfile](https://github.com/cilium/cilium/pull/40126) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/40099) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Make `NUSQLITE3_PATH` build arg configurable](https://github.com/advplyr/audiobookshelf/pull/4413) on [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) (1 week ago)
