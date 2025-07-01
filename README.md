@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Update docker images development documentation](https://github.com/cilium/cilium/pull/40299) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (6 days ago)
 - [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
@@ -29,4 +30,3 @@
 - [Add HadrienPatte to `build` and `vendor` teams](https://github.com/cilium/community/pull/252) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
 - [Update reviewing guide link](https://github.com/cilium/community/pull/251) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
 - [docs: Add cmdref for cilium-cli](https://github.com/cilium/cilium/pull/40017) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/39996) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
