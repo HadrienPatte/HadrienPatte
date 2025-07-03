@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [clang-format: Remove image](https://github.com/cilium/image-tools/pull/350) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [vendor: Update `github.com/google/go-github` to v73](https://github.com/cilium/cilium/pull/40326) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [docs: Update docker images development documentation](https://github.com/cilium/cilium/pull/40299) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -29,4 +30,3 @@
 - [Make `NUSQLITE3_PATH` build arg configurable](https://github.com/advplyr/audiobookshelf/pull/4413) on [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) (2 weeks ago)
 - [cli: Enable `tolerations` flag for all connectivity tests](https://github.com/cilium/cilium/pull/40072) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Add HadrienPatte to `build` and `vendor` teams](https://github.com/cilium/community/pull/252) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
-- [Update reviewing guide link](https://github.com/cilium/community/pull/251) on [cilium/community](https://github.com/cilium/community) (2 weeks ago)
