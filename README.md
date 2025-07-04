@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [tester: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/353) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [Update image refs to use new tagging pattern](https://github.com/cilium/image-tools/pull/351) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [clang-format: Remove image](https://github.com/cilium/image-tools/pull/350) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [vendor: Update `github.com/google/go-github` to v73](https://github.com/cilium/cilium/pull/40326) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -29,4 +30,3 @@
 - [cilium-cli: Standardize build args in dockerfile](https://github.com/cilium/cilium/pull/40126) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [build: Update `iptables-wrapper` in runtime image](https://github.com/cilium/cilium/pull/40099) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Make `NUSQLITE3_PATH` build arg configurable](https://github.com/advplyr/audiobookshelf/pull/4413) on [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) (2 weeks ago)
-- [cli: Enable `tolerations` flag for all connectivity tests](https://github.com/cilium/cilium/pull/40072) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
