@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [network-perf: Optimize image build and size](https://github.com/cilium/image-tools/pull/354) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
 - [cilium-cli: Update default network-perf image](https://github.com/cilium/cilium/pull/40376) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [tester: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/353) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
@@ -29,4 +30,3 @@
 - [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [maker: Update hadolint to 2.12.0](https://github.com/cilium/image-tools/pull/337) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [cilium-cli: Standardize build args in dockerfile](https://github.com/cilium/cilium/pull/40126) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
