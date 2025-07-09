@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Remove duplicate `make lint` runs](https://github.com/cilium/image-tools/pull/358) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [network-perf: Optimize image build and size](https://github.com/cilium/image-tools/pull/354) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
 - [cilium-cli: Update default network-perf image](https://github.com/cilium/cilium/pull/40376) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -29,4 +30,3 @@
 - [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [ci: Build all images in parallel](https://github.com/cilium/image-tools/pull/338) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [maker: Update hadolint to 2.12.0](https://github.com/cilium/image-tools/pull/337) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
