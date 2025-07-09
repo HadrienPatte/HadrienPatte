@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.47.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.47.0), 1 day ago) - Autoscaling components for Kubernetes
-- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.2](https://github.com/zigpy/bellows/releases/tag/0.45.2), 6 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.47.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.47.0), 2 days ago) - Autoscaling components for Kubernetes
+- [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.2](https://github.com/zigpy/bellows/releases/tag/0.45.2), 1 week ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.3.9](https://github.com/cilium/statedb/releases/tag/v0.3.9), 1 week ago) - In-memory state database for Go
@@ -15,16 +15,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [network-perf: Optimize image build and size](https://github.com/cilium/image-tools/pull/354) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
-- [cilium-cli: Update default network-perf image](https://github.com/cilium/cilium/pull/40376) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [tester: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/353) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
-- [Update image refs to use new tagging pattern](https://github.com/cilium/image-tools/pull/351) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
-- [clang-format: Remove image](https://github.com/cilium/image-tools/pull/350) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
-- [vendor: Update `github.com/google/go-github` to v73](https://github.com/cilium/cilium/pull/40326) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [network-perf: Optimize image build and size](https://github.com/cilium/image-tools/pull/354) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
+- [cilium-cli: Update default network-perf image](https://github.com/cilium/cilium/pull/40376) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [tester: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/353) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
+- [Update image refs to use new tagging pattern](https://github.com/cilium/image-tools/pull/351) on [cilium/image-tools](https://github.com/cilium/image-tools) (6 days ago)
+- [clang-format: Remove image](https://github.com/cilium/image-tools/pull/350) on [cilium/image-tools](https://github.com/cilium/image-tools) (6 days ago)
+- [vendor: Update `github.com/google/go-github` to v73](https://github.com/cilium/cilium/pull/40326) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [docs: Update docker images development documentation](https://github.com/cilium/cilium/pull/40299) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (1 week ago)
+- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (2 weeks ago)
 - [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
