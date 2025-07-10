@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Disable 1.16 branch scheduled builds](https://github.com/DataDog/cilium/pull/615) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [renovate: Group base images updates](https://github.com/cilium/image-tools/pull/359) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [ci: Remove duplicate `make lint` runs](https://github.com/cilium/image-tools/pull/358) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -29,4 +30,3 @@
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (2 weeks ago)
 - [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [clang-format: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/340) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [bpftool: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/339) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
