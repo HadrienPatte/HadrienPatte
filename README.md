@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [tester: Remove deprecated `ioutil` usage](https://github.com/cilium/image-tools/pull/363) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [build: Only copy `bpftool` binary from bpftool image](https://github.com/cilium/cilium/pull/40469) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Disable 1.16 branch scheduled builds](https://github.com/DataDog/cilium/pull/615) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
 - [renovate: Group base images updates](https://github.com/cilium/image-tools/pull/359) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
@@ -29,4 +30,3 @@
 - [docs: Update docker images development documentation](https://github.com/cilium/cilium/pull/40299) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (2 weeks ago)
-- [llvm: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/343) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
