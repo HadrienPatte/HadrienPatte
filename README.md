@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Enforce docker build checks](https://github.com/cilium/cilium/pull/40528) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [tester: Remove deprecated `ioutil` usage](https://github.com/cilium/image-tools/pull/363) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
 - [build: Only copy `bpftool` binary from bpftool image](https://github.com/cilium/cilium/pull/40469) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [Disable 1.16 branch scheduled builds](https://github.com/DataDog/cilium/pull/615) on [DataDog/cilium](https://github.com/DataDog/cilium) (5 days ago)
@@ -29,4 +30,3 @@
 - [vendor: Update `github.com/google/go-github` to v73](https://github.com/cilium/cilium/pull/40326) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [docs: Update docker images development documentation](https://github.com/cilium/cilium/pull/40299) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/cilium/pull/40224) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [deps: Replace `gopkg.in/yaml.v3` with `go.yaml.in/yaml/v3`](https://github.com/cilium/statedb/pull/88) on [cilium/statedb](https://github.com/cilium/statedb) (2 weeks ago)
