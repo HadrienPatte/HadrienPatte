@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.37.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.37.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.26.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.26.1), 4 days ago) - Self-hosted audiobook and podcast server
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.6](https://github.com/cilium/cilium/releases/tag/v1.17.6), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.37.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.37.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.26.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.26.1), 5 days ago) - Self-hosted audiobook and podcast server
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.6](https://github.com/cilium/cilium/releases/tag/v1.17.6), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc3](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc3), 1 week ago) - The Free Software Media System - Server Backend &amp; API
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.48.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.48.0), 1 week ago) - Autoscaling components for Kubernetes
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.2](https://github.com/zigpy/bellows/releases/tag/0.45.2), 2 weeks ago) - A Python 3 project to implement EZSP for EmberZNet devices
@@ -15,8 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bpftool: make the `bpftool` binary static](https://github.com/cilium/image-tools/pull/366) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
-- [build: Enforce docker build checks](https://github.com/cilium/cilium/pull/40528) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [bpftool: make the `bpftool` binary static](https://github.com/cilium/image-tools/pull/366) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
+- [build: Enforce docker build checks](https://github.com/cilium/cilium/pull/40528) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [tester: Remove deprecated `ioutil` usage](https://github.com/cilium/image-tools/pull/363) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [build: Only copy `bpftool` binary from bpftool image](https://github.com/cilium/cilium/pull/40469) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Disable 1.16 branch scheduled builds](https://github.com/DataDog/cilium/pull/615) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
