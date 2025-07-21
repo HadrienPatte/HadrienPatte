@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.26.2](https://github.com/advplyr/audiobookshelf/releases/tag/v2.26.2), today) - Self-hosted audiobook and podcast server
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.37.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.37.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.26.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.26.1), 5 days ago) - Self-hosted audiobook and podcast server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.6](https://github.com/cilium/cilium/releases/tag/v1.17.6), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc3](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc3), 1 week ago) - The Free Software Media System - Server Backend &amp; API
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.48.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.48.0), 1 week ago) - Autoscaling components for Kubernetes
