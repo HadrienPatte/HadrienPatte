@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Don&#39;t include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [vendor: Prevent renovate from updating gobgp dependency](https://github.com/cilium/cilium/pull/40612) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [bpftool: make the `bpftool` binary static](https://github.com/cilium/image-tools/pull/366) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
 - [build: Enforce docker build checks](https://github.com/cilium/cilium/pull/40528) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -29,4 +30,3 @@
 - [tester: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/353) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [Update image refs to use new tagging pattern](https://github.com/cilium/image-tools/pull/351) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [clang-format: Remove image](https://github.com/cilium/image-tools/pull/350) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [vendor: Update `github.com/google/go-github` to v73](https://github.com/cilium/cilium/pull/40326) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
