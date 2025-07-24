@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update README and enable `s390x` builds](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [aws/eni: Don&#39;t use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [build: Don&#39;t include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [vendor: Prevent renovate from updating gobgp dependency](https://github.com/cilium/cilium/pull/40612) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -29,4 +30,3 @@
 - [network-perf: Optimize image build and size](https://github.com/cilium/image-tools/pull/354) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [cilium-cli: Update default network-perf image](https://github.com/cilium/cilium/pull/40376) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [tester: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/353) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [Update image refs to use new tagging pattern](https://github.com/cilium/image-tools/pull/351) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
