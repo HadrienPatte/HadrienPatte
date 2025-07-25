@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [vendor: Update Azure SDK `armcompute` module to v7](https://github.com/cilium/cilium/pull/40718) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cilium-cli: Optimize features detection](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update README and enable `s390x` builds](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
@@ -29,4 +30,3 @@
 - [renovate: Group base images updates](https://github.com/cilium/image-tools/pull/359) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [ci: Remove duplicate `make lint` runs](https://github.com/cilium/image-tools/pull/358) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [network-perf: Optimize image build and size](https://github.com/cilium/image-tools/pull/354) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
