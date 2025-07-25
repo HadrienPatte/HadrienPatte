@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update README and enable `s390x` builds](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [aws/eni: Don&#39;t use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [build: Don&#39;t include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -29,4 +30,3 @@
 - [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [network-perf: Optimize image build and size](https://github.com/cilium/image-tools/pull/354) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [cilium-cli: Update default network-perf image](https://github.com/cilium/cilium/pull/40376) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [tester: Only compile for the relevant platform](https://github.com/cilium/image-tools/pull/353) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
