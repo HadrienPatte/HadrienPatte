@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix misc typos](https://github.com/cilium/cilium/pull/40769) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [vendor: Update Azure SDK `armcompute` module to v7](https://github.com/cilium/cilium/pull/40718) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [cilium-cli: Optimize features detection](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -29,4 +30,3 @@
 - [Disable 1.16 branch scheduled builds](https://github.com/DataDog/cilium/pull/615) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
 - [renovate: Group base images updates](https://github.com/cilium/image-tools/pull/359) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [ci: Remove duplicate `make lint` runs](https://github.com/cilium/image-tools/pull/358) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [build: Update `compilers` and `tester` base images](https://github.com/cilium/cilium/pull/40422) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
