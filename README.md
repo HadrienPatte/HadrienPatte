@@ -19,7 +19,7 @@
 - [llvm: Build optimized and static binaries](https://github.com/cilium/image-tools/pull/368) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [Fix misc typos](https://github.com/cilium/cilium/pull/40769) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [vendor: Update Azure SDK `armcompute` module to v7](https://github.com/cilium/cilium/pull/40718) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [cilium-cli: Optimize features detection](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [cilium-cli: Optimized feature detection by running cluster-wide checks once](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [Update README and enable `s390x` builds](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
 - [aws/eni: Don&#39;t use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
