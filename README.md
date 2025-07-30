@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add renovate custom regex manager to tool updates](https://github.com/cilium/image-tools/pull/369) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [Update API versions in instance-metadata-service documentation](https://github.com/MicrosoftDocs/azure-compute-docs/pull/289) on [MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs) (1 day ago)
 - [llvm: Build optimized and static binaries](https://github.com/cilium/image-tools/pull/368) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
 - [Fix misc typos](https://github.com/cilium/cilium/pull/40769) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -29,4 +30,3 @@
 - [build: Enforce docker build checks](https://github.com/cilium/cilium/pull/40528) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [tester: Remove deprecated `ioutil` usage](https://github.com/cilium/image-tools/pull/363) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [build: Only copy `bpftool` binary from bpftool image](https://github.com/cilium/cilium/pull/40469) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Disable 1.16 branch scheduled builds](https://github.com/DataDog/cilium/pull/615) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
