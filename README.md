@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), today) - Terraform provider for Azure Resource Manager
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.32.2](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.2), 1 day ago) - Autoscaling components for Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.3](https://github.com/zigpy/bellows/releases/tag/0.45.3), 1 day ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.5](https://github.com/cilium/statedb/releases/tag/v0.4.5), 2 days ago) - In-memory state database for Go
