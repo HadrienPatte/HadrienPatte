@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Update `iptables` to `1.8.10`](https://github.com/cilium/cilium/pull/40842) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Add renovate custom regex manager to tool updates](https://github.com/cilium/image-tools/pull/369) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [Update API versions in instance-metadata-service documentation](https://github.com/MicrosoftDocs/azure-compute-docs/pull/289) on [MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs) (2 days ago)
 - [llvm: Build optimized and static binaries](https://github.com/cilium/image-tools/pull/368) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
@@ -29,4 +30,3 @@
 - [bpftool: make the `bpftool` binary static](https://github.com/cilium/image-tools/pull/366) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [build: Enforce docker build checks](https://github.com/cilium/cilium/pull/40528) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [tester: Remove deprecated `ioutil` usage](https://github.com/cilium/image-tools/pull/363) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [build: Only copy `bpftool` binary from bpftool image](https://github.com/cilium/cilium/pull/40469) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
