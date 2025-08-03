@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [renovate: Fix go-github exclusion rule](https://github.com/cilium/cilium/pull/40911) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [llvm: Switch from git clone to archive curl](https://github.com/cilium/image-tools/pull/370) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
 - [build: Update `iptables` to `1.8.10`](https://github.com/cilium/cilium/pull/40842) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [Add renovate custom regex manager to tool updates](https://github.com/cilium/image-tools/pull/369) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
@@ -29,4 +30,3 @@
 - [build: Don&#39;t include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [vendor: Prevent renovate from updating gobgp dependency](https://github.com/cilium/cilium/pull/40612) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [bpftool: make the `bpftool` binary static](https://github.com/cilium/image-tools/pull/366) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [build: Enforce docker build checks](https://github.com/cilium/cilium/pull/40528) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
