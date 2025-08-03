@@ -2,6 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.1.4681](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.1.4681), today) - Looks and smells like Sonarr but made for music.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.27.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.27.0), 1 day ago) - Self-hosted audiobook and podcast server
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.32.2](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.2), 4 days ago) - Autoscaling components for Kubernetes
@@ -11,7 +12,6 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc3](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc3), 3 weeks ago) - The Free Software Media System - Server Backend &amp; API
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 1 month ago) - 
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 1 month ago) - Smart PVR for newsgroup and bittorrent users.
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.0.4664](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.0.4664), 1 month ago) - Looks and smells like Sonarr but made for music.
 
 #### 🔨 My recent Pull Requests
 
