@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.49.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.49.0), today) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc4](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc4), 1 day ago) - The Free Software Media System - Server Backend &amp; API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.1.4681](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.1.4681), 1 day ago) - Looks and smells like Sonarr but made for music.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.27.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.27.0), 2 days ago) - Self-hosted audiobook and podcast server
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 4 days ago) - Terraform provider for Azure Resource Manager
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.32.2](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.2), 5 days ago) - Autoscaling components for Kubernetes
 - [zigpy/bellows](https://github.com/zigpy/bellows) ([0.45.3](https://github.com/zigpy/bellows/releases/tag/0.45.3), 5 days ago) - A Python 3 project to implement EZSP for EmberZNet devices
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.5](https://github.com/cilium/statedb/releases/tag/v0.4.5), 6 days ago) - In-memory state database for Go
