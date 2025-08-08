@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [datapath: Use go 1.23 timers](https://github.com/cilium/cilium/pull/41040) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [renovate: Fix go-github exclusion rule](https://github.com/cilium/cilium/pull/40911) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [llvm: Switch from git clone to archive curl](https://github.com/cilium/image-tools/pull/370) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [build: Update `iptables` to `1.8.10`](https://github.com/cilium/cilium/pull/40842) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -28,4 +29,3 @@
 - [aws/eni: Don&#39;t use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [build: Don&#39;t include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [vendor: Prevent renovate from updating gobgp dependency](https://github.com/cilium/cilium/pull/40612) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [bpftool: make the `bpftool` binary static](https://github.com/cilium/image-tools/pull/366) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
