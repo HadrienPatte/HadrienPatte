@@ -25,7 +25,7 @@
 - [vendor: Update Azure SDK `armcompute` module to v7](https://github.com/cilium/cilium/pull/40718) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Optimized feature detection by running cluster-wide checks once](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Update README and enable `s390x` builds](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
+- [Update images documentation](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [aws/eni: Don't use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [build: Don't include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [vendor: Prevent renovate from updating gobgp dependency](https://github.com/cilium/cilium/pull/40612) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
