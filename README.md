@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.50.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.50.0), today) - Autoscaling components for Kubernetes
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.28.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.28.0), 1 day ago) - Self-hosted audiobook and podcast server
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.0](https://github.com/cilium/statedb/releases/tag/v0.5.0), 4 days ago) - In-memory state database for Go
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.49.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.49.0), 1 week ago) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc4](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc4), 1 week ago) - The Free Software Media System - Server Backend & API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.1.4681](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.1.4681), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 1 week ago) - eBPF-based Networking, Security, and Observability
