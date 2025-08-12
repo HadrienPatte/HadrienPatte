@@ -2,30 +2,30 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.50.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.50.0), today) - Autoscaling components for Kubernetes
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.28.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.28.0), 1 day ago) - Self-hosted audiobook and podcast server
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.0](https://github.com/cilium/statedb/releases/tag/v0.5.0), 4 days ago) - In-memory state database for Go
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.50.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.50.0), 1 day ago) - Autoscaling components for Kubernetes
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.28.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.28.0), 2 days ago) - Self-hosted audiobook and podcast server
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.0](https://github.com/cilium/statedb/releases/tag/v0.5.0), 5 days ago) - In-memory state database for Go
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc4](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc4), 1 week ago) - The Free Software Media System - Server Backend & API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.1.4681](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.1.4681), 1 week ago) - Looks and smells like Sonarr but made for music.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 1 month ago) - 
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 1 month ago) - Smart PVR for newsgroup and bittorrent users.
 
 #### 🔨 My recent Pull Requests
 
-- [datapath: Use go 1.23 timers](https://github.com/cilium/cilium/pull/41040) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [datapath: Use go 1.23 timers](https://github.com/cilium/cilium/pull/41040) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [renovate: Fix go-github exclusion rule](https://github.com/cilium/cilium/pull/40911) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [llvm: Switch from git clone to archive curl](https://github.com/cilium/image-tools/pull/370) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [build: Update `iptables` to `1.8.10`](https://github.com/cilium/cilium/pull/40842) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Add renovate custom regex manager to tool updates](https://github.com/cilium/image-tools/pull/369) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
-- [Update API versions in instance-metadata-service documentation](https://github.com/MicrosoftDocs/azure-compute-docs/pull/289) on [MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs) (1 week ago)
+- [Update API versions in instance-metadata-service documentation](https://github.com/MicrosoftDocs/azure-compute-docs/pull/289) on [MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs) (2 weeks ago)
 - [llvm: Build optimized and static binaries](https://github.com/cilium/image-tools/pull/368) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [Fix misc typos](https://github.com/cilium/cilium/pull/40769) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [vendor: Update Azure SDK `armcompute` module to v7](https://github.com/cilium/cilium/pull/40718) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Optimized feature detection by running cluster-wide checks once](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Update images documentation](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [aws/eni: Don't use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [build: Don't include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [aws/eni: Don't use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
+- [build: Don't include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [vendor: Prevent renovate from updating gobgp dependency](https://github.com/cilium/cilium/pull/40612) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
