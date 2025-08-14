@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Include hubble CLI directory in cilium container directories](https://github.com/cilium/cilium/pull/41159) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [datapath: Use go 1.23 timers](https://github.com/cilium/cilium/pull/41040) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [renovate: Fix go-github exclusion rule](https://github.com/cilium/cilium/pull/40911) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [llvm: Switch from git clone to archive curl](https://github.com/cilium/image-tools/pull/370) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
@@ -28,4 +29,3 @@
 - [Update images documentation](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [aws/eni: Don't use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [build: Don't include `bpf` test files in cilium image](https://github.com/cilium/cilium/pull/40634) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [vendor: Prevent renovate from updating gobgp dependency](https://github.com/cilium/cilium/pull/40612) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
