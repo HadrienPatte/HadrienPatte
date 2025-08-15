@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update `sharedInformerFactoryInterface` context initialization example](https://github.com/kubernetes/kubernetes/pull/133572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [images: Only build `gops` for the relevant platform](https://github.com/cilium/cilium/pull/41160) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [build: Include hubble CLI directory in cilium container directories](https://github.com/cilium/cilium/pull/41159) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [datapath: Use go 1.23 timers](https://github.com/cilium/cilium/pull/41040) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -28,4 +29,3 @@
 - [cilium-cli: Optimized feature detection by running cluster-wide checks once](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Update images documentation](https://github.com/cilium/image-tools/pull/367) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
-- [aws/eni: Don't use subnet tags to filter ENIs for GC](https://github.com/cilium/cilium/pull/40656) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
