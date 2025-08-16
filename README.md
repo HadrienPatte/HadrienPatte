@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.1](https://github.com/cilium/cilium/releases/tag/v1.18.1), today) - eBPF-based Networking, Security, and Observability
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.50.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.50.1), 1 day ago) - Autoscaling components for Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc5](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc5), 2 days ago) - The Free Software Media System - Server Backend & API
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.28.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.28.0), 5 days ago) - Self-hosted audiobook and podcast server
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.1](https://github.com/cilium/cilium/releases/tag/v1.18.1), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.50.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.50.1), 2 days ago) - Autoscaling components for Kubernetes
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc5](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc5), 3 days ago) - The Free Software Media System - Server Backend & API
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.28.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.28.0), 6 days ago) - Self-hosted audiobook and podcast server
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.0](https://github.com/cilium/statedb/releases/tag/v0.5.0), 1 week ago) - In-memory state database for Go
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.13.1.4681](https://github.com/Lidarr/Lidarr/releases/tag/v2.13.1.4681), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 1 month ago) - 
@@ -14,9 +14,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update `sharedInformerFactoryInterface` context initialization example](https://github.com/kubernetes/kubernetes/pull/133572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [images: Only build `gops` for the relevant platform](https://github.com/cilium/cilium/pull/41160) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [build: Include hubble CLI directory in cilium container directories](https://github.com/cilium/cilium/pull/41159) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Update `sharedInformerFactoryInterface` context initialization example](https://github.com/kubernetes/kubernetes/pull/133572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [images: Only build `gops` for the relevant platform](https://github.com/cilium/cilium/pull/41160) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [build: Include hubble CLI directory in cilium container directories](https://github.com/cilium/cilium/pull/41159) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [datapath: Use go 1.23 timers](https://github.com/cilium/cilium/pull/41040) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [renovate: Fix go-github exclusion rule](https://github.com/cilium/cilium/pull/40911) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [llvm: Switch from git clone to archive curl](https://github.com/cilium/image-tools/pull/370) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
