@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [renovate: Rebase if `dont-merge/needs-rebase` label is set](https://github.com/cilium/cilium/pull/41271) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [renovate: Allow updates of images from the `image-tools` repo](https://github.com/cilium/cilium/pull/41230) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [Update `sharedInformerFactoryInterface` context initialization example](https://github.com/kubernetes/kubernetes/pull/133572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [images: Only build `gops` for the relevant platform](https://github.com/cilium/cilium/pull/41160) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -28,4 +29,3 @@
 - [Fix misc typos](https://github.com/cilium/cilium/pull/40769) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [vendor: Update Azure SDK `armcompute` module to v7](https://github.com/cilium/cilium/pull/40718) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [cilium-cli: Optimized feature detection by running cluster-wide checks once](https://github.com/cilium/cilium/pull/40715) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [cilium-cli: Use slim k8s packages for connectivity tests](https://github.com/cilium/cilium/pull/40708) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
