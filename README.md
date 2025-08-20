@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [metrics: skip health metrics collection when healthchecking is disabled](https://github.com/cilium/cilium/pull/41297) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Prevent `cilium-dbg` from panicing when `/sys` is not mounted](https://github.com/cilium/cilium/pull/41287) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [renovate: Rebase if `dont-merge/needs-rebase` label is set](https://github.com/cilium/cilium/pull/41271) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [renovate: Allow updates of images from the `image-tools` repo](https://github.com/cilium/cilium/pull/41230) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -28,4 +29,3 @@
 - [Update API versions in instance-metadata-service documentation](https://github.com/MicrosoftDocs/azure-compute-docs/pull/289) on [MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs) (3 weeks ago)
 - [llvm: Build optimized and static binaries](https://github.com/cilium/image-tools/pull/368) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [Fix misc typos](https://github.com/cilium/cilium/pull/40769) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [vendor: Update Azure SDK `armcompute` module to v7](https://github.com/cilium/cilium/pull/40718) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
