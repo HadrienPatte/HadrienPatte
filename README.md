@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [checkpatch: Update image digest](https://github.com/cilium/cilium/pull/41360) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [images: Update `bpftools` and `llvm` images](https://github.com/cilium/cilium/pull/41339) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [tester: Update docker/docker module to `v28.3.3`](https://github.com/cilium/image-tools/pull/383) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
 - [Remove test for missing `splitImagePath` function](https://github.com/GoogleContainerTools/container-structure-test/pull/509) on [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) (2 days ago)
@@ -28,4 +29,3 @@
 - [renovate: Fix go-github exclusion rule](https://github.com/cilium/cilium/pull/40911) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [llvm: Switch from git clone to archive curl](https://github.com/cilium/image-tools/pull/370) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [build: Update `iptables` to `1.8.10`](https://github.com/cilium/cilium/pull/40842) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [Add renovate custom regex manager to tool updates](https://github.com/cilium/image-tools/pull/369) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
