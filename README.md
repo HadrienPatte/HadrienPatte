@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.0.4694](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.0.4694), today) - Looks and smells like Sonarr but made for music.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.0.4694](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.0.4694), 1 day ago) - Looks and smells like Sonarr but made for music.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.1](https://github.com/cilium/cilium/releases/tag/v1.18.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.50.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.50.1), 1 week ago) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc5](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc5), 1 week ago) - The Free Software Media System - Server Backend & API
@@ -14,13 +14,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [checkpatch: Update image digest](https://github.com/cilium/cilium/pull/41360) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [images: Update `bpftools` and `llvm` images](https://github.com/cilium/cilium/pull/41339) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [tester: Update docker/docker module to `v28.3.3`](https://github.com/cilium/image-tools/pull/383) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
-- [Remove test for missing `splitImagePath` function](https://github.com/GoogleContainerTools/container-structure-test/pull/509) on [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) (2 days ago)
-- [metrics: skip health metrics collection when healthchecking is disabled](https://github.com/cilium/cilium/pull/41297) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [Prevent `cilium-dbg` from panicing when `/sys` is not mounted](https://github.com/cilium/cilium/pull/41287) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [renovate: Rebase if `dont-merge/needs-rebase` label is set](https://github.com/cilium/cilium/pull/41271) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [checkpatch: Update image digest](https://github.com/cilium/cilium/pull/41360) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [images: Update `bpftools` and `llvm` images](https://github.com/cilium/cilium/pull/41339) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [tester: Update docker/docker module to `v28.3.3`](https://github.com/cilium/image-tools/pull/383) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
+- [Remove test for missing `splitImagePath` function](https://github.com/GoogleContainerTools/container-structure-test/pull/509) on [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) (3 days ago)
+- [metrics: skip health metrics collection when healthchecking is disabled](https://github.com/cilium/cilium/pull/41297) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [Prevent `cilium-dbg` from panicing when `/sys` is not mounted](https://github.com/cilium/cilium/pull/41287) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [renovate: Rebase if `dont-merge/needs-rebase` label is set](https://github.com/cilium/cilium/pull/41271) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [renovate: Allow updates of images from the `image-tools` repo](https://github.com/cilium/cilium/pull/41230) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update `sharedInformerFactoryInterface` context initialization example](https://github.com/kubernetes/kubernetes/pull/133572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [images: Only build `gops` for the relevant platform](https://github.com/cilium/cilium/pull/41160) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
