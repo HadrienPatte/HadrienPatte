@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Add new IAM permissions requirements to upgrade notes](https://github.com/cilium/cilium/pull/41374) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Enable 1.18 branch scheduled builds](https://github.com/DataDog/cilium/pull/623) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [checkpatch: Update image digest](https://github.com/cilium/cilium/pull/41360) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [images: Update `bpftools` and `llvm` images](https://github.com/cilium/cilium/pull/41339) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -28,4 +29,3 @@
 - [build: Include hubble CLI directory in cilium container directories](https://github.com/cilium/cilium/pull/41159) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [datapath: Use go 1.23 timers](https://github.com/cilium/cilium/pull/41040) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Fix go-github exclusion rule](https://github.com/cilium/cilium/pull/40911) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [llvm: Switch from git clone to archive curl](https://github.com/cilium/image-tools/pull/370) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
