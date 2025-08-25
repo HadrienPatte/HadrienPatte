@@ -2,12 +2,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), today) - Self-hosted audiobook and podcast server
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.0.4694](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.0.4694), 1 day ago) - Looks and smells like Sonarr but made for music.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.1](https://github.com/cilium/cilium/releases/tag/v1.18.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.50.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.50.1), 1 week ago) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc5](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc5), 1 week ago) - The Free Software Media System - Server Backend & API
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.28.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.28.0), 2 weeks ago) - Self-hosted audiobook and podcast server
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.0](https://github.com/cilium/statedb/releases/tag/v0.5.0), 2 weeks ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 2 months ago) - 
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 2 months ago) - Smart PVR for newsgroup and bittorrent users.
