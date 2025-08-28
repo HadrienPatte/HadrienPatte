@@ -2,6 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 3 days ago) - Self-hosted audiobook and podcast server
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.0.4694](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.0.4694), 4 days ago) - Looks and smells like Sonarr but made for music.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 1 week ago) - Terraform provider for Azure Resource Manager
