@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add job to build a nydus version of the `cilium` image](https://github.com/DataDog/cilium/pull/624) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [ipam/aws: Use common `set` package](https://github.com/cilium/cilium/pull/41480) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [shell: Prevent server error on graceful shutdown](https://github.com/cilium/cilium/pull/41401) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix docker credentials setup in CI](https://github.com/cilium/image-tools/pull/386) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
@@ -29,4 +30,3 @@
 - [renovate: Rebase if `dont-merge/needs-rebase` label is set](https://github.com/cilium/cilium/pull/41271) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Allow updates of images from the `image-tools` repo](https://github.com/cilium/cilium/pull/41230) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Update `sharedInformerFactoryInterface` context initialization example](https://github.com/kubernetes/kubernetes/pull/133572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-- [images: Only build `gops` for the relevant platform](https://github.com/cilium/cilium/pull/41160) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
