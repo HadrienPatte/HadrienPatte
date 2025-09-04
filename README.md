@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nydusify all images](https://github.com/DataDog/cilium/pull/625) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [Add job to build a nydus version of the `cilium` image](https://github.com/DataDog/cilium/pull/624) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
 - [ipam/aws: Use common `set` package](https://github.com/cilium/cilium/pull/41480) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [shell: Prevent server error on graceful shutdown](https://github.com/cilium/cilium/pull/41401) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -29,4 +30,3 @@
 - [Prevent `cilium-dbg` from panicing when `/sys` is not mounted](https://github.com/cilium/cilium/pull/41287) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Rebase if `dont-merge/needs-rebase` label is set](https://github.com/cilium/cilium/pull/41271) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Allow updates of images from the `image-tools` repo](https://github.com/cilium/cilium/pull/41230) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Update `sharedInformerFactoryInterface` context initialization example](https://github.com/kubernetes/kubernetes/pull/133572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
