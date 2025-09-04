@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), today) - Terraform provider for Azure Resource Manager
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 1 day ago) - Autoscaling components for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.0), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4714](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4714), 4 days ago) - Looks and smells like Sonarr but made for music.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.42.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.42.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc5](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc5), 3 weeks ago) - The Free Software Media System - Server Backend & API
