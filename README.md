@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), today) - Terraform provider for Azure Resource Manager
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 1 day ago) - Autoscaling components for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.0), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4714](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4714), 4 days ago) - Looks and smells like Sonarr but made for music.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 2 days ago) - Autoscaling components for Kubernetes
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.0), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4714](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4714), 5 days ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc5](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc5), 3 weeks ago) - The Free Software Media System - Server Backend & API
@@ -15,18 +15,18 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update client-go compatibility matrix to include releases up to 1.34](https://github.com/kubernetes/kubernetes/pull/133898) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [Nydusify all images](https://github.com/DataDog/cilium/pull/625) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
-- [Add job to build a nydus version of the `cilium` image](https://github.com/DataDog/cilium/pull/624) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
-- [ipam/aws: Use common `set` package](https://github.com/cilium/cilium/pull/41480) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [Update client-go compatibility matrix to include releases up to 1.34](https://github.com/kubernetes/kubernetes/pull/133898) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [Nydusify all images](https://github.com/DataDog/cilium/pull/625) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
+- [Add job to build a nydus version of the `cilium` image](https://github.com/DataDog/cilium/pull/624) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 days ago)
+- [ipam/aws: Use common `set` package](https://github.com/cilium/cilium/pull/41480) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [shell: Prevent server error on graceful shutdown](https://github.com/cilium/cilium/pull/41401) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix docker credentials setup in CI](https://github.com/cilium/image-tools/pull/386) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [docs: Add new IAM permissions requirements to upgrade notes](https://github.com/cilium/cilium/pull/41374) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Enable 1.18 branch scheduled builds](https://github.com/DataDog/cilium/pull/623) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
 - [checkpatch: Update image digest](https://github.com/cilium/cilium/pull/41360) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [images: Update `bpftools` and `llvm` images](https://github.com/cilium/cilium/pull/41339) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [tester: Update docker/docker module to `v28.3.3`](https://github.com/cilium/image-tools/pull/383) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
-- [Remove test for missing `splitImagePath` function](https://github.com/GoogleContainerTools/container-structure-test/pull/509) on [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) (1 week ago)
+- [tester: Update docker/docker module to `v28.3.3`](https://github.com/cilium/image-tools/pull/383) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
+- [Remove test for missing `splitImagePath` function](https://github.com/GoogleContainerTools/container-structure-test/pull/509) on [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) (2 weeks ago)
 - [metrics: skip health metrics collection when healthchecking is disabled](https://github.com/cilium/cilium/pull/41297) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Prevent `cilium-dbg` from panicing when `/sys` is not mounted](https://github.com/cilium/cilium/pull/41287) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Rebase if `dont-merge/needs-rebase` label is set](https://github.com/cilium/cilium/pull/41271) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
