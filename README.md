@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4755](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4755), today) - Looks and smells like Sonarr but made for music.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 4 days ago) - Autoscaling components for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.0), 4 days ago) - eBPF-based Networking, Security, and Observability
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4714](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4714), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc5](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc5), 3 weeks ago) - The Free Software Media System - Server Backend & API
