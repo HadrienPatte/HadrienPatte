@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium-cli: Prevent panic in `node-to-node-encryption` connectivity test](https://github.com/cilium/cilium/pull/41600) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Replace `reflect.Ptr` with `reflect.Pointer`](https://github.com/yaml/go-yaml/pull/102) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (4 days ago)
 - [Update client-go compatibility matrix to include releases up to 1.34](https://github.com/kubernetes/kubernetes/pull/133898) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [Nydusify all images](https://github.com/DataDog/cilium/pull/625) on [DataDog/cilium](https://github.com/DataDog/cilium) (5 days ago)
@@ -28,4 +29,3 @@
 - [tester: Update docker/docker module to `v28.3.3`](https://github.com/cilium/image-tools/pull/383) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [Remove test for missing `splitImagePath` function](https://github.com/GoogleContainerTools/container-structure-test/pull/509) on [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) (2 weeks ago)
 - [metrics: skip health metrics collection when healthchecking is disabled](https://github.com/cilium/cilium/pull/41297) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Prevent `cilium-dbg` from panicing when `/sys` is not mounted](https://github.com/cilium/cilium/pull/41287) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
