@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.5), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), today) - Production-Grade Container Scheduling and Management
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4755](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4755), 3 days ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 1 week ago) - Autoscaling components for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.0), 1 week ago) - eBPF-based Networking, Security, and Observability
