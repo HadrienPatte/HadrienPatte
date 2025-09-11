@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Remove unused `.dockerignore` files](https://github.com/cilium/cilium/pull/41629) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Test: do not merge](https://github.com/cilium/cilium/pull/41617) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Add options system](https://github.com/yaml/go-yaml/pull/110) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (2 days ago)
 - [cilium-cli: Prevent panic in `node-to-node-encryption` connectivity test](https://github.com/cilium/cilium/pull/41600) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -29,4 +30,3 @@
 - [Enable 1.18 branch scheduled builds](https://github.com/DataDog/cilium/pull/623) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
 - [checkpatch: Update image digest](https://github.com/cilium/cilium/pull/41360) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [images: Update `bpftools` and `llvm` images](https://github.com/cilium/cilium/pull/41339) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [tester: Update docker/docker module to `v28.3.3`](https://github.com/cilium/image-tools/pull/383) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
