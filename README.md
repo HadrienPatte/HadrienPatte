@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), today) - Production-Grade Container Scheduling and Management
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4755](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4755), 3 days ago) - Looks and smells like Sonarr but made for music.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 1 day ago) - Production-Grade Container Scheduling and Management
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4755](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4755), 4 days ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 1 week ago) - Autoscaling components for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 2 weeks ago) - Self-hosted audiobook and podcast server
@@ -14,12 +14,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Test: do not merge](https://github.com/cilium/cilium/pull/41617) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [Add options system](https://github.com/yaml/go-yaml/pull/110) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (1 day ago)
-- [cilium-cli: Prevent panic in `node-to-node-encryption` connectivity test](https://github.com/cilium/cilium/pull/41600) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [Replace `reflect.Ptr` with `reflect.Pointer`](https://github.com/yaml/go-yaml/pull/102) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (5 days ago)
-- [Update client-go compatibility matrix to include releases up to 1.34](https://github.com/kubernetes/kubernetes/pull/133898) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
-- [Nydusify all images](https://github.com/DataDog/cilium/pull/625) on [DataDog/cilium](https://github.com/DataDog/cilium) (6 days ago)
+- [Test: do not merge](https://github.com/cilium/cilium/pull/41617) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Add options system](https://github.com/yaml/go-yaml/pull/110) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (2 days ago)
+- [cilium-cli: Prevent panic in `node-to-node-encryption` connectivity test](https://github.com/cilium/cilium/pull/41600) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [Replace `reflect.Ptr` with `reflect.Pointer`](https://github.com/yaml/go-yaml/pull/102) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (6 days ago)
+- [Update client-go compatibility matrix to include releases up to 1.34](https://github.com/kubernetes/kubernetes/pull/133898) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
+- [Nydusify all images](https://github.com/DataDog/cilium/pull/625) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
 - [Add job to build a nydus version of the `cilium` image](https://github.com/DataDog/cilium/pull/624) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
 - [ipam/aws: Use common `set` package](https://github.com/cilium/cilium/pull/41480) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [shell: Prevent server error on graceful shutdown](https://github.com/cilium/cilium/pull/41401) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
