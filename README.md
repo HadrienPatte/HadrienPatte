@@ -2,6 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yaml/go-yaml](https://github.com/yaml/go-yaml) ([v2.4.3](https://github.com/yaml/go-yaml/releases/tag/v2.4.3), today) - The YAML org maintained fork of https://github.com/go-yaml/yaml
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 1 day ago) - Production-Grade Container Scheduling and Management
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.1.4755](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.1.4755), 4 days ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 1 week ago) - Autoscaling components for Kubernetes
