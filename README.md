@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [ca-certificates: Remove image](https://github.com/cilium/image-tools/pull/390) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
 - [Update `checkpatch` and `startup-script` image digest](https://github.com/cilium/cilium/pull/41710) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Add support for netkit devices](https://github.com/DataDog/kata-containers/pull/34) on [DataDog/kata-containers](https://github.com/DataDog/kata-containers) (2 days ago)
@@ -28,4 +29,3 @@
 - [ipam/aws: Use common `set` package](https://github.com/cilium/cilium/pull/41480) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [shell: Prevent server error on graceful shutdown](https://github.com/cilium/cilium/pull/41401) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Fix docker credentials setup in CI](https://github.com/cilium/image-tools/pull/386) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
-- [docs: Add new IAM permissions requirements to upgrade notes](https://github.com/cilium/cilium/pull/41374) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
