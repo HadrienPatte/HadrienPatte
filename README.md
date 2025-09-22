@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.8](https://github.com/cilium/cilium/releases/tag/v1.17.8), today) - eBPF-based Networking, Security, and Observability
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.3.4791](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.3.4791), 1 day ago) - Looks and smells like Sonarr but made for music.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.2](https://github.com/cilium/cilium/releases/tag/v1.18.2), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.4.2](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.4.2), 2 weeks ago) - Autoscaling components for Kubernetes
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 4 weeks ago) - Self-hosted audiobook and podcast server
