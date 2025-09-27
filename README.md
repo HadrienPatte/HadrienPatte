@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc7](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc7), today) - The Free Software Media System - Server Backend & API
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.34.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.34.0), 1 day ago) - Autoscaling components for Kubernetes
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc6](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc6), 2 days ago) - The Free Software Media System - Server Backend & API
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.15](https://github.com/cilium/cilium/releases/tag/v1.16.15), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.3.4791](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.3.4791), 6 days ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
