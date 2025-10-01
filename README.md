@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [renovate: Replace `fileMatch` with `managerFilePatterns`](https://github.com/cilium/image-tools/pull/394) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [ca-certificates: Remove image](https://github.com/cilium/image-tools/pull/390) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
@@ -28,4 +29,3 @@
 - [Nydusify all images](https://github.com/DataDog/cilium/pull/625) on [DataDog/cilium](https://github.com/DataDog/cilium) (3 weeks ago)
 - [Add job to build a nydus version of the `cilium` image](https://github.com/DataDog/cilium/pull/624) on [DataDog/cilium](https://github.com/DataDog/cilium) (4 weeks ago)
 - [ipam/aws: Use common `set` package](https://github.com/cilium/cilium/pull/41480) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [shell: Prevent server error on graceful shutdown](https://github.com/cilium/cilium/pull/41401) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
