@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-0.1.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-0.1.1), today) - Autoscaling components for Kubernetes
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.4.4809](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.4.4809), 1 day ago) - Looks and smells like Sonarr but made for music.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.1), 3 days ago) - eBPF-based Networking, Security, and Observability
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-0.1.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-0.1.0), 5 days ago) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc8](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc8), 6 days ago) - The Free Software Media System - Server Backend & API
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 1 month ago) - Self-hosted audiobook and podcast server
