@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.5.1](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.5.1), 2 days ago) - Autoscaling components for Kubernetes
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.5.4824](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.5.4824), 2 days ago) - Looks and smells like Sonarr but made for music.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.1), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.5.1](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.5.1), 3 days ago) - Autoscaling components for Kubernetes
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.5.4824](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.5.4824), 3 days ago) - Looks and smells like Sonarr but made for music.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc8](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc8), 1 week ago) - The Free Software Media System - Server Backend & API
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 3 weeks ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 4 weeks ago) - Production-Grade Container Scheduling and Management
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.29.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.29.0), 1 month ago) - Self-hosted audiobook and podcast server
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.0](https://github.com/cilium/statedb/releases/tag/v0.5.0), 2 months ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 3 months ago) - 
@@ -14,14 +14,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (6 days ago)
+- [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [renovate: Replace `fileMatch` with `managerFilePatterns`](https://github.com/cilium/image-tools/pull/394) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
-- [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
+- [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [ca-certificates: Remove image](https://github.com/cilium/image-tools/pull/390) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [Update `checkpatch` and `startup-script` image digest](https://github.com/cilium/cilium/pull/41710) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Add support for netkit devices](https://github.com/DataDog/kata-containers/pull/34) on [DataDog/kata-containers](https://github.com/DataDog/kata-containers) (3 weeks ago)
 - [build: Remove unused `.dockerignore` files](https://github.com/cilium/cilium/pull/41629) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [Test: do not merge](https://github.com/cilium/cilium/pull/41617) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
+- [Test: do not merge](https://github.com/cilium/cilium/pull/41617) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [Add options system](https://github.com/yaml/go-yaml/pull/110) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (4 weeks ago)
 - [cilium-cli: Prevent panic in `node-to-node-encryption` connectivity test](https://github.com/cilium/cilium/pull/41600) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [Replace `reflect.Ptr` with `reflect.Pointer`](https://github.com/yaml/go-yaml/pull/102) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (1 month ago)
