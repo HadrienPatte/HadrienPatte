@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.3.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.3.0), today) - Autoscaling components for Kubernetes
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), today) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc9](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc9), 2 days ago) - The Free Software Media System - Server Backend & API
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.5.4836](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.5.4836), 1 week ago) - Looks and smells like Sonarr but made for music.
