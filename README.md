@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), today) - Autoscaling components for Kubernetes
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc9](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc9), 2 days ago) - The Free Software Media System - Server Backend & API
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), 1 day ago) - Autoscaling components for Kubernetes
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc9](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc9), 3 days ago) - The Free Software Media System - Server Backend & API
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.5.4836](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.5.4836), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
@@ -14,12 +14,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [renovate: Replace `fileMatch` with `managerFilePatterns`](https://github.com/cilium/image-tools/pull/394) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 weeks ago)
-- [ca-certificates: Remove image](https://github.com/cilium/image-tools/pull/390) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 weeks ago)
-- [Update `checkpatch` and `startup-script` image digest](https://github.com/cilium/cilium/pull/41710) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [ca-certificates: Remove image](https://github.com/cilium/image-tools/pull/390) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
+- [Update `checkpatch` and `startup-script` image digest](https://github.com/cilium/cilium/pull/41710) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Add support for netkit devices](https://github.com/DataDog/kata-containers/pull/34) on [DataDog/kata-containers](https://github.com/DataDog/kata-containers) (1 month ago)
 - [build: Remove unused `.dockerignore` files](https://github.com/cilium/cilium/pull/41629) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Test: do not merge](https://github.com/cilium/cilium/pull/41617) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
