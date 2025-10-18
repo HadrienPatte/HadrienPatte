@@ -2,21 +2,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), 2 days ago) - Autoscaling components for Kubernetes
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc9](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc9), 4 days ago) - The Free Software Media System - Server Backend & API
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), 3 days ago) - Autoscaling components for Kubernetes
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc9](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc9), 5 days ago) - The Free Software Media System - Server Backend & API
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.5.4836](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.5.4836), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.1](https://github.com/cilium/statedb/releases/tag/v0.5.1), 1 week ago) - In-memory state database for Go
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.2.0](https://github.com/canonical/chisel/releases/tag/v1.2.0), 3 months ago) - 
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 3 months ago) - Smart PVR for newsgroup and bittorrent users.
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 4 months ago) - Smart PVR for newsgroup and bittorrent users.
 
 #### 🔨 My recent Pull Requests
 
-- [operator: Fix interface conversion panic](https://github.com/cilium/cilium/pull/42231) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [operator: Prevent panic when GCing identities](https://github.com/cilium/cilium/pull/42217) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [operator: Fix interface conversion panic](https://github.com/cilium/cilium/pull/42231) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [operator: Prevent panic when GCing identities](https://github.com/cilium/cilium/pull/42217) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [renovate: Replace `fileMatch` with `managerFilePatterns`](https://github.com/cilium/image-tools/pull/394) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 weeks ago)
 - [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
