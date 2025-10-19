@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v3.0.0.4855](https://github.com/Lidarr/Lidarr/releases/tag/v3.0.0.4855), today) - Looks and smells like Sonarr but made for music.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), 4 days ago) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc9](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc9), 6 days ago) - The Free Software Media System - Server Backend & API
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 1 week ago) - Self-hosted audiobook and podcast server
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v2.14.5.4836](https://github.com/Lidarr/Lidarr/releases/tag/v2.14.5.4836), 1 week ago) - Looks and smells like Sonarr but made for music.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.1](https://github.com/cilium/statedb/releases/tag/v0.5.1), 1 week ago) - In-memory state database for Go
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
