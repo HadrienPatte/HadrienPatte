@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v3.0.0.4855](https://github.com/Lidarr/Lidarr/releases/tag/v3.0.0.4855), today) - Looks and smells like Sonarr but made for music.
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), 4 days ago) - Autoscaling components for Kubernetes
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0-rc9](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0-rc9), 6 days ago) - The Free Software Media System - Server Backend & API
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0), today) - The Free Software Media System - Server Backend & API
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v3.0.0.4855](https://github.com/Lidarr/Lidarr/releases/tag/v3.0.0.4855), 1 day ago) - Looks and smells like Sonarr but made for music.
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.0), 5 days ago) - Autoscaling components for Kubernetes
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.1](https://github.com/cilium/statedb/releases/tag/v0.5.1), 1 week ago) - In-memory state database for Go
@@ -14,9 +14,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [operator: Fix interface conversion panic](https://github.com/cilium/cilium/pull/42231) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [operator: Prevent panic when GCing identities](https://github.com/cilium/cilium/pull/42217) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [operator: Fix interface conversion panic](https://github.com/cilium/cilium/pull/42231) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [operator: Prevent panic when GCing identities](https://github.com/cilium/cilium/pull/42217) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [renovate: Replace `fileMatch` with `managerFilePatterns`](https://github.com/cilium/image-tools/pull/394) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
 - [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
