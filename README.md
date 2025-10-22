@@ -2,12 +2,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), today) - Production-Grade Container Scheduling and Management
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 1 day ago) - 
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.52.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.52.1), 2 days ago) - Autoscaling components for Kubernetes
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0), 2 days ago) - The Free Software Media System - Server Backend & API
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) ([v3.0.0.4855](https://github.com/Lidarr/Lidarr/releases/tag/v3.0.0.4855), 3 days ago) - Looks and smells like Sonarr but made for music.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 2 weeks ago) - Self-hosted audiobook and podcast server
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.1](https://github.com/cilium/statedb/releases/tag/v0.5.1), 2 weeks ago) - In-memory state database for Go
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.1), 3 weeks ago) - eBPF-based Networking, Security, and Observability
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ([v4.0.15.2941](https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941), 4 months ago) - Smart PVR for newsgroup and bittorrent users.
