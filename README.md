@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.4.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.4.0), today) - Autoscaling components for Kubernetes
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.5.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.5.0), today) - Autoscaling components for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), 1 day ago) - Production-Grade Container Scheduling and Management
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 2 days ago) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0), 3 days ago) - The Free Software Media System - Server Backend & API
