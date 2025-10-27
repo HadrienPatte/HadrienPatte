@@ -2,7 +2,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.1](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.1), today) - The Free Software Media System - Server Backend & API
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.16](https://github.com/cilium/cilium/releases/tag/v1.16.16), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.5.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.5.0), 4 days ago) - Autoscaling components for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), 5 days ago) - Production-Grade Container Scheduling and Management
