@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [checkpatch: Skip commit message length check for renovate commits](https://github.com/cilium/image-tools/pull/407) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [operator: Fix interface conversion panic](https://github.com/cilium/cilium/pull/42231) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator: Prevent panic when GCing identities](https://github.com/cilium/cilium/pull/42217) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -26,4 +27,3 @@
 - [Add options system](https://github.com/yaml/go-yaml/pull/110) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (1 month ago)
 - [cilium-cli: Prevent panic in `node-to-node-encryption` connectivity test](https://github.com/cilium/cilium/pull/41600) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Replace `reflect.Ptr` with `reflect.Pointer`](https://github.com/yaml/go-yaml/pull/102) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (1 month ago)
-- [Update client-go compatibility matrix to include releases up to 1.34](https://github.com/kubernetes/kubernetes/pull/133898) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
