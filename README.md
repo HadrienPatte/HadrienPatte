@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.1](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.1), today) - The Free Software Media System - Server Backend & API
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.16](https://github.com/cilium/cilium/releases/tag/v1.16.16), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.5.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.5.0), 4 days ago) - Autoscaling components for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), 5 days ago) - Production-Grade Container Scheduling and Management
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 6 days ago) - 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.11.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0), 1 week ago) - The Free Software Media System - Server Backend & API
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 2 weeks ago) - Self-hosted audiobook and podcast server
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.1](https://github.com/cilium/statedb/releases/tag/v0.5.1), 2 weeks ago) - In-memory state database for Go
 
