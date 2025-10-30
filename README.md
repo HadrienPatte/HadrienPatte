@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[1.18] Fail agent startup on incompatible datapath mode](https://github.com/DataDog/cilium/pull/635) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [daemon: Fail agent startup on incompatible datapath mode](https://github.com/cilium/cilium/pull/42482) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [checkpatch: Skip commit message length check for renovate commits](https://github.com/cilium/image-tools/pull/407) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
 - [operator: Fix interface conversion panic](https://github.com/cilium/cilium/pull/42231) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -25,4 +26,3 @@
 - [build: Remove unused `.dockerignore` files](https://github.com/cilium/cilium/pull/41629) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Test: do not merge](https://github.com/cilium/cilium/pull/41617) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Add options system](https://github.com/yaml/go-yaml/pull/110) on [yaml/go-yaml](https://github.com/yaml/go-yaml) (1 month ago)
-- [cilium-cli: Prevent panic in `node-to-node-encryption` connectivity test](https://github.com/cilium/cilium/pull/41600) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
