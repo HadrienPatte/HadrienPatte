@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Enable `modernize` golangci-lint linter](https://github.com/cilium/cilium/pull/42642) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [build: Include component version in image version tag](https://github.com/cilium/image-tools/pull/413) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
 - [Use modern Go constructs](https://github.com/cilium/cilium/pull/42525) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [[1.18] Fail agent startup on incompatible datapath mode](https://github.com/DataDog/cilium/pull/635) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
@@ -25,4 +26,3 @@
 - [ca-certificates: Remove image](https://github.com/cilium/image-tools/pull/390) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
 - [Update `checkpatch` and `startup-script` image digest](https://github.com/cilium/cilium/pull/41710) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Add support for netkit devices](https://github.com/DataDog/kata-containers/pull/34) on [DataDog/kata-containers](https://github.com/DataDog/kata-containers) (1 month ago)
-- [build: Remove unused `.dockerignore` files](https://github.com/cilium/cilium/pull/41629) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
