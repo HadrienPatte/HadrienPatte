@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.4](https://github.com/cilium/statedb/releases/tag/v0.5.4), today) - In-memory state database for Go
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.4](https://github.com/cilium/cilium/releases/tag/v1.18.4), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.10](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.10), 1 day ago) - Production-Grade Container Scheduling and Management
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.2](https://github.com/cilium/statedb/releases/tag/v0.5.2), 1 week ago) - In-memory state database for Go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.30.7](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.30.7), 1 week ago) - Autoscaling components for Kubernetes
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 3 weeks ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.30.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.30.0), 1 month ago) - Self-hosted audiobook and podcast server
