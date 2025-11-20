@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [renovate: Re-enable major updates for `go-github`](https://github.com/cilium/cilium/pull/42903) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [endpoint: Wait for controllers shutdown on endpoint stop](https://github.com/cilium/cilium/pull/42899) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [1.18 backports](https://github.com/DataDog/cilium/pull/637) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [vendor: Update `go-licenses` to v2](https://github.com/cilium/cilium/pull/42829) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -25,4 +26,3 @@
 - [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
 - [renovate: Replace `fileMatch` with `managerFilePatterns`](https://github.com/cilium/image-tools/pull/394) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 months ago)
-- [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 months ago)
