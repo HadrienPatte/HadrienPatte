@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [1.18 backports](https://github.com/DataDog/cilium/pull/637) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [vendor: Update `go-licenses` to v2](https://github.com/cilium/cilium/pull/42829) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [ci: Enable `modernize` golangci-lint linter](https://github.com/cilium/cilium/pull/42642) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [build: Include component version in image version tag](https://github.com/cilium/image-tools/pull/413) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
@@ -25,4 +26,3 @@
 - [renovate: Replace `fileMatch` with `managerFilePatterns`](https://github.com/cilium/image-tools/pull/394) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 months ago)
 - [Fix renovate config](https://github.com/cilium/image-tools/pull/392) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 months ago)
 - [ca-certificates: Remove image](https://github.com/cilium/image-tools/pull/390) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 months ago)
-- [Update `checkpatch` and `startup-script` image digest](https://github.com/cilium/cilium/pull/41710) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
