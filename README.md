@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.6](https://github.com/cilium/statedb/releases/tag/v0.4.6), 2 days ago) - In-memory state database for Go
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.7](https://github.com/cilium/statedb/releases/tag/v0.4.7), today) - In-memory state database for Go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.6.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.6.0), 6 days ago) - Autoscaling components for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.4](https://github.com/cilium/cilium/releases/tag/v1.18.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
