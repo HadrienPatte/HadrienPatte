@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [azure: use SDK resource ID parser in `extractIDs`](https://github.com/cilium/cilium/pull/43006) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [External-ccm: Migrate from `k8s.io/utils/pointer` to `k8s.io/utils/ptr`](https://github.com/oracle/oci-cloud-controller-manager/pull/515) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (2 days ago)
 - [renovate: Re-enable major updates for `go-github`](https://github.com/cilium/cilium/pull/42903) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [endpoint: Wait for controllers shutdown on endpoint stop](https://github.com/cilium/cilium/pull/42899) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -25,4 +26,3 @@
 - [operator: Fix interface conversion panic](https://github.com/cilium/cilium/pull/42231) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [operator: Prevent panic when GCing identities](https://github.com/cilium/cilium/pull/42217) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [cilium-dbg: Fix status indentation formatting](https://github.com/cilium/cilium/pull/42199) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [Build images with official github actions](https://github.com/cilium/image-tools/pull/404) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
