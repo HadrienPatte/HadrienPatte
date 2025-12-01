@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix existing staticcheck issues](https://github.com/cilium/ariane/pull/13) on [cilium/ariane](https://github.com/cilium/ariane) (today)
 - [link: Export `NetkitScrub` type](https://github.com/rust-netlink/netlink-packet-route/pull/193) on [rust-netlink/netlink-packet-route](https://github.com/rust-netlink/netlink-packet-route) (1 day ago)
 - [ENI: Fix panic on nil subnet](https://github.com/cilium/cilium/pull/43023) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [modernize: Enable `stringsbuilder` analyzer](https://github.com/cilium/cilium/pull/43022) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -25,4 +26,3 @@
 - [Use modern Go constructs](https://github.com/cilium/cilium/pull/42525) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [[1.18] Fail agent startup on incompatible datapath mode](https://github.com/DataDog/cilium/pull/635) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 month ago)
 - [daemon: Fail agent startup on incompatible datapath mode](https://github.com/cilium/cilium/pull/42482) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [checkpatch: Skip commit message length check for renovate commits](https://github.com/cilium/image-tools/pull/407) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
