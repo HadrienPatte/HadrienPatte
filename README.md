@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.32.5](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.5), today) - Autoscaling components for Kubernetes
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.6](https://github.com/cilium/statedb/releases/tag/v0.5.6), 5 days ago) - In-memory state database for Go
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.6.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.6.0), 1 week ago) - Autoscaling components for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.4](https://github.com/cilium/cilium/releases/tag/v1.18.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 1 month ago) - 
