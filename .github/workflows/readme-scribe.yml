@@ -24,7 +24,7 @@ jobs:
         run: |
           go run github.com/muesli/markscribe@d838b6e71dc673e8a3ef248b0e75fbd44ce8cc4c -write README.md README.md.tpl
 
-      - uses: stefanzweifel/git-auto-commit-action@01d77ca6cb089da1360e540865f7d035c95aa199
+      - uses: stefanzweifel/git-auto-commit-action@28e16e81777b558cc906c8750092100bbb34c5e3  # v7.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
