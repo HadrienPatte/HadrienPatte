@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve support for comparable types](https://github.com/cilium/deepequal-gen/pull/8) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (today)
 - [deepcopy-gen: Add support for copyable value types from `net/netip`](https://github.com/kubernetes/kubernetes/pull/135572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [build: Update bpftools, iptables and llvm images](https://github.com/cilium/cilium/pull/43098) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [renovate: Fix image-tools regex](https://github.com/cilium/cilium/pull/43092) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -25,4 +26,3 @@
 - [endpoint: Wait for controllers shutdown on endpoint stop](https://github.com/cilium/cilium/pull/42899) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [1.18 backports](https://github.com/DataDog/cilium/pull/637) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
 - [vendor: Update `go-licenses` to v2](https://github.com/cilium/cilium/pull/42829) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ci: Enable `modernize` golangci-lint linter](https://github.com/cilium/cilium/pull/42642) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
