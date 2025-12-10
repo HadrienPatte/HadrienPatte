@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [modernize: Fix `rangeint` findings in datapath files](https://github.com/cilium/cilium/pull/43248) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [bpftools: Enable renovate updates](https://github.com/cilium/image-tools/pull/428) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [link: Add support for `netkit` devices](https://github.com/rust-netlink/rtnetlink/pull/137) on [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) (1 day ago)
 - [External-ccm: Fix go formatting](https://github.com/oracle/oci-cloud-controller-manager/pull/516) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (2 days ago)
@@ -25,4 +26,3 @@
 - [ENI: Fix panic on nil subnet](https://github.com/cilium/cilium/pull/43023) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [modernize: Enable `stringsbuilder` analyzer](https://github.com/cilium/cilium/pull/43022) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [azure: use SDK resource ID parser in `extractIDs`](https://github.com/cilium/cilium/pull/43006) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [External-ccm: Migrate from `k8s.io/utils/pointer` to `k8s.io/utils/ptr`](https://github.com/oracle/oci-cloud-controller-manager/pull/515) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (2 weeks ago)
