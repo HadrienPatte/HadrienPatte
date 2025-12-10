@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.1), 1 day ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.53.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.53.0), 6 days ago) - Autoscaling components for Kubernetes
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.54.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.0), today) - Autoscaling components for Kubernetes
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.31.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.31.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.3), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.6](https://github.com/cilium/statedb/releases/tag/v0.5.6), 2 weeks ago) - In-memory state database for Go
