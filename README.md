@@ -11,6 +11,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bpftools: Enable renovate updates](https://github.com/cilium/image-tools/pull/428) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [link: Add support for `netkit` devices](https://github.com/rust-netlink/rtnetlink/pull/137) on [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) (1 day ago)
 - [External-ccm: Fix go formatting](https://github.com/oracle/oci-cloud-controller-manager/pull/516) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (2 days ago)
 - [contrib: Update `go tool` configuration](https://github.com/cilium/cilium/pull/43200) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -25,4 +26,3 @@
 - [modernize: Enable `stringsbuilder` analyzer](https://github.com/cilium/cilium/pull/43022) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [azure: use SDK resource ID parser in `extractIDs`](https://github.com/cilium/cilium/pull/43006) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [External-ccm: Migrate from `k8s.io/utils/pointer` to `k8s.io/utils/ptr`](https://github.com/oracle/oci-cloud-controller-manager/pull/515) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (2 weeks ago)
-- [renovate: Re-enable major updates for `go-github`](https://github.com/cilium/cilium/pull/42903) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
