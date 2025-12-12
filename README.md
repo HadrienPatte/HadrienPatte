@@ -12,6 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [Fix panic on endpoint controller shutdown](https://github.com/cilium/cilium/pull/43296) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [netperf: Enable renovate updates](https://github.com/cilium/image-tools/pull/429) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
 - [modernize: Fix `rangeint` findings in datapath files](https://github.com/cilium/cilium/pull/43248) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [bpftools: Enable renovate updates](https://github.com/cilium/image-tools/pull/428) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
@@ -25,5 +27,3 @@
 - [renovate: Update image-tools images regex](https://github.com/cilium/cilium/pull/43087) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix existing staticcheck issues](https://github.com/cilium/ariane/pull/13) on [cilium/ariane](https://github.com/cilium/ariane) (1 week ago)
 - [link: Export `NetkitScrub` type](https://github.com/rust-netlink/netlink-packet-route/pull/193) on [rust-netlink/netlink-packet-route](https://github.com/rust-netlink/netlink-packet-route) (1 week ago)
-- [ENI: Fix panic on nil subnet](https://github.com/cilium/cilium/pull/43023) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [modernize: Enable `stringsbuilder` analyzer](https://github.com/cilium/cilium/pull/43022) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
