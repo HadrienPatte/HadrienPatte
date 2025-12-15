@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [Fix panic on endpoint controller shutdown](https://github.com/cilium/cilium/pull/43296) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [netperf: Enable renovate updates](https://github.com/cilium/image-tools/pull/429) on [cilium/image-tools](https://github.com/cilium/image-tools) (5 days ago)
@@ -26,4 +27,3 @@
 - [renovate: Fix image-tools regex](https://github.com/cilium/cilium/pull/43092) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [renovate: Update image-tools images regex](https://github.com/cilium/cilium/pull/43087) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix existing staticcheck issues](https://github.com/cilium/ariane/pull/13) on [cilium/ariane](https://github.com/cilium/ariane) (2 weeks ago)
-- [link: Export `NetkitScrub` type](https://github.com/rust-netlink/netlink-packet-route/pull/193) on [rust-netlink/netlink-packet-route](https://github.com/rust-netlink/netlink-packet-route) (2 weeks ago)
