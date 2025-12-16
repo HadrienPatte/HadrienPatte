@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [Fix panic on endpoint controller shutdown](https://github.com/cilium/cilium/pull/43296) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -26,4 +27,3 @@
 - [build: Update bpftools, iptables and llvm images](https://github.com/cilium/cilium/pull/43098) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Fix image-tools regex](https://github.com/cilium/cilium/pull/43092) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Update image-tools images regex](https://github.com/cilium/cilium/pull/43087) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Fix existing staticcheck issues](https://github.com/cilium/ariane/pull/13) on [cilium/ariane](https://github.com/cilium/ariane) (2 weeks ago)
