@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.11), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), today) - Production-Grade Container Scheduling and Management
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.7.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.7.0), 2 days ago) - Autoscaling components for Kubernetes
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.19.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.19.0), 1 week ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.31.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.31.0), 2 weeks ago) - Self-hosted audiobook and podcast server
