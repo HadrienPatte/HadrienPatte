@@ -12,6 +12,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -26,4 +27,3 @@
 - [deepcopy-gen: Add support for copyable value types from `net/netip`](https://github.com/kubernetes/kubernetes/pull/135572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [build: Update bpftools, iptables and llvm images](https://github.com/cilium/cilium/pull/43098) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Fix image-tools regex](https://github.com/cilium/cilium/pull/43092) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [renovate: Update image-tools images regex](https://github.com/cilium/cilium/pull/43087) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
