@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.8.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.8.0), today) - Autoscaling components for Kubernetes
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.0), 1 day ago) - Self-hosted audiobook and podcast server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.18](https://github.com/cilium/cilium/releases/tag/v1.16.18), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 5 days ago) - Production-Grade Container Scheduling and Management
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 6 days ago) - validate the structure of your container images
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.7.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.7.0), 1 week ago) - Autoscaling components for Kubernetes
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.19.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.19.0), 1 week ago) - 
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.6](https://github.com/cilium/statedb/releases/tag/v0.5.6), 3 weeks ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 2 months ago) - 
