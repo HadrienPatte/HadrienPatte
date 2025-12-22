@@ -2,29 +2,29 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.0), today) - Self-hosted audiobook and podcast server
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.18](https://github.com/cilium/cilium/releases/tag/v1.16.18), 3 days ago) - eBPF-based Networking, Security, and Observability
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 4 days ago) - Production-Grade Container Scheduling and Management
-- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 5 days ago) - validate the structure of your container images
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.7.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.7.0), 6 days ago) - Autoscaling components for Kubernetes
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.0), 1 day ago) - Self-hosted audiobook and podcast server
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.18](https://github.com/cilium/cilium/releases/tag/v1.16.18), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 5 days ago) - Production-Grade Container Scheduling and Management
+- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 6 days ago) - validate the structure of your container images
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.7.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.7.0), 1 week ago) - Autoscaling components for Kubernetes
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.19.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.19.0), 1 week ago) - 
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.6](https://github.com/cilium/statedb/releases/tag/v0.5.6), 3 weeks ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix panic on endpoint controller shutdown](https://github.com/cilium/cilium/pull/43296) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [netperf: Enable renovate updates](https://github.com/cilium/image-tools/pull/429) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [modernize: Fix `rangeint` findings in datapath files](https://github.com/cilium/cilium/pull/43248) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [bpftools: Enable renovate updates](https://github.com/cilium/image-tools/pull/428) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [link: Add support for `netkit` devices](https://github.com/rust-netlink/rtnetlink/pull/137) on [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) (1 week ago)
-- [External-ccm: Fix go formatting](https://github.com/oracle/oci-cloud-controller-manager/pull/516) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 week ago)
-- [contrib: Update `go tool` configuration](https://github.com/cilium/cilium/pull/43200) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [External-ccm: Fix go formatting](https://github.com/oracle/oci-cloud-controller-manager/pull/516) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (2 weeks ago)
+- [contrib: Update `go tool` configuration](https://github.com/cilium/cilium/pull/43200) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Improve support for comparable types](https://github.com/cilium/deepequal-gen/pull/8) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (2 weeks ago)
 - [deepcopy-gen: Add support for copyable value types from `net/netip`](https://github.com/kubernetes/kubernetes/pull/135572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [build: Update bpftools, iptables and llvm images](https://github.com/cilium/cilium/pull/43098) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
