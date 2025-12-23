@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [licensecheck: Fix license policy link](https://github.com/cilium/cilium/pull/43487) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -27,4 +28,3 @@
 - [contrib: Update `go tool` configuration](https://github.com/cilium/cilium/pull/43200) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Improve support for comparable types](https://github.com/cilium/deepequal-gen/pull/8) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (2 weeks ago)
 - [deepcopy-gen: Add support for copyable value types from `net/netip`](https://github.com/kubernetes/kubernetes/pull/135572) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-- [build: Update bpftools, iptables and llvm images](https://github.com/cilium/cilium/pull/43098) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
