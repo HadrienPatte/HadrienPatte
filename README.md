@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (2 weeks ago)
 - [licensecheck: Fix license policy link](https://github.com/cilium/cilium/pull/43487) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
@@ -27,4 +28,3 @@
 - [link: Add support for `netkit` devices](https://github.com/rust-netlink/rtnetlink/pull/137) on [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) (1 month ago)
 - [External-ccm: Fix go formatting](https://github.com/oracle/oci-cloud-controller-manager/pull/516) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 month ago)
 - [contrib: Update `go tool` configuration](https://github.com/cilium/cilium/pull/43200) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [Improve support for comparable types](https://github.com/cilium/deepequal-gen/pull/8) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (1 month ago)
