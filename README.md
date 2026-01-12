@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.54.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.1), 2 days ago) - Autoscaling components for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.4](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.4), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.54.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.1), 3 days ago) - Autoscaling components for Kubernetes
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.4](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.4), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 week ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 2 weeks ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 3 weeks ago) - Production-Grade Container Scheduling and Management
@@ -18,7 +18,7 @@
 - [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
+- [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Fix panic on endpoint controller shutdown](https://github.com/cilium/cilium/pull/43296) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [netperf: Enable renovate updates](https://github.com/cilium/image-tools/pull/429) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
