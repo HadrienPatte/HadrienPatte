@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (3 weeks ago)
@@ -27,4 +28,3 @@
 - [modernize: Fix `rangeint` findings in datapath files](https://github.com/cilium/cilium/pull/43248) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [bpftools: Enable renovate updates](https://github.com/cilium/image-tools/pull/428) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
 - [link: Add support for `netkit` devices](https://github.com/rust-netlink/rtnetlink/pull/137) on [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) (1 month ago)
-- [External-ccm: Fix go formatting](https://github.com/oracle/oci-cloud-controller-manager/pull/516) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 month ago)
