@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.0), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.0), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.54.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.1), 1 week ago) - Autoscaling components for Kubernetes
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 2 weeks ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 4 weeks ago) - Self-hosted audiobook and podcast server
@@ -13,7 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (4 weeks ago)
