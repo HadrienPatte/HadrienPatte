@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.0), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.54.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.1), 1 week ago) - Autoscaling components for Kubernetes
-- [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 2 weeks ago) - 
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 4 weeks ago) - Self-hosted audiobook and podcast server
+- [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 3 weeks ago) - 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 1 month ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 month ago) - Production-Grade Container Scheduling and Management
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 1 month ago) - validate the structure of your container images
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.6](https://github.com/cilium/statedb/releases/tag/v0.5.6), 1 month ago) - In-memory state database for Go
@@ -13,11 +13,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
-- [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (4 weeks ago)
-- [licensecheck: Fix license policy link](https://github.com/cilium/cilium/pull/43487) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (1 month ago)
+- [licensecheck: Fix license policy link](https://github.com/cilium/cilium/pull/43487) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
