@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.6.0](https://github.com/cilium/statedb/releases/tag/v0.6.0), 1 day ago) - In-memory state database for Go
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.8](https://github.com/cilium/statedb/releases/tag/v0.4.8), today) - In-memory state database for Go
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.54.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.54.1), 2 weeks ago) - Autoscaling components for Kubernetes
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 3 weeks ago) - 
