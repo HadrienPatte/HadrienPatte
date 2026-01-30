@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Fix cilium version parsing when using `GOEXPERIMENTS`](https://github.com/cilium/cilium/pull/44018) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -27,4 +28,3 @@
 - [Fix panic on endpoint controller shutdown](https://github.com/cilium/cilium/pull/43296) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [netperf: Enable renovate updates](https://github.com/cilium/image-tools/pull/429) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
 - [modernize: Fix `rangeint` findings in datapath files](https://github.com/cilium/cilium/pull/43248) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [bpftools: Enable renovate updates](https://github.com/cilium/image-tools/pull/428) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
