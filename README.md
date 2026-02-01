@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.55.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.55.0), 1 day ago) - Autoscaling components for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.1), 4 days ago) - eBPF-based Networking, Security, and Observability
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.8](https://github.com/cilium/statedb/releases/tag/v0.4.8), 4 days ago) - In-memory state database for Go
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.55.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.55.0), 2 days ago) - Autoscaling components for Kubernetes
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.1), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.8](https://github.com/cilium/statedb/releases/tag/v0.4.8), 5 days ago) - In-memory state database for Go
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 month ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 1 month ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 month ago) - Production-Grade Container Scheduling and Management
@@ -13,8 +13,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [Fix cilium version parsing when using `GOEXPERIMENTS`](https://github.com/cilium/cilium/pull/44018) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [Fix cilium version parsing when using `GOEXPERIMENTS`](https://github.com/cilium/cilium/pull/44018) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
