@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), today) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.6.2](https://github.com/cilium/statedb/releases/tag/v0.6.2), today) - In-memory state database for Go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.55.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.55.0), 5 days ago) - Autoscaling components for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 month ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 1 month ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 month ago) - Production-Grade Container Scheduling and Management
