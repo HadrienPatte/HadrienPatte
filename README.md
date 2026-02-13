@@ -2,6 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), today) - 
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-1.6.0](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-1.6.0), 1 day ago) - Autoscaling components for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.12), 3 days ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.6.3](https://github.com/cilium/statedb/releases/tag/v0.6.3), 4 days ago) - In-memory state database for Go
@@ -9,7 +10,6 @@
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 month ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 1 month ago) - Self-hosted audiobook and podcast server
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 1 month ago) - validate the structure of your container images
-- [canonical/chisel](https://github.com/canonical/chisel) ([v1.3.0](https://github.com/canonical/chisel/releases/tag/v1.3.0), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
