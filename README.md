@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), today) - eBPF-based Networking, Security, and Observability
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.32.7](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.7), today) - Autoscaling components for Kubernetes
-- [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 4 days ago) - 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-1.32.7](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.32.7), 1 day ago) - Autoscaling components for Kubernetes
+- [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 5 days ago) - 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.12), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.6.3](https://github.com/cilium/statedb/releases/tag/v0.6.3), 1 week ago) - In-memory state database for Go
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 month ago) - 
@@ -13,11 +13,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [datapath: Migrate `LocalNodeConfiguration` to `netip`](https://github.com/cilium/cilium/pull/44391) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [options: Migrate `VtepCidrMask` from `net.IP` to `netip.Addr`](https://github.com/cilium/cilium/pull/44379) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [ipam: Use private `deepEqual` for `Subnet`](https://github.com/cilium/cilium/pull/44413) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [datapath: Migrate `LocalNodeConfiguration` to `netip`](https://github.com/cilium/cilium/pull/44391) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [options: Migrate `VtepCidrMask` from `net.IP` to `netip.Addr`](https://github.com/cilium/cilium/pull/44379) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Fix cilium version parsing when using `GOEXPERIMENTS`](https://github.com/cilium/cilium/pull/44018) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
 - [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (1 month ago)
@@ -27,4 +28,3 @@
 - [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
-- [Fix panic on endpoint controller shutdown](https://github.com/cilium/cilium/pull/43296) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
