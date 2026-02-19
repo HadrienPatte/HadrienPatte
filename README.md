@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [client/v3: validate key is non-empty before sending KV requests](https://github.com/etcd-io/etcd/pull/21330) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (today)
 - [ipam: Use private `deepEqual` for `Subnet`](https://github.com/cilium/cilium/pull/44413) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [datapath: Migrate `LocalNodeConfiguration` to `netip`](https://github.com/cilium/cilium/pull/44391) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [options: Migrate `VtepCidrMask` from `net.IP` to `netip.Addr`](https://github.com/cilium/cilium/pull/44379) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -27,4 +28,3 @@
 - [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [operator: Move unmanagedpod logic to dedicated cell](https://github.com/cilium/cilium/pull/43344) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
-- [cli: Update `network-perf` image ref](https://github.com/cilium/cilium/pull/43297) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
