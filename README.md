@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [modernize: Enable `rangeint` analyzer](https://github.com/cilium/cilium/pull/44457) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [clustermesh/kvstore: Modernize waitgroup usage](https://github.com/cilium/cilium/pull/44439) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [client/v3: validate key is non-empty before sending KV requests](https://github.com/etcd-io/etcd/pull/21330) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 day ago)
 - [ipam: Use private `deepEqual` for `Subnet`](https://github.com/cilium/cilium/pull/44413) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -27,4 +28,3 @@
 - [licensecheck: Fix license policy link](https://github.com/cilium/cilium/pull/43487) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
-- [documentation: Remove deprecated metrics and labels](https://github.com/cilium/cilium/pull/43371) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
