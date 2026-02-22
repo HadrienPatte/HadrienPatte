@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [modernize: Enable `rangeint` analyzer](https://github.com/cilium/cilium/pull/44457) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [clustermesh/kvstore: Modernize waitgroup usage](https://github.com/cilium/cilium/pull/44439) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [client/v3: validate key is non-empty before sending KV requests](https://github.com/etcd-io/etcd/pull/21330) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (3 days ago)
@@ -27,4 +28,3 @@
 - [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (2 months ago)
 - [licensecheck: Fix license policy link](https://github.com/cilium/cilium/pull/43487) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [operator: Move policy derivative watchers into dedicated cell](https://github.com/cilium/cilium/pull/43445) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
-- [Enable renovate to manage `Documentation` requirements](https://github.com/cilium/cilium/pull/43433) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
