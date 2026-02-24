@@ -2,24 +2,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.7](https://github.com/cilium/statedb/releases/tag/v0.5.7), today) - In-memory state database for Go
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.55.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.55.1), 5 days ago) - Autoscaling components for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.7](https://github.com/cilium/statedb/releases/tag/v0.5.7), 1 day ago) - In-memory state database for Go
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.55.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.55.1), 6 days ago) - Autoscaling components for Kubernetes
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 1 week ago) - 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.12), 1 week ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.12), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 month ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 2 months ago) - Self-hosted audiobook and podcast server
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 2 months ago) - validate the structure of your container images
 
 #### 🔨 My recent Pull Requests
 
-- [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [modernize: Enable `rangeint` analyzer](https://github.com/cilium/cilium/pull/44457) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [clustermesh/kvstore: Modernize waitgroup usage](https://github.com/cilium/cilium/pull/44439) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [client/v3: validate key is non-empty before sending KV requests](https://github.com/etcd-io/etcd/pull/21330) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (4 days ago)
-- [ipam: Use private `deepEqual` for `Subnet`](https://github.com/cilium/cilium/pull/44413) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [modernize: Enable `rangeint` analyzer](https://github.com/cilium/cilium/pull/44457) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [clustermesh/kvstore: Modernize waitgroup usage](https://github.com/cilium/cilium/pull/44439) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [client/v3: validate key is non-empty before sending KV requests](https://github.com/etcd-io/etcd/pull/21330) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (5 days ago)
+- [ipam: Use private `deepEqual` for `Subnet`](https://github.com/cilium/cilium/pull/44413) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [datapath: Migrate `LocalNodeConfiguration` to `netip`](https://github.com/cilium/cilium/pull/44391) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [options: Migrate `VtepCidrMask` from `net.IP` to `netip.Addr`](https://github.com/cilium/cilium/pull/44379) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
