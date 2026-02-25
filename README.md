@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -27,4 +28,3 @@
 - [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
-- [runtime: Add support for `netkit-l2` devices](https://github.com/kata-containers/kata-containers/pull/12279) on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) (2 months ago)
