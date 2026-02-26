@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator/ipam: Migrate cloud provider metrics to hive cell pattern](https://github.com/cilium/cilium/pull/44539) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -27,4 +28,3 @@
 - [Fix cilium version parsing when using `GOEXPERIMENTS`](https://github.com/cilium/cilium/pull/44018) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [llvm: Enable renovate updates](https://github.com/cilium/image-tools/pull/439) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
