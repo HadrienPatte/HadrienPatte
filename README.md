@@ -2,11 +2,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-alpha.2), today) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.7](https://github.com/cilium/statedb/releases/tag/v0.5.7), 3 days ago) - In-memory state database for Go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.55.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.55.1), 1 week ago) - Autoscaling components for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 1 week ago) - 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.12), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 month ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 2 months ago) - Self-hosted audiobook and podcast server
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 2 months ago) - validate the structure of your container images
