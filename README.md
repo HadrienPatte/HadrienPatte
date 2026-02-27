@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium: add metrics from Cilium 1.17–1.19, flatten test metric lists](https://github.com/DataDog/integrations-core/pull/22765) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (today)
 - [operator/ipam: Migrate cloud provider metrics to hive cell pattern](https://github.com/cilium/cilium/pull/44539) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -27,4 +28,3 @@
 - [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [Fix cilium version parsing when using `GOEXPERIMENTS`](https://github.com/cilium/cilium/pull/44018) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [renovate: Enable major azure SDK upgrades](https://github.com/cilium/cilium/pull/43871) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [renovate: Fix python dependency updates](https://github.com/cilium/cilium/pull/43695) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
