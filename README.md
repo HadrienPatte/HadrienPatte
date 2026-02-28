@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([vertical-pod-autoscaler-chart-0.8.1](https://github.com/kubernetes/autoscaler/releases/tag/vertical-pod-autoscaler-chart-0.8.1), today) - Autoscaling components for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.13), 2 days ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.7](https://github.com/cilium/statedb/releases/tag/v0.5.7), 5 days ago) - In-memory state database for Go
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.55.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.55.1), 1 week ago) - Autoscaling components for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 2 weeks ago) - 
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 1 month ago) - 
