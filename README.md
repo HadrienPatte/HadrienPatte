@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), today) - Autoscaling components for Kubernetes
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.7.0](https://github.com/cilium/statedb/releases/tag/v0.7.0), today) - In-memory state database for Go
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.13), 4 days ago) - Production-Grade Container Scheduling and Management
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), 1 day ago) - Autoscaling components for Kubernetes
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.7.0](https://github.com/cilium/statedb/releases/tag/v0.7.0), 1 day ago) - In-memory state database for Go
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.13), 5 days ago) - Production-Grade Container Scheduling and Management
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 2 weeks ago) - 
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.20.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.20.0), 2 months ago) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.32.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.32.1), 2 months ago) - Self-hosted audiobook and podcast server
@@ -13,10 +13,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: Move IPAM API rate-limit flags into the operator IPAM cell](https://github.com/cilium/cilium/pull/44587) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [cilium: add metrics from Cilium 1.17–1.19, flatten test metric lists](https://github.com/DataDog/integrations-core/pull/22765) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (3 days ago)
-- [operator/ipam: Migrate cloud provider metrics to hive cell pattern](https://github.com/cilium/cilium/pull/44539) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [ipam: Move IPAM API rate-limit flags into the operator IPAM cell](https://github.com/cilium/cilium/pull/44587) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [cilium: add metrics from Cilium 1.17–1.19, flatten test metric lists](https://github.com/DataDog/integrations-core/pull/22765) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (4 days ago)
+- [operator/ipam: Migrate cloud provider metrics to hive cell pattern](https://github.com/cilium/cilium/pull/44539) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
