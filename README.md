@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [renovate: Add support to manage `echo-advanced` image](https://github.com/cilium/cilium/pull/44623) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Move IPAM API rate-limit flags into the operator IPAM cell](https://github.com/cilium/cilium/pull/44587) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [cilium: add metrics from Cilium 1.17–1.19, flatten test metric lists](https://github.com/DataDog/integrations-core/pull/22765) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (5 days ago)
 - [operator/ipam: Migrate cloud provider metrics to hive cell pattern](https://github.com/cilium/cilium/pull/44539) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -27,4 +28,3 @@
 - [datapath: Migrate `LocalNodeConfiguration` to `netip`](https://github.com/cilium/cilium/pull/44391) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [options: Migrate `VtepCidrMask` from `net.IP` to `netip.Addr`](https://github.com/cilium/cilium/pull/44379) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [Fix cilium version parsing when using `GOEXPERIMENTS`](https://github.com/cilium/cilium/pull/44018) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
