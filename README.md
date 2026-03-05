@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator: Refactor legacy hive cell, extract node taint sync to dedicated cell](https://github.com/cilium/cilium/pull/44643) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [renovate: Add support to manage `echo-advanced` image](https://github.com/cilium/cilium/pull/44623) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Move IPAM API rate-limit flags into the operator IPAM cell](https://github.com/cilium/cilium/pull/44587) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [cilium: add metrics from Cilium 1.17–1.19, flatten test metric lists](https://github.com/DataDog/integrations-core/pull/22765) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (6 days ago)
@@ -27,4 +28,3 @@
 - [ipam: Use private `deepEqual` for `Subnet`](https://github.com/cilium/cilium/pull/44413) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [datapath: Migrate `LocalNodeConfiguration` to `netip`](https://github.com/cilium/cilium/pull/44391) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [options: Migrate `VtepCidrMask` from `net.IP` to `netip.Addr`](https://github.com/cilium/cilium/pull/44379) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [cilium-cli: Fix container name in connectivity test logs](https://github.com/cilium/cilium/pull/44076) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
