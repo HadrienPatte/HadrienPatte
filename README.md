@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [modernize: Enable `waitgroup` analyzer](https://github.com/cilium/cilium/pull/44660) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [External-ccm: Use appropriate method for printf-style log calls](https://github.com/oracle/oci-cloud-controller-manager/pull/524) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 day ago)
 - [CFP-18405: ENI IPAM Multi-Pool Migration](https://github.com/cilium/design-cfps/pull/87) on [cilium/design-cfps](https://github.com/cilium/design-cfps) (1 day ago)
 - [operator: Refactor legacy hive cell, extract node taint sync to dedicated cell](https://github.com/cilium/cilium/pull/44643) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -27,4 +28,3 @@
 - [modernize: Enable `rangeint` analyzer](https://github.com/cilium/cilium/pull/44457) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [clustermesh/kvstore: Modernize waitgroup usage](https://github.com/cilium/cilium/pull/44439) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [client/v3: validate key is non-empty before sending KV requests](https://github.com/etcd-io/etcd/pull/21330) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (2 weeks ago)
-- [ipam: Use private `deepEqual` for `Subnet`](https://github.com/cilium/cilium/pull/44413) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
