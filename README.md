@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove `v2alpha1` `CiliumNodeConfig`](https://github.com/cilium/cilium/pull/44739) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [modernize: Enable `waitgroup` analyzer](https://github.com/cilium/cilium/pull/44660) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [External-ccm: Use appropriate method for printf-style log calls](https://github.com/oracle/oci-cloud-controller-manager/pull/524) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (5 days ago)
 - [CFP-18405: ENI IPAM Multi-Pool Migration](https://github.com/cilium/design-cfps/pull/87) on [cilium/design-cfps](https://github.com/cilium/design-cfps) (5 days ago)
@@ -27,4 +28,3 @@
 - [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [modernize: Enable `rangeint` analyzer](https://github.com/cilium/cilium/pull/44457) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [clustermesh/kvstore: Modernize waitgroup usage](https://github.com/cilium/cilium/pull/44439) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [client/v3: validate key is non-empty before sending KV requests](https://github.com/etcd-io/etcd/pull/21330) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (2 weeks ago)
