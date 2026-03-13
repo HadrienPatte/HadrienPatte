@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use `testing/synctest` to eliminate waits in tests ](https://github.com/oracle/oci-cloud-controller-manager/pull/528) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (today)
 - [Remove deprecated `v2alpha1` `CiliumNodeConfig` CRD](https://github.com/cilium/cilium/pull/44739) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [modernize: Enable `waitgroup` analyzer](https://github.com/cilium/cilium/pull/44660) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [External-ccm: Use appropriate method for printf-style log calls](https://github.com/oracle/oci-cloud-controller-manager/pull/524) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 week ago)
@@ -27,4 +28,3 @@
 - [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [modernize: Enable `rangeint` analyzer](https://github.com/cilium/cilium/pull/44457) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [clustermesh/kvstore: Modernize waitgroup usage](https://github.com/cilium/cilium/pull/44439) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
