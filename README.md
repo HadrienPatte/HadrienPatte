@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-beta.0), today) - Production-Grade Container Scheduling and Management
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 1 day ago) - Self-hosted audiobook and podcast server
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 2 days ago) - Self-hosted audiobook and podcast server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), 2 weeks ago) - Autoscaling components for Kubernetes
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.7.0](https://github.com/cilium/statedb/releases/tag/v0.7.0), 2 weeks ago) - In-memory state database for Go
@@ -15,7 +15,7 @@
 
 - [Use `testing/synctest` to eliminate waits in tests ](https://github.com/oracle/oci-cloud-controller-manager/pull/528) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 week ago)
 - [Remove deprecated `v2alpha1` `CiliumNodeConfig` CRD](https://github.com/cilium/cilium/pull/44739) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [modernize: Enable `waitgroup` analyzer](https://github.com/cilium/cilium/pull/44660) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [modernize: Enable `waitgroup` analyzer](https://github.com/cilium/cilium/pull/44660) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [External-ccm: Use appropriate method for printf-style log calls](https://github.com/oracle/oci-cloud-controller-manager/pull/524) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (2 weeks ago)
 - [CFP-18405: ENI IPAM Multi-Pool Migration](https://github.com/cilium/design-cfps/pull/87) on [cilium/design-cfps](https://github.com/cilium/design-cfps) (2 weeks ago)
 - [operator: Refactor legacy hive cell, extract node taint sync to dedicated cell](https://github.com/cilium/cilium/pull/44643) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
