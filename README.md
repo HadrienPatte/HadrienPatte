@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bpftool: Update to 7.7.0](https://github.com/cilium/image-tools/pull/473) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [k8s: Propagate context through `ListerWatcher` chain](https://github.com/cilium/cilium/pull/44958) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Use `testing/synctest` to eliminate waits in tests ](https://github.com/oracle/oci-cloud-controller-manager/pull/528) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 week ago)
 - [Remove deprecated `v2alpha1` `CiliumNodeConfig` CRD](https://github.com/cilium/cilium/pull/44739) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -27,4 +28,3 @@
 - [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [renovate: Disable major/minor k8s upgrades on stable branches](https://github.com/cilium/cilium/pull/44489) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
