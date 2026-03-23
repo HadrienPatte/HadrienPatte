@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.14](https://github.com/cilium/cilium/releases/tag/v1.17.14), today) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-beta.0), 3 days ago) - Production-Grade Container Scheduling and Management
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 4 days ago) - Self-hosted audiobook and podcast server
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 3 weeks ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), 3 weeks ago) - Autoscaling components for Kubernetes
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.7.0](https://github.com/cilium/statedb/releases/tag/v0.7.0), 3 weeks ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 1 month ago) - 
@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium-dbg: Fix json logging on failure](https://github.com/cilium/cilium/pull/44961) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [bpftool: Update to 7.7.0](https://github.com/cilium/image-tools/pull/473) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [k8s: Propagate context through `ListerWatcher` chain](https://github.com/cilium/cilium/pull/44958) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Use `testing/synctest` to eliminate waits in tests ](https://github.com/oracle/oci-cloud-controller-manager/pull/528) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (1 week ago)
@@ -27,4 +28,3 @@
 - [operator/ipam: Migrate cloud provider metrics to hive cell pattern](https://github.com/cilium/cilium/pull/44539) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [iptables: skip intra-CILIUM_ rule removal in removeCiliumRules](https://github.com/cilium/cilium/pull/44497) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
