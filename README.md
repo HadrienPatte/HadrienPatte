@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator: Move flags from `InitGlobalFlags` to appropriate cells](https://github.com/cilium/cilium/pull/45008) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cilium-dbg: Fix json logging on failure](https://github.com/cilium/cilium/pull/44961) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [bpftool: Update to 7.7.0](https://github.com/cilium/image-tools/pull/473) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
 - [k8s: Propagate context through `ListerWatcher` chain](https://github.com/cilium/cilium/pull/44958) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -27,4 +28,3 @@
 - [cilium: add metrics from Cilium 1.17–1.19, flatten test metric lists](https://github.com/DataDog/integrations-core/pull/22765) on [DataDog/integrations-core](https://github.com/DataDog/integrations-core) (3 weeks ago)
 - [operator/ipam: Migrate cloud provider metrics to hive cell pattern](https://github.com/cilium/cilium/pull/44539) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [operator: Refactor legacy hive cell, extract CiliumNode GC to dedicated cell](https://github.com/cilium/cilium/pull/44528) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [renovate: Fix `k8s` patch updates on stable branches](https://github.com/cilium/cilium/pull/44498) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
