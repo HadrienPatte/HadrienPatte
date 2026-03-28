@@ -13,7 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: decouple ENI device configuration from CRD allocator](https://github.com/cilium/cilium/pull/45027) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [ipam: Decouple ENI device configuration from CRD allocator](https://github.com/cilium/cilium/pull/45027) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: add `AllowFirstLastIPs` option to `ipallocator.NewCIDRRange`](https://github.com/cilium/cilium/pull/45025) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [operator: Move flags from `InitGlobalFlags` to appropriate cells](https://github.com/cilium/cilium/pull/45008) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [cilium-dbg: Fix json logging on failure](https://github.com/cilium/cilium/pull/44961) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
