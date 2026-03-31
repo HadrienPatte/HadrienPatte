@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cilium-cni: Add support for route/rules creation on Kubernetes IPAM](https://github.com/DataDog/cilium/pull/658) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [ipam: Decouple ENI device configuration from CRD allocator](https://github.com/cilium/cilium/pull/45027) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [ipam: add `AllowFirstLastIPs` option to `ipallocator.NewCIDRRange`](https://github.com/cilium/cilium/pull/45025) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -27,4 +28,3 @@
 - [CFP-18405: ENI IPAM Multi-Pool Migration](https://github.com/cilium/design-cfps/pull/87) on [cilium/design-cfps](https://github.com/cilium/design-cfps) (3 weeks ago)
 - [operator: Refactor legacy hive cell, extract node taint sync to dedicated cell](https://github.com/cilium/cilium/pull/44643) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [renovate: Add support to manage `echo-advanced` image](https://github.com/cilium/cilium/pull/44623) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [ipam: Move IPAM API rate-limit flags into the operator IPAM cell](https://github.com/cilium/cilium/pull/44587) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
