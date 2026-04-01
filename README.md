@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Read demand from `Spec.IPAM.Pools.Requested` for ENI multi-pool](https://github.com/cilium/cilium/pull/45124) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Operator dual-write `Spec.IPAM.Pools.Allocated` for ENI mode](https://github.com/cilium/cilium/pull/45110) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -27,4 +28,3 @@
 - [Remove deprecated `v2alpha1` `CiliumNodeConfig` CRD](https://github.com/cilium/cilium/pull/44739) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [modernize: Enable `waitgroup` analyzer](https://github.com/cilium/cilium/pull/44660) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [External-ccm: Use appropriate method for printf-style log calls](https://github.com/oracle/oci-cloud-controller-manager/pull/524) on [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) (3 weeks ago)
-- [CFP-18405: ENI IPAM Multi-Pool Migration](https://github.com/cilium/design-cfps/pull/87) on [cilium/design-cfps](https://github.com/cilium/design-cfps) (3 weeks ago)
