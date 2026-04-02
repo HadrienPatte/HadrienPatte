@@ -13,7 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: Remove deprecated metrics](https://github.com/cilium/cilium/pull/45134) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [ipam: Remove `cilium_operator_ipam_ips` and `cilium_operator_ipam_available_interfaces` IPAM metrics that have been deprecated and marked for deletion respectively since 1.15 and 1.14.](https://github.com/cilium/cilium/pull/45134) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Read demand from `Spec.IPAM.Pools.Requested` for ENI multi-pool](https://github.com/cilium/cilium/pull/45124) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Operator dual-write `Spec.IPAM.Pools.Allocated` for ENI mode](https://github.com/cilium/cilium/pull/45110) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
