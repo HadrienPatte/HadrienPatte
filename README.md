@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 1 week ago) - Self-hosted audiobook and podcast server
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 2 weeks ago) - Self-hosted audiobook and podcast server
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), 1 month ago) - Autoscaling components for Kubernetes
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.7.0](https://github.com/cilium/statedb/releases/tag/v0.7.0), 1 month ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.0](https://github.com/canonical/chisel/releases/tag/v1.4.0), 1 month ago) - 
@@ -13,14 +13,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: Read demand from `Spec.IPAM.Pools.Requested` for ENI multi-pool](https://github.com/cilium/cilium/pull/45124) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [ipam: Operator dual-write `Spec.IPAM.Pools.Allocated` for ENI mode](https://github.com/cilium/cilium/pull/45110) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [cilium-cni: Add support for route/rules creation on Kubernetes IPAM](https://github.com/DataDog/cilium/pull/658) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 day ago)
-- [ipam: Decouple ENI device configuration from CRD allocator](https://github.com/cilium/cilium/pull/45027) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [ipam: add `AllowFirstLastIPs` option to `ipallocator.NewCIDRRange`](https://github.com/cilium/cilium/pull/45025) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [operator: Move flags from `InitGlobalFlags` to appropriate cells](https://github.com/cilium/cilium/pull/45008) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [ipam: Read demand from `Spec.IPAM.Pools.Requested` for ENI multi-pool](https://github.com/cilium/cilium/pull/45124) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [ipam: Operator dual-write `Spec.IPAM.Pools.Allocated` for ENI mode](https://github.com/cilium/cilium/pull/45110) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [cilium-cni: Add support for route/rules creation on Kubernetes IPAM](https://github.com/DataDog/cilium/pull/658) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 days ago)
+- [ipam: Decouple ENI device configuration from CRD allocator](https://github.com/cilium/cilium/pull/45027) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [ipam: add `AllowFirstLastIPs` option to `ipallocator.NewCIDRRange`](https://github.com/cilium/cilium/pull/45025) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [operator: Move flags from `InitGlobalFlags` to appropriate cells](https://github.com/cilium/cilium/pull/45008) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cilium-dbg: Fix json logging on failure](https://github.com/cilium/cilium/pull/44961) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [bpftool: Update to 7.7.0](https://github.com/cilium/image-tools/pull/473) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [k8s: Propagate context through `ListerWatcher` chain](https://github.com/cilium/cilium/pull/44958) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
