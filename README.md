@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (today)
 - [ipam: Switch ENI IPAM from CRD to multi-pool allocator](https://github.com/cilium/cilium/pull/45154) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [ipam: Return error from instance (re)sync instead of sentinel time.Time](https://github.com/cilium/cilium/pull/45153) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [k8s: Validate empty (C)CNPs at admission](https://github.com/cilium/cilium/pull/45145) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -27,4 +28,3 @@
 - [ipam: add `AllowFirstLastIPs` option to `ipallocator.NewCIDRRange`](https://github.com/cilium/cilium/pull/45025) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator: Move flags from `InitGlobalFlags` to appropriate cells](https://github.com/cilium/cilium/pull/45008) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cilium-dbg: Fix json logging on failure](https://github.com/cilium/cilium/pull/44961) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [bpftool: Update to 7.7.0](https://github.com/cilium/image-tools/pull/473) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
