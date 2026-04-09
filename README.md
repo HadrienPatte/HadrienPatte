@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Migrate ipallocator from `net.IP` to `net/netip` types](https://github.com/cilium/cilium/pull/45260) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (1 day ago)
 - [ipam: Switch ENI IPAM from CRD to multi-pool allocator](https://github.com/cilium/cilium/pull/45154) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [ipam: Return error from instance (re)sync instead of sentinel time.Time](https://github.com/cilium/cilium/pull/45153) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -27,4 +28,3 @@
 - [ipam: Decouple ENI device configuration from CRD allocator](https://github.com/cilium/cilium/pull/45027) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: add `AllowFirstLastIPs` option to `ipallocator.NewCIDRRange`](https://github.com/cilium/cilium/pull/45025) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator: Move flags from `InitGlobalFlags` to appropriate cells](https://github.com/cilium/cilium/pull/45008) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [cilium-dbg: Fix json logging on failure](https://github.com/cilium/cilium/pull/44961) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
