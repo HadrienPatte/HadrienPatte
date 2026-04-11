@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/45295) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (1 day ago)
 - [ipam: Migrate ipallocator from `net.IP` to `net/netip` types](https://github.com/cilium/cilium/pull/45260) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (3 days ago)
@@ -27,4 +28,3 @@
 - [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cilium-cni: Add support for route/rules creation on Kubernetes IPAM](https://github.com/DataDog/cilium/pull/658) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
 - [ipam: Decouple ENI device configuration from CRD allocator](https://github.com/cilium/cilium/pull/45027) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: add `AllowFirstLastIPs` option to `ipallocator.NewCIDRRange`](https://github.com/cilium/cilium/pull/45025) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
