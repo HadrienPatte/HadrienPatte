@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-rc.0), 2 days ago) - Production-Grade Container Scheduling and Management
-- [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.1](https://github.com/canonical/chisel/releases/tag/v1.4.1), 4 days ago) - 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-rc.0), 3 days ago) - Production-Grade Container Scheduling and Management
+- [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.1](https://github.com/canonical/chisel/releases/tag/v1.4.1), 5 days ago) - 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 3 weeks ago) - Self-hosted audiobook and podcast server
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), 1 month ago) - Autoscaling components for Kubernetes
@@ -13,9 +13,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (today)
-- [ipam: Migrate ipallocator from `net.IP` to `net/netip` types](https://github.com/cilium/cilium/pull/45260) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (2 days ago)
+- [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (1 day ago)
+- [ipam: Migrate ipallocator from `net.IP` to `net/netip` types](https://github.com/cilium/cilium/pull/45260) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (3 days ago)
 - [ipam: Switch ENI IPAM from CRD to multi-pool allocator](https://github.com/cilium/cilium/pull/45154) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Return error from instance (re)sync instead of sentinel time.Time](https://github.com/cilium/cilium/pull/45153) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s: Validate empty (C)CNPs at admission](https://github.com/cilium/cilium/pull/45145) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
