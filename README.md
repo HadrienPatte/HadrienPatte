@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium-cli: Fix panic parsing IPv6 URL in connectivity tests](https://github.com/cilium/cilium/pull/45337) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update go to 1.26 and fix related linting issues](https://github.com/cilium/cilium/pull/45336) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/45295) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (3 days ago)
@@ -28,4 +29,3 @@
 - [ipam: Operator dual-write `Spec.IPAM.Pools.Allocated` for ENI mode](https://github.com/cilium/cilium/pull/45110) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [cilium-cni: Add support for route/rules creation on Kubernetes IPAM](https://github.com/DataDog/cilium/pull/658) on [DataDog/cilium](https://github.com/DataDog/cilium) (1 week ago)
