@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-rc.0), 5 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-rc.0), 6 days ago) - Production-Grade Container Scheduling and Management
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.1](https://github.com/canonical/chisel/releases/tag/v1.4.1), 1 week ago) - 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 3 weeks ago) - Self-hosted audiobook and podcast server
@@ -14,12 +14,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [cilium-cli: Fix panic parsing IPv6 URL in connectivity tests](https://github.com/cilium/cilium/pull/45337) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [Update go to 1.26 and fix related linting issues](https://github.com/cilium/cilium/pull/45336) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/45295) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (3 days ago)
-- [ipam: Migrate ipallocator from `net.IP` to `net/netip` types](https://github.com/cilium/cilium/pull/45260) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (5 days ago)
+- [cilium-cli: Fix panic parsing IPv6 URL in connectivity tests](https://github.com/cilium/cilium/pull/45337) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Update go to 1.26 and fix related linting issues](https://github.com/cilium/cilium/pull/45336) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/45295) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (4 days ago)
+- [ipam: Migrate ipallocator from `net.IP` to `net/netip` types](https://github.com/cilium/cilium/pull/45260) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (6 days ago)
 - [ipam: Switch ENI IPAM from CRD to multi-pool allocator](https://github.com/cilium/cilium/pull/45154) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Return error from instance (re)sync instead of sentinel time.Time](https://github.com/cilium/cilium/pull/45153) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s: Validate empty (C)CNPs at admission](https://github.com/cilium/cilium/pull/45145) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -27,5 +27,5 @@
 - [ipam: Remove `cilium_operator_ipam_ips` and `cilium_operator_ipam_available_interfaces` IPAM metrics that have been deprecated and marked for deletion respectively since 1.15 and 1.14.](https://github.com/cilium/cilium/pull/45134) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Read demand from `Spec.IPAM.Pools.Requested` for ENI multi-pool](https://github.com/cilium/cilium/pull/45124) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Operator dual-write `Spec.IPAM.Pools.Allocated` for ENI mode](https://github.com/cilium/cilium/pull/45110) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
