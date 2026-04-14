@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [preflight: Remove obsolete `reserved:init` CNP validation warning](https://github.com/cilium/cilium/pull/45357) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cilium-cli: Fix panic parsing IPv6 URL in connectivity tests](https://github.com/cilium/cilium/pull/45337) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Update go to 1.26 and fix related linting issues](https://github.com/cilium/cilium/pull/45336) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/45295) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -28,4 +29,3 @@
 - [ipam: Read demand from `Spec.IPAM.Pools.Requested` for ENI multi-pool](https://github.com/cilium/cilium/pull/45124) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Operator dual-write `Spec.IPAM.Pools.Allocated` for ENI mode](https://github.com/cilium/cilium/pull/45110) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Add allocator-independent ENI `AllocationResult` builder](https://github.com/cilium/cilium/pull/45089) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Wire `AllowFirstLastIPs` option into `cidrPool`](https://github.com/cilium/cilium/pull/45082) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
