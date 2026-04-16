@@ -6,6 +6,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.15](https://github.com/cilium/cilium/releases/tag/v1.17.15), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.0](https://github.com/cilium/statedb/releases/tag/v0.8.0), 1 day ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.1](https://github.com/canonical/chisel/releases/tag/v1.4.1), 1 week ago) - 
+- [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.34.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.34.0), 3 weeks ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 4 weeks ago) - Self-hosted audiobook and podcast server
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.1](https://github.com/cilium/hive/releases/tag/v1.0.1), 1 month ago) - Hive dependency injection
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), 1 month ago) - Autoscaling components for Kubernetes
@@ -14,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate `cidrPool` to `netip`](https://github.com/cilium/cilium/pull/45395) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Remove unused `InterfaceRevision` wrapper struct](https://github.com/cilium/cilium/pull/45372) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [preflight: Remove obsolete `reserved:init` CNP validation warning](https://github.com/cilium/cilium/pull/45357) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -28,4 +30,3 @@
 - [k8s: Validate empty (C)CNPs at admission](https://github.com/cilium/cilium/pull/45145) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Remove obsolete fields from cloud provider IPAM types](https://github.com/cilium/cilium/pull/45138) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Remove `cilium_operator_ipam_ips` and `cilium_operator_ipam_available_interfaces` IPAM metrics that have been deprecated and marked for deletion respectively since 1.15 and 1.14.](https://github.com/cilium/cilium/pull/45134) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Read demand from `Spec.IPAM.Pools.Requested` for ENI multi-pool](https://github.com/cilium/cilium/pull/45124) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
