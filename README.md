@@ -10,7 +10,6 @@
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.34.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.34.0), 3 weeks ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 1 month ago) - Self-hosted audiobook and podcast server
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.1](https://github.com/cilium/hive/releases/tag/v1.0.1), 1 month ago) - Hive dependency injection
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.56.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.56.0), 1 month ago) - Autoscaling components for Kubernetes
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 4 months ago) - validate the structure of your container images
 
 #### 🔨 My recent Pull Requests
