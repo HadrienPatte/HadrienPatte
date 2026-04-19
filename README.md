@@ -2,13 +2,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.2](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.2), today) - Self-hosted audiobook and podcast server
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 1 day ago) - 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.11), 4 days ago) - Production-Grade Container Scheduling and Management
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.15](https://github.com/cilium/cilium/releases/tag/v1.17.15), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.0](https://github.com/cilium/statedb/releases/tag/v0.8.0), 4 days ago) - In-memory state database for Go
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.1](https://github.com/canonical/chisel/releases/tag/v1.4.1), 1 week ago) - 
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.34.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.34.0), 3 weeks ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.1), 1 month ago) - Self-hosted audiobook and podcast server
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.1](https://github.com/cilium/hive/releases/tag/v1.0.1), 1 month ago) - Hive dependency injection
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 4 months ago) - validate the structure of your container images
 
