@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [k8s/utils: Apply `service-proxy-name` filter to `EndpointSlice` lists](https://github.com/cilium/cilium/pull/45504) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [k8s: Update libraries to v1.36.0-rc.1](https://github.com/cilium/cilium/pull/45499) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate `cidrset` and `CIDRAllocator` to `netip`](https://github.com/cilium/cilium/pull/45495) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -28,4 +29,3 @@
 - [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (1 week ago)
 - [ipam: Switch ENI IPAM from CRD to multi-pool allocator](https://github.com/cilium/cilium/pull/45154) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Return error from instance (re)sync instead of sentinel time.Time](https://github.com/cilium/cilium/pull/45153) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [k8s: Validate empty (C)CNPs at admission](https://github.com/cilium/cilium/pull/45145) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
