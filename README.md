@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Migrate `cidrset` and `CIDRAllocator` to `netip`](https://github.com/cilium/cilium/pull/45495) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [ipam: Migrate `cidrPool` to `netip`](https://github.com/cilium/cilium/pull/45395) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [ipam: Remove unused `InterfaceRevision` wrapper struct](https://github.com/cilium/cilium/pull/45372) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -28,4 +29,3 @@
 - [ipam: Return error from instance (re)sync instead of sentinel time.Time](https://github.com/cilium/cilium/pull/45153) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [k8s: Validate empty (C)CNPs at admission](https://github.com/cilium/cilium/pull/45145) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Remove obsolete fields from cloud provider IPAM types](https://github.com/cilium/cilium/pull/45138) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Remove `cilium_operator_ipam_ips` and `cilium_operator_ipam_available_interfaces` IPAM metrics that have been deprecated and marked for deletion respectively since 1.15 and 1.14.](https://github.com/cilium/cilium/pull/45134) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
