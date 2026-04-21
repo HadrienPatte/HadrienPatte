@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [loadbalancer/reflectors: Filter EndpointSlice watch by service labels](https://github.com/cilium/cilium/pull/45528) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate pod CIDR manager to `netip.Prefix`](https://github.com/cilium/cilium/pull/45508) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [k8s/utils: Apply `service-proxy-name` filter to `EndpointSlice` lists](https://github.com/cilium/cilium/pull/45504) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [k8s: Update libraries to v1.36.0-rc.1](https://github.com/cilium/cilium/pull/45499) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -28,4 +29,3 @@
 - [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (1 week ago)
 - [ipam: Migrate ipallocator from `net.IP` to `net/netip` types](https://github.com/cilium/cilium/pull/45260) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [:bug: Handle `omitzero` in `OneOf` constraint validation](https://github.com/kubernetes-sigs/controller-tools/pull/1375) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (1 week ago)
-- [ipam: Switch ENI IPAM from CRD to multi-pool allocator](https://github.com/cilium/cilium/pull/45154) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
