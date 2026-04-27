@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Move single-cell flags off the global OperatorConfig](https://github.com/cilium/cilium/pull/45604) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [loadbalancer/reflectors: Filter EndpointSlice watch by service labels](https://github.com/cilium/cilium/pull/45528) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -28,4 +29,3 @@
 - [cilium-cli: Fix panic parsing IPv6 URL in connectivity tests](https://github.com/cilium/cilium/pull/45337) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Update go to 1.26 and fix related linting issues](https://github.com/cilium/cilium/pull/45336) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [fqdn: Deprecate toFQDNs pre-cache flag and remove preflight  poller](https://github.com/cilium/cilium/pull/45295) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [job: Add `WithObserverShutdown` option for observer jobs](https://github.com/cilium/hive/pull/71) on [cilium/hive](https://github.com/cilium/hive) (2 weeks ago)
