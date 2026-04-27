@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.34.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.34.0), today) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0), 5 days ago) - Production-Grade Container Scheduling and Management
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.33.2](https://github.com/advplyr/audiobookshelf/releases/tag/v2.33.2), 1 week ago) - Self-hosted audiobook and podcast server
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 1 week ago) - 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.15](https://github.com/cilium/cilium/releases/tag/v1.17.15), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.0](https://github.com/cilium/statedb/releases/tag/v0.8.0), 1 week ago) - In-memory state database for Go
