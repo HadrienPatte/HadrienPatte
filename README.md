@@ -14,13 +14,14 @@
 
 #### 🔨 My recent Pull Requests
 
+- [imges: Remove broken operator `CMD` with unexpanded arg](https://github.com/cilium/cilium/pull/45701) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [operator: Move single-cell flags off the global OperatorConfig](https://github.com/cilium/cilium/pull/45604) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [loadbalancer/reflectors: Filter EndpointSlice watch by service labels](https://github.com/cilium/cilium/pull/45528) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Migrate pod CIDR manager to `netip.Prefix`](https://github.com/cilium/cilium/pull/45508) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s/utils: Apply `service-proxy-name` filter to `EndpointSlice` lists](https://github.com/cilium/cilium/pull/45504) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [k8s: Update libraries to v1.36.0-rc.1](https://github.com/cilium/cilium/pull/45499) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [k8s: Update libraries to v1.36.0](https://github.com/cilium/cilium/pull/45499) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Migrate `cidrset` and `CIDRAllocator` to `netip`](https://github.com/cilium/cilium/pull/45495) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Migrate `cidrPool` to `netip`](https://github.com/cilium/cilium/pull/45395) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -28,4 +29,3 @@
 - [preflight: Remove obsolete `reserved:init` CNP validation warning](https://github.com/cilium/cilium/pull/45357) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Fix panic parsing IPv6 URL in connectivity tests](https://github.com/cilium/cilium/pull/45337) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Update go to 1.26 and fix related linting issues](https://github.com/cilium/cilium/pull/45336) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [fqdn: Deprecate toFQDNs pre-cache flag and remove preflight  poller](https://github.com/cilium/cilium/pull/45295) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
