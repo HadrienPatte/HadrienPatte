@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.34.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.34.0), 2 days ago) - Self-hosted audiobook and podcast server
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.34.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.34.0), 3 days ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 1 week ago) - 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.15](https://github.com/cilium/cilium/releases/tag/v1.17.15), 2 weeks ago) - eBPF-based Networking, Security, and Observability
@@ -14,15 +14,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [operator: Move single-cell flags off the global OperatorConfig](https://github.com/cilium/cilium/pull/45604) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [operator: Move single-cell flags off the global OperatorConfig](https://github.com/cilium/cilium/pull/45604) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [loadbalancer/reflectors: Filter EndpointSlice watch by service labels](https://github.com/cilium/cilium/pull/45528) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Migrate pod CIDR manager to `netip.Prefix`](https://github.com/cilium/cilium/pull/45508) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s/utils: Apply `service-proxy-name` filter to `EndpointSlice` lists](https://github.com/cilium/cilium/pull/45504) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s: Update libraries to v1.36.0-rc.1](https://github.com/cilium/cilium/pull/45499) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Migrate `cidrset` and `CIDRAllocator` to `netip`](https://github.com/cilium/cilium/pull/45495) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Migrate `cidrPool` to `netip`](https://github.com/cilium/cilium/pull/45395) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Remove unused `InterfaceRevision` wrapper struct](https://github.com/cilium/cilium/pull/45372) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [preflight: Remove obsolete `reserved:init` CNP validation warning](https://github.com/cilium/cilium/pull/45357) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
