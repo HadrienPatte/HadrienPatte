@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.34.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.34.0), 5 days ago) - Self-hosted audiobook and podcast server
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.34.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.34.0), 6 days ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 2 weeks ago) - 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.15](https://github.com/cilium/cilium/releases/tag/v1.17.15), 2 weeks ago) - eBPF-based Networking, Security, and Observability
@@ -14,8 +14,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [imges: Remove broken operator `CMD` with unexpanded arg](https://github.com/cilium/cilium/pull/45701) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [imges: Remove broken operator `CMD` with unexpanded arg](https://github.com/cilium/cilium/pull/45701) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [operator: Move single-cell flags off the global OperatorConfig](https://github.com/cilium/cilium/pull/45604) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [loadbalancer/reflectors: Filter `EndpointSlice` watch by service labels](https://github.com/cilium/cilium/pull/45528) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
