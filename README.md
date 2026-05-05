@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Migrate `AllocationResult.{CIDRs,GatewayIP}` to netip types](https://github.com/cilium/cilium/pull/45790) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Decorrelate agent and operator implementations](https://github.com/cilium/cilium/pull/45765) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [imges: Remove broken operator `CMD` with unexpanded arg](https://github.com/cilium/cilium/pull/45701) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -28,4 +29,3 @@
 - [ipam: Migrate `cidrPool` to `netip`](https://github.com/cilium/cilium/pull/45395) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Remove unused `InterfaceRevision` wrapper struct](https://github.com/cilium/cilium/pull/45372) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [preflight: Remove obsolete `reserved:init` CNP validation warning](https://github.com/cilium/cilium/pull/45357) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [cilium-cli: Fix panic parsing IPv6 URL in connectivity tests](https://github.com/cilium/cilium/pull/45337) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
