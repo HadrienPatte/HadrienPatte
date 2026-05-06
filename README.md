@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [k8s: Use upstream controller-tools](https://github.com/cilium/cilium/pull/45815) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [pkg/{aws,azure}: Use k8s `sets.Set` type for string sets](https://github.com/cilium/cilium/pull/45813) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate `AllocationResult.{CIDRs,GatewayIP}` to netip types](https://github.com/cilium/cilium/pull/45790) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Decorrelate agent and operator implementations](https://github.com/cilium/cilium/pull/45765) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -29,4 +30,3 @@
 - [ipam: Migrate `cidrset` and `CIDRAllocator` to `netip`](https://github.com/cilium/cilium/pull/45495) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Migrate `cidrPool` to `netip`](https://github.com/cilium/cilium/pull/45395) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [ipam: Remove unused `InterfaceRevision` wrapper struct](https://github.com/cilium/cilium/pull/45372) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
