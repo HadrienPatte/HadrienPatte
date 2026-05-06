@@ -2,6 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([v0.21.0](https://github.com/kubernetes-sigs/controller-tools/releases/tag/v0.21.0), today) - Tools to use with the controller-runtime libraries
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.2), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.34.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.34.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
@@ -14,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [pkg/{aws,azure}: Use k8s `sets.Set` type for string sets](https://github.com/cilium/cilium/pull/45813) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate `AllocationResult.{CIDRs,GatewayIP}` to netip types](https://github.com/cilium/cilium/pull/45790) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Decorrelate agent and operator implementations](https://github.com/cilium/cilium/pull/45765) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [imges: Remove broken operator `CMD` with unexpanded arg](https://github.com/cilium/cilium/pull/45701) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -28,4 +30,3 @@
 - [logging: replace pipe-based klog bridge with `klog.SetSlogLogger`](https://github.com/cilium/cilium/pull/45422) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Migrate `cidrPool` to `netip`](https://github.com/cilium/cilium/pull/45395) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [ipam: Remove unused `InterfaceRevision` wrapper struct](https://github.com/cilium/cilium/pull/45372) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [preflight: Remove obsolete `reserved:init` CNP validation warning](https://github.com/cilium/cilium/pull/45357) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
