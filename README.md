@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: crd/markers: Emit cheaper CEL rules for `oneOf` markers](https://github.com/kubernetes-sigs/controller-tools/pull/1408) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (today)
 - [pkg/{aws,azure}: Use go 1.26's `new()`](https://github.com/cilium/cilium/pull/45862) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [golangci-lint: Update `gomodguard` linter to v2](https://github.com/cilium/cilium/pull/45860) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate operator-side IP-keyed maps to `netip.Addr`](https://github.com/cilium/cilium/pull/45859) on [cilium/cilium](https://github.com/cilium/cilium) (today)
@@ -29,4 +30,3 @@
 - [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [loadbalancer/reflectors: Filter `EndpointSlice` watch by service labels](https://github.com/cilium/cilium/pull/45528) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Migrate pod CIDR manager to `netip.Prefix`](https://github.com/cilium/cilium/pull/45508) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [k8s/utils: Apply `service-proxy-name` filter to `EndpointSlice` lists](https://github.com/cilium/cilium/pull/45504) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
