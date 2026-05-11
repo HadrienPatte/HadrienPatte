@@ -15,6 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix new golangci-lint findings](https://github.com/cilium/cilium/pull/45894) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [tools/cloud-dep-check: gitignore the built binary](https://github.com/cilium/cilium/pull/45892) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [:seedling: crd/markers: Emit cheaper CEL rules for `oneOf` markers](https://github.com/kubernetes-sigs/controller-tools/pull/1408) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (3 days ago)
 - [pkg/{aws,azure}: Use go 1.26's `new()`](https://github.com/cilium/cilium/pull/45862) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [golangci-lint: Update `gomodguard` linter to v2](https://github.com/cilium/cilium/pull/45860) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -28,5 +30,3 @@
 - [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [operator: Move single-cell flags off the global OperatorConfig](https://github.com/cilium/cilium/pull/45604) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [loadbalancer/reflectors: Filter `EndpointSlice` watch by service labels](https://github.com/cilium/cilium/pull/45528) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Migrate pod CIDR manager to `netip.Prefix`](https://github.com/cilium/cilium/pull/45508) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
