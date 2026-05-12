@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [vendor: Update `controller-runtime` to `v0.24.0`](https://github.com/cilium/cilium/pull/45919) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Fix new golangci-lint findings](https://github.com/cilium/cilium/pull/45894) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [tools/cloud-dep-check: gitignore the built binary](https://github.com/cilium/cilium/pull/45892) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [:seedling: crd/markers: Emit cheaper CEL rules for `oneOf` markers](https://github.com/kubernetes-sigs/controller-tools/pull/1408) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (4 days ago)
@@ -29,4 +30,3 @@
 - [imges: Remove broken operator `CMD` with unexpanded arg](https://github.com/cilium/cilium/pull/45701) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Migrate `Allocator` and `AllocationResult` to `netip.Addr`](https://github.com/cilium/cilium/pull/45647) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [operator: Move single-cell flags off the global OperatorConfig](https://github.com/cilium/cilium/pull/45604) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [docs: Extend Azure IPAM documentation](https://github.com/cilium/cilium/pull/45575) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
