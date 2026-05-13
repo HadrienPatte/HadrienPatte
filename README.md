@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.4](https://github.com/cilium/cilium/releases/tag/v1.19.4), today) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 1 day ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([v0.21.0](https://github.com/kubernetes-sigs/controller-tools/releases/tag/v0.21.0), 1 week ago) - Tools to use with the controller-runtime libraries
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.34.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.34.0), 2 weeks ago) - Self-hosted audiobook and podcast server
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 3 weeks ago) - 
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.0](https://github.com/cilium/statedb/releases/tag/v0.8.0), 4 weeks ago) - In-memory state database for Go
