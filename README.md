@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator/ipam: Consolidate cloud allocator bootstrap](https://github.com/cilium/cilium/pull/45975) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Fix golangci-lint v2.12+ findings](https://github.com/cilium/cilium/pull/45959) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Add CIDR-based release mechanism for ENI multipool mode](https://github.com/cilium/cilium/pull/45958) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [vendor: Update `controller-runtime` to `v0.24.0`](https://github.com/cilium/cilium/pull/45919) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -29,4 +30,3 @@
 - [pkg/{aws,azure}: Use k8s `sets.Set` type for string sets](https://github.com/cilium/cilium/pull/45813) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Migrate `AllocationResult.{CIDRs,GatewayIP}` to netip types](https://github.com/cilium/cilium/pull/45790) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Decorrelate agent and operator implementations](https://github.com/cilium/cilium/pull/45765) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [imges: Remove broken operator `CMD` with unexpanded arg](https://github.com/cilium/cilium/pull/45701) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
