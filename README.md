@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.1](https://github.com/cilium/statedb/releases/tag/v0.8.1), 1 day ago) - In-memory state database for Go
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.0), 5 days ago) - Self-hosted audiobook and podcast server
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.1](https://github.com/cilium/statedb/releases/tag/v0.8.1), 2 days ago) - In-memory state database for Go
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.0), 6 days ago) - Self-hosted audiobook and podcast server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.4](https://github.com/cilium/cilium/releases/tag/v1.19.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([v0.21.0](https://github.com/kubernetes-sigs/controller-tools/releases/tag/v0.21.0), 2 weeks ago) - Tools to use with the controller-runtime libraries
@@ -15,11 +15,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [azure: Skip listing NIC of empty VMSSs](https://github.com/cilium/cilium/pull/46129) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [ipam: Remove unused ForeachAddress abstraction](https://github.com/cilium/cilium/pull/46111) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [build: Remove boringcrypto-based FIPS support](https://github.com/cilium/cilium/pull/46092) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [ip: Add `netip.Addr`/`Prefix` wrappers for Kubernetes API types](https://github.com/cilium/cilium/pull/46047) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [vendor: Update `controller-tools` fork to `v0.21.0-1`](https://github.com/cilium/cilium/pull/46039) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [azure: Skip listing NIC of empty VMSSs](https://github.com/cilium/cilium/pull/46129) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [ipam: Remove unused ForeachAddress abstraction](https://github.com/cilium/cilium/pull/46111) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [build: Remove boringcrypto-based FIPS support](https://github.com/cilium/cilium/pull/46092) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [ip: Add `netip.Addr`/`Prefix` wrappers for Kubernetes API types](https://github.com/cilium/cilium/pull/46047) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [vendor: Update `controller-tools` fork to `v0.21.0-1`](https://github.com/cilium/cilium/pull/46039) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [operator/ipam: Consolidate cloud allocator bootstrap](https://github.com/cilium/cilium/pull/45975) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix golangci-lint v2.12+ findings](https://github.com/cilium/cilium/pull/45959) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Add CIDR-based release mechanism for ENI multipool mode](https://github.com/cilium/cilium/pull/45958) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
