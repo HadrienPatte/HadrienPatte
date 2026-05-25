@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [azure: Remove unused `GetVpcsAndSubnets` function](https://github.com/cilium/cilium/pull/46173) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [azure: Skip listing NIC of empty VMSSs](https://github.com/cilium/cilium/pull/46129) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [ipam: Remove unused ForeachAddress abstraction](https://github.com/cilium/cilium/pull/46111) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [build: Remove boringcrypto-based FIPS support](https://github.com/cilium/cilium/pull/46092) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -29,4 +30,3 @@
 - [:seedling: crd/markers: Emit cheaper CEL rules for `oneOf` markers](https://github.com/kubernetes-sigs/controller-tools/pull/1408) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (2 weeks ago)
 - [pkg/{aws,azure}: Use go 1.26's `new()`](https://github.com/cilium/cilium/pull/45862) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [golangci-lint: Update `gomodguard` linter to v2](https://github.com/cilium/cilium/pull/45860) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Migrate operator-side IP-keyed maps to `netip.Addr`](https://github.com/cilium/cilium/pull/45859) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
