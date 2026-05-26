@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [discovery: fix bogus `rep` protobuf marker on `EndpointSlice.AddressType`](https://github.com/kubernetes/kubernetes/pull/139302) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [azure: Remove duplicate `GetInstance` call in per-instance resync](https://github.com/cilium/cilium/pull/46192) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [azure: Remove unused `GetVpcsAndSubnets` function](https://github.com/cilium/cilium/pull/46173) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [azure: Skip listing NIC of empty VMSSs](https://github.com/cilium/cilium/pull/46129) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -29,4 +30,3 @@
 - [Fix new golangci-lint findings](https://github.com/cilium/cilium/pull/45894) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [tools/cloud-dep-check: gitignore the built binary](https://github.com/cilium/cilium/pull/45892) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [:seedling: crd/markers: Emit cheaper CEL rules for `oneOf` markers](https://github.com/kubernetes-sigs/controller-tools/pull/1408) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (2 weeks ago)
-- [pkg/{aws,azure}: Use go 1.26's `new()`](https://github.com/cilium/cilium/pull/45862) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
