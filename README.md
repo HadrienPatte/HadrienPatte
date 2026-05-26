@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update ubuntu to 26.04](https://github.com/HadrienPatte/images/pull/26) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (today)
 - [discovery: fix bogus `rep` protobuf marker on `EndpointSlice.AddressType`](https://github.com/kubernetes/kubernetes/pull/139302) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [azure: Remove duplicate `GetInstance` call in per-instance resync](https://github.com/cilium/cilium/pull/46192) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [azure: Remove unused `GetVpcsAndSubnets` function](https://github.com/cilium/cilium/pull/46173) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -29,4 +30,3 @@
 - [vendor: Update `controller-runtime` to `v0.24.0`](https://github.com/cilium/cilium/pull/45919) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Fix new golangci-lint findings](https://github.com/cilium/cilium/pull/45894) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [tools/cloud-dep-check: gitignore the built binary](https://github.com/cilium/cilium/pull/45892) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [:seedling: crd/markers: Emit cheaper CEL rules for `oneOf` markers](https://github.com/kubernetes-sigs/controller-tools/pull/1408) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (2 weeks ago)
