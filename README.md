@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [azure: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46202) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update ubuntu to 26.04](https://github.com/HadrienPatte/images/pull/26) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (1 day ago)
 - [discovery: fix bogus `rep` protobuf marker on `EndpointSlice.AddressType`](https://github.com/kubernetes/kubernetes/pull/139302) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [azure: Remove duplicate `GetInstance` call in per-instance resync](https://github.com/cilium/cilium/pull/46192) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -29,4 +30,3 @@
 - [ipam: Add CIDR-based release mechanism for ENI multipool mode](https://github.com/cilium/cilium/pull/45958) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [vendor: Update `controller-runtime` to `v0.24.0`](https://github.com/cilium/cilium/pull/45919) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Fix new golangci-lint findings](https://github.com/cilium/cilium/pull/45894) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [tools/cloud-dep-check: gitignore the built binary](https://github.com/cilium/cilium/pull/45892) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
