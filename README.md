@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/hive](https://github.com/cilium/hive) ([v1.0.2](https://github.com/cilium/hive/releases/tag/v1.0.2), 1 day ago) - Hive dependency injection
+- [cilium/hive](https://github.com/cilium/hive) ([v1.0.3](https://github.com/cilium/hive/releases/tag/v1.0.3), today) - Hive dependency injection
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.1](https://github.com/cilium/statedb/releases/tag/v0.8.1), 6 days ago) - In-memory state database for Go
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.4](https://github.com/cilium/cilium/releases/tag/v1.19.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [alibabacloud: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46210) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [azure: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46202) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update ubuntu to 26.04](https://github.com/HadrienPatte/images/pull/26) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (1 day ago)
 - [discovery: fix bogus `rep` protobuf marker on `EndpointSlice.AddressType`](https://github.com/kubernetes/kubernetes/pull/139302) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -29,4 +30,3 @@
 - [Fix golangci-lint v2.12+ findings](https://github.com/cilium/cilium/pull/45959) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Add CIDR-based release mechanism for ENI multipool mode](https://github.com/cilium/cilium/pull/45958) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [vendor: Update `controller-runtime` to `v0.24.0`](https://github.com/cilium/cilium/pull/45919) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Fix new golangci-lint findings](https://github.com/cilium/cilium/pull/45894) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
