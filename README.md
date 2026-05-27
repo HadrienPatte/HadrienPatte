@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [aws: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46220) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [alibabacloud: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46210) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [azure: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46202) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update ubuntu to 26.04](https://github.com/HadrienPatte/images/pull/26) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (1 day ago)
@@ -29,4 +30,3 @@
 - [operator/ipam: Consolidate cloud allocator bootstrap](https://github.com/cilium/cilium/pull/45975) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Fix golangci-lint v2.12+ findings](https://github.com/cilium/cilium/pull/45959) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Add CIDR-based release mechanism for ENI multipool mode](https://github.com/cilium/cilium/pull/45958) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [vendor: Update `controller-runtime` to `v0.24.0`](https://github.com/cilium/cilium/pull/45919) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
