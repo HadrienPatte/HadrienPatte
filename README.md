@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.1), today) - Self-hosted audiobook and podcast server
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.3](https://github.com/cilium/hive/releases/tag/v1.0.3), 1 day ago) - Hive dependency injection
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.1](https://github.com/cilium/statedb/releases/tag/v0.8.1), 1 week ago) - In-memory state database for Go
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.0](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.0), 1 week ago) - Self-hosted audiobook and podcast server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.4](https://github.com/cilium/cilium/releases/tag/v1.19.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([v0.21.0](https://github.com/kubernetes-sigs/controller-tools/releases/tag/v0.21.0), 3 weeks ago) - Tools to use with the controller-runtime libraries
