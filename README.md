@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Azure backports](https://github.com/DataDog/cilium/pull/668) on [DataDog/cilium](https://github.com/DataDog/cilium) (today)
 - [aws: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46220) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [alibabacloud: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46210) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [azure: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46202) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -29,4 +30,3 @@
 - [vendor: Update `controller-tools` fork to `v0.21.0-1`](https://github.com/cilium/cilium/pull/46039) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator/ipam: Consolidate cloud allocator bootstrap](https://github.com/cilium/cilium/pull/45975) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Fix golangci-lint v2.12+ findings](https://github.com/cilium/cilium/pull/45959) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Add CIDR-based release mechanism for ENI multipool mode](https://github.com/cilium/cilium/pull/45958) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
