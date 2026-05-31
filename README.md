@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.1), 2 days ago) - Self-hosted audiobook and podcast server
-- [cilium/hive](https://github.com/cilium/hive) ([v1.0.3](https://github.com/cilium/hive/releases/tag/v1.0.3), 3 days ago) - Hive dependency injection
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.1), 3 days ago) - Self-hosted audiobook and podcast server
+- [cilium/hive](https://github.com/cilium/hive) ([v1.0.3](https://github.com/cilium/hive/releases/tag/v1.0.3), 4 days ago) - Hive dependency injection
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.1](https://github.com/cilium/statedb/releases/tag/v0.8.1), 1 week ago) - In-memory state database for Go
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.4](https://github.com/cilium/cilium/releases/tag/v1.19.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
@@ -15,16 +15,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Build images on native arch](https://github.com/HadrienPatte/images/pull/28) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (today)
-- [azure: Fix public IP reassignment failure loop on operator restart](https://github.com/cilium/cilium/pull/46240) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [Azure backports](https://github.com/DataDog/cilium/pull/668) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 days ago)
-- [aws: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46220) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [alibabacloud: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46210) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [azure: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46202) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [Update ubuntu to 26.04](https://github.com/HadrienPatte/images/pull/26) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (4 days ago)
-- [discovery: fix bogus `rep` protobuf marker on `EndpointSlice.AddressType`](https://github.com/kubernetes/kubernetes/pull/139302) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
-- [azure: Remove duplicate `GetInstance` call in per-instance resync](https://github.com/cilium/cilium/pull/46192) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [azure: Remove unused `GetVpcsAndSubnets` function](https://github.com/cilium/cilium/pull/46173) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [Build images on native arch](https://github.com/HadrienPatte/images/pull/28) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (1 day ago)
+- [azure: Fix public IP reassignment failure loop on operator restart](https://github.com/cilium/cilium/pull/46240) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [Azure backports](https://github.com/DataDog/cilium/pull/668) on [DataDog/cilium](https://github.com/DataDog/cilium) (3 days ago)
+- [aws: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46220) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [alibabacloud: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46210) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [azure: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46202) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [Update ubuntu to 26.04](https://github.com/HadrienPatte/images/pull/26) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (5 days ago)
+- [discovery: fix bogus `rep` protobuf marker on `EndpointSlice.AddressType`](https://github.com/kubernetes/kubernetes/pull/139302) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
+- [azure: Remove duplicate `GetInstance` call in per-instance resync](https://github.com/cilium/cilium/pull/46192) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [azure: Remove unused `GetVpcsAndSubnets` function](https://github.com/cilium/cilium/pull/46173) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [azure: Skip listing NIC of empty VMSSs](https://github.com/cilium/cilium/pull/46129) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Remove unused ForeachAddress abstraction](https://github.com/cilium/cilium/pull/46111) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [build: Remove boringcrypto-based FIPS support](https://github.com/cilium/cilium/pull/46092) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
