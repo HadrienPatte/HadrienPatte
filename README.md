@@ -15,6 +15,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [aws: Assign and track EIP only on the primary ENI](https://github.com/cilium/cilium/pull/46329) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [azure: Return actual public IP from AssignPublicIPAddresses{VMSS,VM}](https://github.com/cilium/cilium/pull/46327) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate `VirtualNetwork` and `IPAMCIDR` to netip](https://github.com/cilium/cilium/pull/46309) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Build images on native arch](https://github.com/HadrienPatte/images/pull/28) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (3 days ago)
 - [azure: Fix public IP reassignment failure loop on operator restart](https://github.com/cilium/cilium/pull/46240) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -28,5 +30,3 @@
 - [azure: Remove unused `GetVpcsAndSubnets` function](https://github.com/cilium/cilium/pull/46173) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [azure: Skip listing NIC of empty VMSSs](https://github.com/cilium/cilium/pull/46129) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Remove unused ForeachAddress abstraction](https://github.com/cilium/cilium/pull/46111) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [build: Remove boringcrypto-based FIPS support](https://github.com/cilium/cilium/pull/46092) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [ip: Add `netip.Addr`/`Prefix` wrappers for Kubernetes API types](https://github.com/cilium/cilium/pull/46047) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
