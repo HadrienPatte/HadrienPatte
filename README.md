@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [azure: Standardize package layout](https://github.com/cilium/cilium/pull/46364) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [alibabacloud: Standardize package layout](https://github.com/cilium/cilium/pull/46349) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [:bug: Accept `encoding.TextMarshaler` types as CRD map keys](https://github.com/kubernetes-sigs/controller-tools/pull/1419) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (1 day ago)
 - [ipam: Migrate IPAM allocator public API to netip](https://github.com/cilium/cilium/pull/46345) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -29,4 +30,3 @@
 - [azure: Migrate IP/CIDR fields to ip.Addr/Prefix wrappers](https://github.com/cilium/cilium/pull/46202) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update ubuntu to 26.04](https://github.com/HadrienPatte/images/pull/26) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (1 week ago)
 - [discovery: fix bogus `rep` protobuf marker on `EndpointSlice.AddressType`](https://github.com/kubernetes/kubernetes/pull/139302) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [azure: Remove duplicate `GetInstance` call in per-instance resync](https://github.com/cilium/cilium/pull/46192) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
