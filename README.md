@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/hive](https://github.com/cilium/hive) ([v1.0.4-rc2](https://github.com/cilium/hive/releases/tag/v1.0.4-rc2), today) - Hive dependency injection
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.34.1](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.34.1), 6 days ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.3), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.1), 1 week ago) - Self-hosted audiobook and podcast server
-- [cilium/hive](https://github.com/cilium/hive) ([v1.0.3](https://github.com/cilium/hive/releases/tag/v1.0.3), 1 week ago) - Hive dependency injection
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.8.1](https://github.com/cilium/statedb/releases/tag/v0.8.1), 2 weeks ago) - In-memory state database for Go
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 4 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([v0.21.0](https://github.com/kubernetes-sigs/controller-tools/releases/tag/v0.21.0), 1 month ago) - Tools to use with the controller-runtime libraries
