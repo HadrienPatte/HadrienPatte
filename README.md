@@ -2,9 +2,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.8](https://github.com/cilium/statedb/releases/tag/v0.5.8), today) - In-memory state database for Go
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.4](https://github.com/cilium/hive/releases/tag/v1.0.4), today) - Hive dependency injection
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.1), today) - Production-Grade Container Scheduling and Management
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.4.9](https://github.com/cilium/statedb/releases/tag/v0.4.9), 1 day ago) - In-memory state database for Go
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.34.1](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.34.1), 1 week ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.3), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) ([v2.35.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.35.1), 2 weeks ago) - Self-hosted audiobook and podcast server
