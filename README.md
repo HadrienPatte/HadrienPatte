@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: fix typos and incorrect references in comments](https://github.com/cilium/cilium/pull/46549) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [pkg/k8s/slim: Remove deprecated and unused `Endpoints` related code](https://github.com/cilium/cilium/pull/46472) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [images: Remove package manager from `runtime` image](https://github.com/cilium/cilium/pull/46446) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [node: Migrate Linux node routes from `cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/46417) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -29,4 +30,3 @@
 - [ipam: Migrate `VirtualNetwork` and `IPAMCIDR` to netip](https://github.com/cilium/cilium/pull/46309) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Build images on native arch](https://github.com/HadrienPatte/images/pull/28) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (2 weeks ago)
 - [azure: Fix public IP reassignment failure loop on operator restart](https://github.com/cilium/cilium/pull/46240) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Azure backports](https://github.com/DataDog/cilium/pull/668) on [DataDog/cilium](https://github.com/DataDog/cilium) (2 weeks ago)
