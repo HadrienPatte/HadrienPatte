@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.35.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.35.0), 4 days ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.35.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.35.0), 5 days ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.2), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.8](https://github.com/cilium/statedb/releases/tag/v0.5.8), 1 week ago) - In-memory state database for Go
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.4](https://github.com/cilium/hive/releases/tag/v1.0.4), 1 week ago) - Hive dependency injection
@@ -14,13 +14,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:book: Update README compatibility matrix and remove stale content](https://github.com/kubernetes-sigs/controller-tools/pull/1435) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (5 days ago)
-- [ipam: Migrate `IPAMSpec.PodCIDRs` to `ip.Prefix`](https://github.com/cilium/cilium/pull/46599) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [:book: Update README compatibility matrix and remove stale content](https://github.com/kubernetes-sigs/controller-tools/pull/1435) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (6 days ago)
+- [ipam: Migrate `IPAMSpec.PodCIDRs` to `ip.Prefix`](https://github.com/cilium/cilium/pull/46599) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [ipam: fix typos and incorrect references in comments](https://github.com/cilium/cilium/pull/46549) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [pkg/k8s/slim: Remove deprecated and unused `Endpoints` related code](https://github.com/cilium/cilium/pull/46472) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [images: Remove package manager from `runtime` image](https://github.com/cilium/cilium/pull/46446) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [node: Migrate Linux node routes from `cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/46417) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [vtep: Migrate from `net.IP`/`cidr.CIDR` to `netip.{Addr,Prefix}`](https://github.com/cilium/cilium/pull/46414) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [node: Migrate Linux node routes from `cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/46417) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [vtep: Migrate from `net.IP`/`cidr.CIDR` to `netip.{Addr,Prefix}`](https://github.com/cilium/cilium/pull/46414) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [aws: Standardize package layout](https://github.com/cilium/cilium/pull/46368) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [azure: Standardize package layout](https://github.com/cilium/cilium/pull/46364) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [alibabacloud: Standardize package layout](https://github.com/cilium/cilium/pull/46349) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
@@ -28,4 +28,4 @@
 - [ipam: Migrate IPAM allocator public API to netip](https://github.com/cilium/cilium/pull/46345) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [aws: Assign and track EIP only on the primary ENI](https://github.com/cilium/cilium/pull/46329) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [azure: Return actual public IP from AssignPublicIPAddresses{VMSS,VM}](https://github.com/cilium/cilium/pull/46327) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Migrate `VirtualNetwork` and `IPAMCIDR` to netip](https://github.com/cilium/cilium/pull/46309) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [ipam: Migrate `VirtualNetwork` and `IPAMCIDR` to netip](https://github.com/cilium/cilium/pull/46309) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
