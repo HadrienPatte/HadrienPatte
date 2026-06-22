@@ -14,6 +14,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Reclaim still-advertised released CIDRs on renewed demand](https://github.com/cilium/cilium/pull/46674) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [:book: Update README compatibility matrix and remove stale content](https://github.com/kubernetes-sigs/controller-tools/pull/1435) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (6 days ago)
 - [ipam: Migrate `IPAMSpec.PodCIDRs` to `ip.Prefix`](https://github.com/cilium/cilium/pull/46599) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [ipam: fix typos and incorrect references in comments](https://github.com/cilium/cilium/pull/46549) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -28,4 +29,3 @@
 - [ipam: Migrate IPAM allocator public API to netip](https://github.com/cilium/cilium/pull/46345) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [aws: Assign and track EIP only on the primary ENI](https://github.com/cilium/cilium/pull/46329) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [azure: Return actual public IP from AssignPublicIPAddresses{VMSS,VM}](https://github.com/cilium/cilium/pull/46327) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Migrate `VirtualNetwork` and `IPAMCIDR` to netip](https://github.com/cilium/cilium/pull/46309) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
