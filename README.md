@@ -5,7 +5,6 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.2), today) - Production-Grade Container Scheduling and Management
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.35.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.35.0), 1 week ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/statedb](https://github.com/cilium/statedb) ([v0.5.8](https://github.com/cilium/statedb/releases/tag/v0.5.8), 2 weeks ago) - In-memory state database for Go
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.4](https://github.com/cilium/hive/releases/tag/v1.0.4), 2 weeks ago) - Hive dependency injection
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([v0.21.0](https://github.com/kubernetes-sigs/controller-tools/releases/tag/v0.21.0), 1 month ago) - Tools to use with the controller-runtime libraries
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 2 months ago) - 
