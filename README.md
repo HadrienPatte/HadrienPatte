@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [endpoint: Guard ENI routing rule teardown by IP ownership](https://github.com/cilium/cilium/pull/46677) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Reclaim still-advertised released CIDRs on renewed demand](https://github.com/cilium/cilium/pull/46674) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -27,4 +28,3 @@
 - [azure: Standardize package layout](https://github.com/cilium/cilium/pull/46364) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [alibabacloud: Standardize package layout](https://github.com/cilium/cilium/pull/46349) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [:bug: Accept `encoding.TextMarshaler` types as CRD map keys](https://github.com/kubernetes-sigs/controller-tools/pull/1419) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (3 weeks ago)
-- [ipam: Migrate IPAM allocator public API to netip](https://github.com/cilium/cilium/pull/46345) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
