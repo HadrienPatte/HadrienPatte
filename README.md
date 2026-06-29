@@ -2,8 +2,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([envtest-v1.36.2](https://github.com/kubernetes-sigs/controller-tools/releases/tag/envtest-v1.36.2), 2 days ago) - Tools to use with the controller-runtime libraries
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.2), 3 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([envtest-v1.36.2](https://github.com/kubernetes-sigs/controller-tools/releases/tag/envtest-v1.36.2), 3 days ago) - Tools to use with the controller-runtime libraries
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.2), 4 days ago) - Production-Grade Container Scheduling and Management
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.35.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.35.0), 1 week ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.4](https://github.com/cilium/hive/releases/tag/v1.0.4), 2 weeks ago) - Hive dependency injection
@@ -13,16 +13,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [endpoint: Guard ENI routing rule teardown by IP ownership](https://github.com/cilium/cilium/pull/46677) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
-- [ipam: Reclaim still-advertised released CIDRs on renewed demand](https://github.com/cilium/cilium/pull/46674) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [endpoint: Guard ENI routing rule teardown by IP ownership](https://github.com/cilium/cilium/pull/46677) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [ipam: Reclaim still-advertised released CIDRs on renewed demand](https://github.com/cilium/cilium/pull/46674) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [:book: Update README compatibility matrix and remove stale content](https://github.com/kubernetes-sigs/controller-tools/pull/1435) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (1 week ago)
 - [ipam: Migrate `IPAMSpec.PodCIDRs` to `ip.Prefix`](https://github.com/cilium/cilium/pull/46599) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: fix typos and incorrect references in comments](https://github.com/cilium/cilium/pull/46549) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [pkg/k8s/slim: Remove deprecated and unused `Endpoints` related code](https://github.com/cilium/cilium/pull/46472) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [images: Remove package manager from `runtime` image](https://github.com/cilium/cilium/pull/46446) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [node: Migrate Linux node routes from `cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/46417) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [vtep: Migrate from `net.IP`/`cidr.CIDR` to `netip.{Addr,Prefix}`](https://github.com/cilium/cilium/pull/46414) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [node: Migrate Linux node routes from `cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/46417) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
+- [vtep: Migrate from `net.IP`/`cidr.CIDR` to `netip.{Addr,Prefix}`](https://github.com/cilium/cilium/pull/46414) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [aws: Standardize package layout](https://github.com/cilium/cilium/pull/46368) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [azure: Standardize package layout](https://github.com/cilium/cilium/pull/46364) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [alibabacloud: Standardize package layout](https://github.com/cilium/cilium/pull/46349) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
