@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [helm: Remove unused core Endpoints RBAC from roles](https://github.com/cilium/cilium/pull/46817) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -27,4 +28,3 @@
 - [vtep: Migrate from `net.IP`/`cidr.CIDR` to `netip.{Addr,Prefix}`](https://github.com/cilium/cilium/pull/46414) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [aws: Standardize package layout](https://github.com/cilium/cilium/pull/46368) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [azure: Standardize package layout](https://github.com/cilium/cilium/pull/46364) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [alibabacloud: Standardize package layout](https://github.com/cilium/cilium/pull/46349) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
