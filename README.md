@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [endpoint: Guard ENI routing rule teardown by IP ownership](https://github.com/cilium/cilium/pull/46677) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -27,4 +28,3 @@
 - [aws: Standardize package layout](https://github.com/cilium/cilium/pull/46368) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [azure: Standardize package layout](https://github.com/cilium/cilium/pull/46364) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [alibabacloud: Standardize package layout](https://github.com/cilium/cilium/pull/46349) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [:bug: Accept `encoding.TextMarshaler` types as CRD map keys](https://github.com/kubernetes-sigs/controller-tools/pull/1419) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (3 weeks ago)
