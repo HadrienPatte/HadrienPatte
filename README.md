@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Harden workflows with least-privilege permissions and per-PR concurrency](https://github.com/cilium/image-tools/pull/517) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [helm: Remove unused core Endpoints RBAC from roles](https://github.com/cilium/cilium/pull/46817) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -27,4 +28,3 @@
 - [node: Migrate Linux node routes from `cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/46417) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [vtep: Migrate from `net.IP`/`cidr.CIDR` to `netip.{Addr,Prefix}`](https://github.com/cilium/cilium/pull/46414) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [aws: Standardize package layout](https://github.com/cilium/cilium/pull/46368) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [azure: Standardize package layout](https://github.com/cilium/cilium/pull/46364) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
