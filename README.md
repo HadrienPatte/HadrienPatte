@@ -2,13 +2,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.2](https://github.com/canonical/chisel/releases/tag/v1.4.2), today) - 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.4](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.4), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([envtest-v1.36.2](https://github.com/kubernetes-sigs/controller-tools/releases/tag/envtest-v1.36.2), 1 week ago) - Tools to use with the controller-runtime libraries
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.35.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.35.0), 2 weeks ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.4](https://github.com/cilium/hive/releases/tag/v1.0.4), 3 weeks ago) - Hive dependency injection
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 2 months ago) - 
-- [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.1](https://github.com/canonical/chisel/releases/tag/v1.4.1), 3 months ago) - 
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ([v1.22.1](https://github.com/GoogleContainerTools/container-structure-test/releases/tag/v1.22.1), 6 months ago) - validate the structure of your container images
 
 #### 🔨 My recent Pull Requests
