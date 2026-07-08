@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate `Node.IPv{4,6}HealthIP` and `RoutingInfo.Configure` to netip](https://github.com/cilium/cilium/pull/47001) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam/eni: Derive ENI primary address usage from CiliumNode spec](https://github.com/cilium/cilium/pull/46987) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [node: Add transitional Prefix type for kvstore-safe netip migration](https://github.com/cilium/cilium/pull/46929) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [docs: Align metrics reference with code implementation ](https://github.com/cilium/cilium/pull/46887) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -27,4 +28,3 @@
 - [ipam: Migrate `IPAMSpec.PodCIDRs` to `ip.Prefix`](https://github.com/cilium/cilium/pull/46599) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [ipam: fix typos and incorrect references in comments](https://github.com/cilium/cilium/pull/46549) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [pkg/k8s/slim: Remove deprecated and unused `Endpoints` related code](https://github.com/cilium/cilium/pull/46472) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [images: Remove package manager from `runtime` image](https://github.com/cilium/cilium/pull/46446) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
