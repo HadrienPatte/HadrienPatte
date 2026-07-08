@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam/eni: Derive ENI primary address usage from CiliumNode spec](https://github.com/cilium/cilium/pull/46987) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [node: Add transitional Prefix type for kvstore-safe netip migration](https://github.com/cilium/cilium/pull/46929) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [docs: Align metrics reference with code implementation ](https://github.com/cilium/cilium/pull/46887) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [ci: Harden workflows with least-privilege permissions and per-PR concurrency](https://github.com/cilium/image-tools/pull/517) on [cilium/image-tools](https://github.com/cilium/image-tools) (6 days ago)
@@ -27,4 +28,3 @@
 - [ipam: fix typos and incorrect references in comments](https://github.com/cilium/cilium/pull/46549) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [pkg/k8s/slim: Remove deprecated and unused `Endpoints` related code](https://github.com/cilium/cilium/pull/46472) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [images: Remove package manager from `runtime` image](https://github.com/cilium/cilium/pull/46446) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [node: Migrate Linux node routes from `cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/46417) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
