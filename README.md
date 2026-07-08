@@ -2,10 +2,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.3), today) - Production-Grade Container Scheduling and Management
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.4.2](https://github.com/canonical/chisel/releases/tag/v1.4.2), 1 day ago) - 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.4](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.4), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) ([envtest-v1.36.2](https://github.com/kubernetes-sigs/controller-tools/releases/tag/envtest-v1.36.2), 1 week ago) - Tools to use with the controller-runtime libraries
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
 - [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) ([v1.35.0](https://github.com/oracle/oci-cloud-controller-manager/releases/tag/v1.35.0), 3 weeks ago) - Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
 - [cilium/hive](https://github.com/cilium/hive) ([v1.0.4](https://github.com/cilium/hive/releases/tag/v1.0.4), 3 weeks ago) - Hive dependency injection
 - [rust-netlink/rtnetlink](https://github.com/rust-netlink/rtnetlink) ([v0.21.0](https://github.com/rust-netlink/rtnetlink/releases/tag/v0.21.0), 2 months ago) - 
