@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [images/builder: Base on Ubuntu directly instead of the runtime image](https://github.com/cilium/cilium/pull/47096) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Migrate `Node.IPv{4,6}HealthIP` and `RoutingInfo.Configure` to netip](https://github.com/cilium/cilium/pull/47001) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [ipam/eni: Derive ENI primary address usage from CiliumNode spec](https://github.com/cilium/cilium/pull/46987) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [node: Add transitional Prefix type for kvstore-safe netip migration](https://github.com/cilium/cilium/pull/46929) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -27,4 +28,3 @@
 - [:book: Update README compatibility matrix and remove stale content](https://github.com/kubernetes-sigs/controller-tools/pull/1435) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (3 weeks ago)
 - [ipam: Migrate `IPAMSpec.PodCIDRs` to `ip.Prefix`](https://github.com/cilium/cilium/pull/46599) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [ipam: fix typos and incorrect references in comments](https://github.com/cilium/cilium/pull/46549) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [pkg/k8s/slim: Remove deprecated and unused `Endpoints` related code](https://github.com/cilium/cilium/pull/46472) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
