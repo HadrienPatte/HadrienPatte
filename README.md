@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [doublewrite: Don't run CRD backend with real handler when reading from KVStore](https://github.com/cilium/cilium/pull/47144) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Fix panic in CT map CG on agent shutdown](https://github.com/cilium/cilium/pull/47139) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Fix nil-pointer panic in CiliumNode GC](https://github.com/cilium/cilium/pull/47127) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [images/builder: Base on Ubuntu directly instead of the runtime image](https://github.com/cilium/cilium/pull/47096) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -27,4 +28,3 @@
 - [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [endpoint: Guard ENI routing rule teardown by IP ownership](https://github.com/cilium/cilium/pull/46677) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [ipam: Reclaim still-advertised released CIDRs on renewed demand](https://github.com/cilium/cilium/pull/46674) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [:book: Update README compatibility matrix and remove stale content](https://github.com/kubernetes-sigs/controller-tools/pull/1435) on [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) (3 weeks ago)
