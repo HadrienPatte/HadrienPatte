@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [policy: Reject bare IP addresses in CIDR policy fields](https://github.com/cilium/cilium/pull/47150) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [doublewrite: Don't run CRD backend with real handler when reading from KVStore](https://github.com/cilium/cilium/pull/47144) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Fix panic in CT map CG on agent shutdown](https://github.com/cilium/cilium/pull/47139) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Fix nil-pointer panic in CiliumNode GC](https://github.com/cilium/cilium/pull/47127) on [cilium/cilium](https://github.com/cilium/cilium) (today)
@@ -27,4 +28,3 @@
 - [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [endpoint: Guard ENI routing rule teardown by IP ownership](https://github.com/cilium/cilium/pull/46677) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [ipam: Reclaim still-advertised released CIDRs on renewed demand](https://github.com/cilium/cilium/pull/46674) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
