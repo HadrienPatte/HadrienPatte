@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [datapath/linux: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47197) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [node: Migrate `IPv{4,6}IngressIP` to netip](https://github.com/cilium/cilium/pull/47165) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [policy: Reject bare IP addresses in CIDR policy fields](https://github.com/cilium/cilium/pull/47150) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [doublewrite: Don't run CRD backend with real handler when reading from KVStore](https://github.com/cilium/cilium/pull/47144) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -27,4 +28,3 @@
 - [helm: Remove unused core Endpoints RBAC from roles](https://github.com/cilium/cilium/pull/46817) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
