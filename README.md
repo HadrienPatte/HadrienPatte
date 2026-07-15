@@ -13,6 +13,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [images: Update runtime and builder images base to ubuntu 26.04](https://github.com/cilium/cilium/pull/47215) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ci: Skip redundant setup when base images already exist](https://github.com/cilium/cilium/pull/47209) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [datapath/linux: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47197) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [node: Migrate `IPv{4,6}IngressIP` to netip](https://github.com/cilium/cilium/pull/47165) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -27,4 +28,3 @@
 - [docs: Align metrics reference with code implementation ](https://github.com/cilium/cilium/pull/46887) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ci: Harden workflows with least-privilege permissions and per-PR concurrency](https://github.com/cilium/image-tools/pull/517) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [helm: Remove unused core Endpoints RBAC from roles](https://github.com/cilium/cilium/pull/46817) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
