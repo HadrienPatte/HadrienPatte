@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Migrate `PoolCIDR` and `UpsertPool` to netip](https://github.com/cilium/cilium/pull/47338) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [node: Migrate Node alloc-CIDR fields from `*cidr.CIDR` to netip](https://github.com/cilium/cilium/pull/47253) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [images: Update runtime and builder images base to ubuntu 26.04](https://github.com/cilium/cilium/pull/47215) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [ci: Skip redundant setup when base images already exist](https://github.com/cilium/cilium/pull/47209) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [endpoint: Guard ENI routing rule teardown by IP ownership](https://github.com/cilium/cilium/pull/46677) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
