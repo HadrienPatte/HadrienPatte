@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [api/v1/health: Remove dead `x-go-type` `hint` block](https://github.com/cilium/cilium/pull/47352) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam: Migrate `PoolCIDR` and `UpsertPool` to netip](https://github.com/cilium/cilium/pull/47338) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [node: Migrate Node alloc-CIDR fields from `*cidr.CIDR` to netip](https://github.com/cilium/cilium/pull/47253) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [images: Update runtime and builder images base to ubuntu 26.04](https://github.com/cilium/cilium/pull/47215) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -21,4 +22,3 @@
 - [helm: Remove unused core Endpoints RBAC from roles](https://github.com/cilium/cilium/pull/46817) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [images/runtime: Update iptables-wrapper to upstream v3 (Go)](https://github.com/cilium/cilium/pull/46694) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
