@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Separate Go major upgrades into their own Renovate PR](https://github.com/cilium/cilium/pull/47382) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [api/v1/health: Remove dead `x-go-type` `hint` block](https://github.com/cilium/cilium/pull/47352) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Migrate `PoolCIDR` and `UpsertPool` to netip](https://github.com/cilium/cilium/pull/47338) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [node: Migrate Node alloc-CIDR fields from `*cidr.CIDR` to netip](https://github.com/cilium/cilium/pull/47253) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -21,4 +22,3 @@
 - [ci: Harden workflows with least-privilege permissions and per-PR concurrency](https://github.com/cilium/image-tools/pull/517) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
 - [helm: Remove unused core Endpoints RBAC from roles](https://github.com/cilium/cilium/pull/46817) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [metrics: Emit native histograms for all histograms by default](https://github.com/cilium/cilium/pull/46814) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [docs: Update ENI IPAM docs for multi-pool allocator migration](https://github.com/cilium/cilium/pull/46797) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
