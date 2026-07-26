@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [gitattributes: Restore rST syntax highlighting for upgrade notes](https://github.com/cilium/cilium/pull/47467) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [option: Migrate `DaemonConfig.IPv{4,6}NativeRoutingCIDR` to netip](https://github.com/cilium/cilium/pull/47459) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [operator: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47424) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [images/builder: Base on Ubuntu directly instead of the runtime image](https://github.com/cilium/cilium/pull/47096) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Migrate `Node.IPv{4,6}HealthIP` and `RoutingInfo.Configure` to netip](https://github.com/cilium/cilium/pull/47001) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam/eni: Derive ENI primary address usage from CiliumNode spec](https://github.com/cilium/cilium/pull/46987) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [node: Add transitional Prefix type for kvstore-safe netip migration](https://github.com/cilium/cilium/pull/46929) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
