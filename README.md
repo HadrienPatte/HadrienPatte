@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [api: Migrate SNAT exclusion CIDRs to netip](https://github.com/cilium/cilium/pull/47548) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [cilium-cli: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47533) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [doublewrite: Don't run CRD backend with real handler when reading from KVStore](https://github.com/cilium/cilium/pull/47144) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Fix panic in CT map CG on agent shutdown](https://github.com/cilium/cilium/pull/47139) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [operator: Fix nil-pointer panic in CiliumNode GC](https://github.com/cilium/cilium/pull/47127) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [images/builder: Base on Ubuntu directly instead of the runtime image](https://github.com/cilium/cilium/pull/47096) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
