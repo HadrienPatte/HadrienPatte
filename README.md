@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
 - [build: Update iptables from 1.8.8 to 1.8.11](https://github.com/cilium/cilium/pull/47623) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [api: Migrate SNAT exclusion CIDRs to netip](https://github.com/cilium/cilium/pull/47548) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [node: Migrate `IPv{4,6}IngressIP` to netip](https://github.com/cilium/cilium/pull/47165) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [policy: Reject bare IP addresses in CIDR policy fields](https://github.com/cilium/cilium/pull/47150) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [doublewrite: Don't run CRD backend with real handler when reading from KVStore](https://github.com/cilium/cilium/pull/47144) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Fix panic in CT map CG on agent shutdown](https://github.com/cilium/cilium/pull/47139) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
