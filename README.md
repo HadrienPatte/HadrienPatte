@@ -2,12 +2,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
-- [build: Update iptables from 1.8.8 to 1.8.11](https://github.com/cilium/cilium/pull/47623) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [api: Migrate SNAT exclusion CIDRs to netip](https://github.com/cilium/cilium/pull/47548) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [cilium-cli: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47533) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
+- [build: Update iptables from 1.8.8 to 1.8.11](https://github.com/cilium/cilium/pull/47623) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [api: Migrate SNAT exclusion CIDRs to netip](https://github.com/cilium/cilium/pull/47548) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [cilium-cli: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47533) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [gitattributes: Restore rST syntax highlighting for upgrade notes](https://github.com/cilium/cilium/pull/47467) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [option: Migrate `DaemonConfig.IPv{4,6}NativeRoutingCIDR` to netip](https://github.com/cilium/cilium/pull/47459) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47424) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
