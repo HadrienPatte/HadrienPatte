@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Bump Renovate to 43.288.0 to restore commit sign-off](https://github.com/cilium/cilium/pull/47689) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
 - [build: Update iptables from 1.8.8 to 1.8.11](https://github.com/cilium/cilium/pull/47623) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [datapath/linux: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47197) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [node: Migrate `IPv{4,6}IngressIP` to netip](https://github.com/cilium/cilium/pull/47165) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [policy: Reject bare IP addresses in CIDR policy fields](https://github.com/cilium/cilium/pull/47150) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [doublewrite: Don't run CRD backend with real handler when reading from KVStore](https://github.com/cilium/cilium/pull/47144) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
