@@ -11,7 +11,7 @@
 - [cilium-cli: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47533) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [gitattributes: Restore rST syntax highlighting for upgrade notes](https://github.com/cilium/cilium/pull/47467) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [option: Migrate `DaemonConfig.IPv{4,6}NativeRoutingCIDR` to netip](https://github.com/cilium/cilium/pull/47459) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [Migrate the native routing CIDRs from `*cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/47459) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47424) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [[1.20] Fix panic in CT map CG on agent shutdown ](https://github.com/cilium/cilium/pull/47418) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ci: Separate Go major upgrades into their own Renovate PR](https://github.com/cilium/cilium/pull/47382) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
