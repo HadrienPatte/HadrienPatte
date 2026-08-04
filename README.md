@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Accept native routing CIDR that is a subnet of the VPC CIDR](https://github.com/cilium/cilium/pull/47748) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [aws: Use `GetSecurityGroupsForVpc` to fetch security groups](https://github.com/cilium/cilium/pull/47704) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ci: Bump Renovate to 43.288.0 to restore commit sign-off](https://github.com/cilium/cilium/pull/47689) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
@@ -21,4 +22,3 @@
 - [images: Update runtime and builder images base to ubuntu 26.04](https://github.com/cilium/cilium/pull/47215) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ci: Skip redundant setup when base images already exist](https://github.com/cilium/cilium/pull/47209) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [datapath/linux: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47197) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [node: Migrate `IPv{4,6}IngressIP` to netip](https://github.com/cilium/cilium/pull/47165) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
