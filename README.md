@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [api: Resync server.gotmpl with go-swagger v0.36.1](https://github.com/cilium/cilium/pull/47773) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [api: Migrate the IPAM address response IP/gateway/CIDRs to netip](https://github.com/cilium/cilium/pull/47752) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Accept native routing CIDR that is a subnet of the VPC CIDR](https://github.com/cilium/cilium/pull/47748) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [aws: Use `GetSecurityGroupsForVpc` to fetch security groups](https://github.com/cilium/cilium/pull/47704) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -21,4 +22,3 @@
 - [ipam: Migrate `PoolCIDR` and `UpsertPool` to netip](https://github.com/cilium/cilium/pull/47338) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [node: Migrate Node alloc-CIDR fields from `*cidr.CIDR` to netip](https://github.com/cilium/cilium/pull/47253) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [images: Update runtime and builder images base to ubuntu 26.04](https://github.com/cilium/cilium/pull/47215) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [ci: Skip redundant setup when base images already exist](https://github.com/cilium/cilium/pull/47209) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
