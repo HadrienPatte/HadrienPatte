@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [.github: Set issue type on bug report and feature templates](https://github.com/cilium/cilium/pull/47849) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator/ipam: Restore fatal exit when the IPAM node watcher fails](https://github.com/cilium/cilium/pull/47778) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [api: Resync server.gotmpl with go-swagger v0.36.1](https://github.com/cilium/cilium/pull/47773) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [api: Migrate the IPAM address response IP/gateway/CIDRs to netip](https://github.com/cilium/cilium/pull/47752) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -21,4 +22,3 @@
 - [ci: Separate Go major upgrades into their own Renovate PR](https://github.com/cilium/cilium/pull/47382) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [api/v1/health: Remove dead `x-go-type` `hint` block](https://github.com/cilium/cilium/pull/47352) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ipam: Migrate `PoolCIDR` and `UpsertPool` to netip](https://github.com/cilium/cilium/pull/47338) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [node: Migrate Node alloc-CIDR fields from `*cidr.CIDR` to netip](https://github.com/cilium/cilium/pull/47253) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
