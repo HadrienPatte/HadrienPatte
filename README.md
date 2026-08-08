@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [slim/k8s: Reduce agent and operator memory usage by removing unused fields from the slim Kubernetes types](https://github.com/cilium/cilium/pull/47856) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [api: Type the MAC fields as `mac.MAC`](https://github.com/cilium/cilium/pull/47851) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [.github: Set issue type on bug report and feature templates](https://github.com/cilium/cilium/pull/47849) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [operator/ipam: Restore fatal exit when the IPAM node watcher fails](https://github.com/cilium/cilium/pull/47778) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -21,4 +22,3 @@
 - [operator: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47424) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [[1.20] Fix panic in CT map CG on agent shutdown ](https://github.com/cilium/cilium/pull/47418) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ci: Separate Go major upgrades into their own Renovate PR](https://github.com/cilium/cilium/pull/47382) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [api/v1/health: Remove dead `x-go-type` `hint` block](https://github.com/cilium/cilium/pull/47352) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
