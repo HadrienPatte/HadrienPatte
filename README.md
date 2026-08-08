@@ -2,13 +2,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [.github: Set issue type on bug report and feature templates](https://github.com/cilium/cilium/pull/47849) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [operator/ipam: Restore fatal exit when the IPAM node watcher fails](https://github.com/cilium/cilium/pull/47778) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [api: Resync server.gotmpl with go-swagger v0.36.1](https://github.com/cilium/cilium/pull/47773) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [api: Migrate the IPAM address response IP/gateway/CIDRs to netip](https://github.com/cilium/cilium/pull/47752) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [ipam: Accept native routing CIDR that is a subnet of the VPC CIDR](https://github.com/cilium/cilium/pull/47748) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [aws: Use `GetSecurityGroupsForVpc` to fetch security groups](https://github.com/cilium/cilium/pull/47704) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [ci: Bump Renovate to 43.288.0 to restore commit sign-off](https://github.com/cilium/cilium/pull/47689) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [api: Type the MAC fields as `mac.MAC`](https://github.com/cilium/cilium/pull/47851) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [.github: Set issue type on bug report and feature templates](https://github.com/cilium/cilium/pull/47849) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [operator/ipam: Restore fatal exit when the IPAM node watcher fails](https://github.com/cilium/cilium/pull/47778) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [api: Resync server.gotmpl with go-swagger v0.36.1](https://github.com/cilium/cilium/pull/47773) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [api: Migrate the IPAM address response IP/gateway/CIDRs to netip](https://github.com/cilium/cilium/pull/47752) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [ipam: Accept native routing CIDR that is a subnet of the VPC CIDR](https://github.com/cilium/cilium/pull/47748) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [aws: Use `GetSecurityGroupsForVpc` to fetch security groups](https://github.com/cilium/cilium/pull/47704) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [ci: Bump Renovate to 43.288.0 to restore commit sign-off](https://github.com/cilium/cilium/pull/47689) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [build: Update iptables from 1.8.8 to 1.8.11](https://github.com/cilium/cilium/pull/47623) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [[1.20] Fix panic in CT map CG on agent shutdown ](https://github.com/cilium/cilium/pull/47418) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [ci: Separate Go major upgrades into their own Renovate PR](https://github.com/cilium/cilium/pull/47382) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [api/v1/health: Remove dead `x-go-type` `hint` block](https://github.com/cilium/cilium/pull/47352) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam: Migrate `PoolCIDR` and `UpsertPool` to netip](https://github.com/cilium/cilium/pull/47338) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
