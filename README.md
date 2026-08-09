@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [deepequal: Support array-typed struct fields](https://github.com/cilium/deepequal-gen/pull/9) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (today)
 - [slim/k8s: Reduce agent and operator memory usage by removing unused fields from the slim Kubernetes types](https://github.com/cilium/cilium/pull/47856) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [api: Type the MAC fields as `mac.MAC`](https://github.com/cilium/cilium/pull/47851) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [.github: Set issue type on bug report and feature templates](https://github.com/cilium/cilium/pull/47849) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -21,4 +22,3 @@
 - [Migrate the native routing CIDRs from `*cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/47459) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [operator: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47424) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [[1.20] Fix panic in CT map CG on agent shutdown ](https://github.com/cilium/cilium/pull/47418) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ci: Separate Go major upgrades into their own Renovate PR](https://github.com/cilium/cilium/pull/47382) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
