@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [golangci-lint: Forbid stdlib `net.Interface*` functions](https://github.com/cilium/cilium/pull/47902) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [test: Forbid `reflect.DeepEqual` in test code](https://github.com/cilium/cilium/pull/47891) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Emit startup logs in the configured log format](https://github.com/cilium/cilium/pull/47890) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [deepequal: Support array-typed struct fields](https://github.com/cilium/deepequal-gen/pull/9) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (2 days ago)
@@ -21,4 +22,3 @@
 - [cilium-cli: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47533) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [gitattributes: Restore rST syntax highlighting for upgrade notes](https://github.com/cilium/cilium/pull/47467) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Migrate the native routing CIDRs from `*cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/47459) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
