@@ -2,6 +2,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: Forbid `reflect.DeepEqual` in test code](https://github.com/cilium/cilium/pull/47891) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [operator: Emit startup logs in the configured log format](https://github.com/cilium/cilium/pull/47890) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [deepequal: Support array-typed struct fields](https://github.com/cilium/deepequal-gen/pull/9) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (2 days ago)
 - [slim/k8s: Reduce agent and operator memory usage by removing unused fields from the slim Kubernetes types](https://github.com/cilium/cilium/pull/47856) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [api: Type the MAC fields as `mac.MAC`](https://github.com/cilium/cilium/pull/47851) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -20,5 +22,3 @@
 - [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [gitattributes: Restore rST syntax highlighting for upgrade notes](https://github.com/cilium/cilium/pull/47467) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Migrate the native routing CIDRs from `*cidr.CIDR` to `netip.Prefix`](https://github.com/cilium/cilium/pull/47459) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [operator: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47424) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [[1.20] Fix panic in CT map CG on agent shutdown ](https://github.com/cilium/cilium/pull/47418) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
