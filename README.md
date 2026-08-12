@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam/multi-pool: Allow regaining ownership of removed CIDRs](https://github.com/cilium/cilium/pull/47916) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [golangci-lint: Fix `netlink.AddrList` escaping the forbidigo check](https://github.com/cilium/cilium/pull/47903) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [golangci-lint: Forbid stdlib `net.Interface*` functions](https://github.com/cilium/cilium/pull/47902) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [test: Forbid `reflect.DeepEqual` in test code](https://github.com/cilium/cilium/pull/47891) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -21,4 +22,3 @@
 - [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [api: Migrate SNAT exclusion CIDRs to netip](https://github.com/cilium/cilium/pull/47548) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47533) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [Use k8s API constants instead of string literals](https://github.com/cilium/cilium/pull/47505) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
