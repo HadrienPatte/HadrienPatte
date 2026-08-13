@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator/ipam: Remove the per-node pool-maintainer retry trigger](https://github.com/cilium/cilium/pull/47939) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam/multi-pool: Allow regaining ownership of removed CIDRs](https://github.com/cilium/cilium/pull/47916) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [golangci-lint: Fix `netlink.AddrList` escaping the forbidigo check](https://github.com/cilium/cilium/pull/47903) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [golangci-lint: Forbid stdlib `net.Interface*` functions](https://github.com/cilium/cilium/pull/47902) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -21,4 +22,3 @@
 - [build: Update iptables from 1.8.8 to 1.8.11](https://github.com/cilium/cilium/pull/47623) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [api: Migrate SNAT exclusion CIDRs to netip](https://github.com/cilium/cilium/pull/47548) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [cilium-cli: Replace `reflect.DeepEqual` with `assert.Equal` in tests](https://github.com/cilium/cilium/pull/47533) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
