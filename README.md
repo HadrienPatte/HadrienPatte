@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [golangci-lint: Migrate checks from bash scripts to forbidigo/depguard rules](https://github.com/cilium/cilium/pull/47946) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator/ipam: Remove the per-node pool-maintainer retry trigger](https://github.com/cilium/cilium/pull/47939) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam/multi-pool: Allow regaining ownership of removed CIDRs](https://github.com/cilium/cilium/pull/47916) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [golangci-lint: Fix `netlink.AddrList` escaping the forbidigo check](https://github.com/cilium/cilium/pull/47903) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -21,4 +22,3 @@
 - [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [build: Update iptables from 1.8.8 to 1.8.11](https://github.com/cilium/cilium/pull/47623) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [wireguard: Unsubscribe node handler on shutdown](https://github.com/cilium/cilium/pull/47614) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [api: Migrate SNAT exclusion CIDRs to netip](https://github.com/cilium/cilium/pull/47548) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
