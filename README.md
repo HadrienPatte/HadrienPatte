@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [node: Migrate native routing CIDRs to netip.Prefix](https://github.com/cilium/cilium/pull/48010) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cell: Decode config fields implementing `encoding.TextUnmarshaler`](https://github.com/cilium/hive/pull/79) on [cilium/hive](https://github.com/cilium/hive) (today)
 - [nodediscovery: Make ENI instance facts unoverridable by CNI conf](https://github.com/cilium/cilium/pull/47980) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam/eni: Source the ENI VPC CIDRs from IMDS](https://github.com/cilium/cilium/pull/47974) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -21,4 +22,3 @@
 - [api: Migrate the IPAM address response IP/gateway/CIDRs to netip](https://github.com/cilium/cilium/pull/47752) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Accept native routing CIDR that is a subnet of the VPC CIDR](https://github.com/cilium/cilium/pull/47748) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [aws: Use `GetSecurityGroupsForVpc` to fetch security groups](https://github.com/cilium/cilium/pull/47704) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [ci: Bump Renovate to 43.288.0 to restore commit sign-off](https://github.com/cilium/cilium/pull/47689) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
