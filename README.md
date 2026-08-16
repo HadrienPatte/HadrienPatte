@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cell: Decode config fields implementing `encoding.TextUnmarshaler`](https://github.com/cilium/hive/pull/79) on [cilium/hive](https://github.com/cilium/hive) (today)
 - [nodediscovery: Make ENI instance facts unoverridable by CNI conf](https://github.com/cilium/cilium/pull/47980) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam/eni: Source the ENI VPC CIDRs from IMDS](https://github.com/cilium/cilium/pull/47974) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [golangci-lint: Migrate checks from bash scripts to forbidigo/depguard rules](https://github.com/cilium/cilium/pull/47946) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -21,4 +22,3 @@
 - [ipam: Accept native routing CIDR that is a subnet of the VPC CIDR](https://github.com/cilium/cilium/pull/47748) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [aws: Use `GetSecurityGroupsForVpc` to fetch security groups](https://github.com/cilium/cilium/pull/47704) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ci: Bump Renovate to 43.288.0 to restore commit sign-off](https://github.com/cilium/cilium/pull/47689) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [Remove iptables image](https://github.com/cilium/image-tools/pull/528) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 weeks ago)
