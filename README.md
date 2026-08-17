@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [[1.20] ipam: Accept native routing CIDR overlapping a secondary VPC CIDR](https://github.com/cilium/cilium/pull/48024) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [node: Migrate native routing CIDRs to netip.Prefix](https://github.com/cilium/cilium/pull/48010) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [cell: Decode config fields implementing `encoding.TextUnmarshaler`](https://github.com/cilium/hive/pull/79) on [cilium/hive](https://github.com/cilium/hive) (1 day ago)
@@ -21,4 +22,3 @@
 - [operator/ipam: Restore fatal exit when the IPAM node watcher fails](https://github.com/cilium/cilium/pull/47778) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [api: Resync server.gotmpl with go-swagger v0.36.1](https://github.com/cilium/cilium/pull/47773) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [api: Migrate the IPAM address response IP/gateway/CIDRs to netip](https://github.com/cilium/cilium/pull/47752) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [ipam: Accept native routing CIDR that is a subnet of the VPC CIDR](https://github.com/cilium/cilium/pull/47748) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
