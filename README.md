@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [[1.20] ipam: Accept native routing CIDR overlapping a secondary VPC CIDR](https://github.com/cilium/cilium/pull/48024) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [node: Migrate native routing CIDRs to netip.Prefix](https://github.com/cilium/cilium/pull/48010) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
@@ -21,4 +22,3 @@
 - [.github: Set issue type on bug report and feature templates](https://github.com/cilium/cilium/pull/47849) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator/ipam: Restore fatal exit when the IPAM node watcher fails](https://github.com/cilium/cilium/pull/47778) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [api: Resync server.gotmpl with go-swagger v0.36.1](https://github.com/cilium/cilium/pull/47773) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [api: Migrate the IPAM address response IP/gateway/CIDRs to netip](https://github.com/cilium/cilium/pull/47752) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
