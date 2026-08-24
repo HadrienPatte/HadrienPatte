@@ -2,11 +2,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam/aws: Extract AWS-only logic from the global `pkg/ipam` package](https://github.com/cilium/cilium/pull/48131) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
-- [[1.20] ipam: Accept native routing CIDR overlapping a secondary VPC CIDR](https://github.com/cilium/cilium/pull/48024) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [ipam/aws: Extract AWS-only logic from the global `pkg/ipam` package](https://github.com/cilium/cilium/pull/48131) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [[1.20] ipam: Accept native routing CIDR overlapping a secondary VPC CIDR](https://github.com/cilium/cilium/pull/48024) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [node: Migrate native routing CIDRs to netip.Prefix](https://github.com/cilium/cilium/pull/48010) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cell: Decode config fields implementing `encoding.TextUnmarshaler`](https://github.com/cilium/hive/pull/79) on [cilium/hive](https://github.com/cilium/hive) (1 week ago)
 - [nodediscovery: Make ENI instance facts unoverridable by CNI conf](https://github.com/cilium/cilium/pull/47980) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
