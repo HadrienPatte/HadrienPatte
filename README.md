@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam: Type the cloud provider MAC fields in the CiliumNode status](https://github.com/cilium/cilium/pull/48197) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ipam/aws: Extract AWS-only logic from the global `pkg/ipam` package](https://github.com/cilium/cilium/pull/48131) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -21,4 +22,3 @@
 - [deepequal: Support array-typed struct fields](https://github.com/cilium/deepequal-gen/pull/9) on [cilium/deepequal-gen](https://github.com/cilium/deepequal-gen) (2 weeks ago)
 - [slim/k8s: Reduce agent and operator memory usage by removing unused fields from the slim Kubernetes types](https://github.com/cilium/cilium/pull/47856) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [api: Type the MAC fields as `mac.MAC`](https://github.com/cilium/cilium/pull/47851) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [.github: Set issue type on bug report and feature templates](https://github.com/cilium/cilium/pull/47849) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
