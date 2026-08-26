@@ -2,10 +2,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: Type the cloud provider MAC fields in the CiliumNode status](https://github.com/cilium/cilium/pull/48197) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [ipam/aws: Extract AWS-only logic from the global `pkg/ipam` package](https://github.com/cilium/cilium/pull/48131) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
-- [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [ipam: Type the cloud provider MAC fields in the CiliumNode status](https://github.com/cilium/cilium/pull/48197) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [ipam/aws: Extract AWS-only logic from the global `pkg/ipam` package](https://github.com/cilium/cilium/pull/48131) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [[1.20] ipam: Accept native routing CIDR overlapping a secondary VPC CIDR](https://github.com/cilium/cilium/pull/48024) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [node: Migrate native routing CIDRs to netip.Prefix](https://github.com/cilium/cilium/pull/48010) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -14,7 +14,7 @@
 - [ipam/eni: Source the ENI VPC CIDRs from IMDS](https://github.com/cilium/cilium/pull/47974) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [golangci-lint: Migrate checks from bash scripts to forbidigo/depguard rules](https://github.com/cilium/cilium/pull/47946) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator/ipam: Remove the per-node pool-maintainer retry trigger](https://github.com/cilium/cilium/pull/47939) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [ipam/multi-pool: Allow regaining ownership of removed CIDRs](https://github.com/cilium/cilium/pull/47916) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [ipam/multi-pool: Allow regaining ownership of removed CIDRs](https://github.com/cilium/cilium/pull/47916) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [golangci-lint: Fix `netlink.AddrList` escaping the forbidigo check](https://github.com/cilium/cilium/pull/47903) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [golangci-lint: Forbid stdlib `net.Interface*` functions](https://github.com/cilium/cilium/pull/47902) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [test: Forbid `reflect.DeepEqual` in test code](https://github.com/cilium/cilium/pull/47891) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
