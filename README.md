@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [vendor: Update `cel-go` module import path](https://github.com/cilium/cilium/pull/48341) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Fix trigger dependency checks and drop the inert comment recency guard](https://github.com/cilium/ariane/pull/182) on [cilium/ariane](https://github.com/cilium/ariane) (2 days ago)
 - [datapath: Migrate `IPv{4,6}PodSubnets` to `ip.Prefix`](https://github.com/cilium/cilium/pull/48253) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [bpf: Replace `mac_t` with `union macaddr` and `mac.Uint64MAC` with `mac.MAC`](https://github.com/cilium/cilium/pull/48249) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [golangci-lint: Fix `netlink.AddrList` escaping the forbidigo check](https://github.com/cilium/cilium/pull/47903) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [golangci-lint: Forbid stdlib `net.Interface*` functions](https://github.com/cilium/cilium/pull/47902) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [test: Forbid `reflect.DeepEqual` in test code](https://github.com/cilium/cilium/pull/47891) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [operator: Emit startup logs in the configured log format](https://github.com/cilium/cilium/pull/47890) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
