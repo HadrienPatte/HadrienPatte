@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [vendor: Update k8s libraries to v1.37.0](https://github.com/cilium/cilium/pull/48400) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [vendor: Update `cel-go` module import path](https://github.com/cilium/cilium/pull/48341) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [Fix trigger dependency checks and drop the inert comment recency guard](https://github.com/cilium/ariane/pull/182) on [cilium/ariane](https://github.com/cilium/ariane) (5 days ago)
 - [datapath: Migrate `IPv{4,6}PodSubnets` to `ip.Prefix`](https://github.com/cilium/cilium/pull/48253) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [ipam/multi-pool: Allow regaining ownership of removed CIDRs](https://github.com/cilium/cilium/pull/47916) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [golangci-lint: Fix `netlink.AddrList` escaping the forbidigo check](https://github.com/cilium/cilium/pull/47903) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [golangci-lint: Forbid stdlib `net.Interface*` functions](https://github.com/cilium/cilium/pull/47902) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [test: Forbid `reflect.DeepEqual` in test code](https://github.com/cilium/cilium/pull/47891) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
