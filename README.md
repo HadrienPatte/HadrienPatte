@@ -2,6 +2,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [node: Derive the IPsec pod subnets from the cloud provider](https://github.com/cilium/cilium/pull/48493) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [[WIP: TEST CI] gha/eks: run the conformance suite on an IPv6-only cluster](https://github.com/cilium/cilium/pull/48492) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [crdtest: test CRDs per API channel](https://github.com/kubernetes-sigs/network-policy-api/pull/402) on [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) (today)
 - [ipam: Migrate IPAM map keys to netip](https://github.com/cilium/cilium/pull/48445) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Delete the pkg/cidr package](https://github.com/cilium/cilium/pull/48415) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -20,5 +22,3 @@
 - [node: Migrate native routing CIDRs to netip.Prefix](https://github.com/cilium/cilium/pull/48010) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cell: Decode config fields implementing `encoding.TextUnmarshaler`](https://github.com/cilium/hive/pull/79) on [cilium/hive](https://github.com/cilium/hive) (2 weeks ago)
 - [nodediscovery: Make ENI instance facts unoverridable by CNI conf](https://github.com/cilium/cilium/pull/47980) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [ipam/eni: Source the ENI VPC CIDRs from IMDS](https://github.com/cilium/cilium/pull/47974) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [golangci-lint: Migrate checks from bash scripts to forbidigo/depguard rules](https://github.com/cilium/cilium/pull/47946) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
