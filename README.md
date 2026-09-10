@@ -2,12 +2,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update jellyfin-ffmpeg to v8 for jellyfin v12](https://github.com/HadrienPatte/images/pull/48) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (today)
-- [node: Deduplicate node IP accessors and split them per address family](https://github.com/cilium/cilium/pull/48611) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [node: Derive the IPsec pod subnets from the cloud provider](https://github.com/cilium/cilium/pull/48493) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [[WIP: TEST CI] gha/eks: run the conformance suite on an IPv6-only cluster](https://github.com/cilium/cilium/pull/48492) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [crdtest: test CRDs per API channel](https://github.com/kubernetes-sigs/network-policy-api/pull/402) on [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) (5 days ago)
-- [ipam: Migrate IPAM map keys to netip](https://github.com/cilium/cilium/pull/48445) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [Update jellyfin-ffmpeg to v8 for jellyfin v12](https://github.com/HadrienPatte/images/pull/48) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (1 day ago)
+- [node: Deduplicate node IP accessors and split them per address family](https://github.com/cilium/cilium/pull/48611) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [node: Derive the IPsec pod subnets from the cloud provider](https://github.com/cilium/cilium/pull/48493) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [[WIP: TEST CI] gha/eks: run the conformance suite on an IPv6-only cluster](https://github.com/cilium/cilium/pull/48492) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [crdtest: test CRDs per API channel](https://github.com/kubernetes-sigs/network-policy-api/pull/402) on [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) (6 days ago)
+- [ipam: Migrate IPAM map keys to netip](https://github.com/cilium/cilium/pull/48445) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Delete the pkg/cidr package](https://github.com/cilium/cilium/pull/48415) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [vendor: Update controller-tools to `v0.22.0-1`](https://github.com/cilium/cilium/pull/48408) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [vendor: Update k8s libraries to v1.37.0](https://github.com/cilium/cilium/pull/48400) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
