@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [node: Migrate `Address.IP` from `net.IP` to `netip`](https://github.com/cilium/cilium/pull/48663) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [k8s/resource: Make `WithTransform` usable across a relist](https://github.com/cilium/cilium/pull/48639) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update jellyfin-ffmpeg to v8 for jellyfin v12](https://github.com/HadrienPatte/images/pull/48) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (2 days ago)
 - [node: Deduplicate node IP accessors and split them per address family](https://github.com/cilium/cilium/pull/48611) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -21,4 +22,3 @@
 - [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [[1.20] ipam: Accept native routing CIDR overlapping a secondary VPC CIDR](https://github.com/cilium/cilium/pull/48024) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
