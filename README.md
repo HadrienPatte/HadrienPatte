@@ -8,6 +8,7 @@
 - [node: Deduplicate node IP accessors and split them per address family](https://github.com/cilium/cilium/pull/48611) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [node: Derive the IPsec pod subnets from the cloud provider](https://github.com/cilium/cilium/pull/48493) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [[WIP: TEST CI] gha/eks: run the conformance suite on an IPv6-only cluster](https://github.com/cilium/cilium/pull/48492) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [crdtest: test CRDs per API channel](https://github.com/kubernetes-sigs/network-policy-api/pull/402) on [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) (1 week ago)
 - [ipam: Migrate IPAM map keys to netip](https://github.com/cilium/cilium/pull/48445) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Delete the pkg/cidr package](https://github.com/cilium/cilium/pull/48415) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [vendor: Update controller-tools to `v0.22.0-1`](https://github.com/cilium/cilium/pull/48408) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [[1.20] ipam: Accept native routing CIDR overlapping a secondary VPC CIDR](https://github.com/cilium/cilium/pull/48024) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
