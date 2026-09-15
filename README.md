@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator: Transform the Pod informer to the fields actually read](https://github.com/cilium/cilium/pull/48750) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [node: Migrate `Address.IP` from `net.IP` to `netip`](https://github.com/cilium/cilium/pull/48663) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [k8s/resource: Make `WithTransform` usable across a relist](https://github.com/cilium/cilium/pull/48639) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [Update jellyfin-ffmpeg to v8 for jellyfin v12](https://github.com/HadrienPatte/images/pull/48) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (6 days ago)
@@ -21,4 +22,3 @@
 - [ipam/aws: Extract AWS-only logic from the global `pkg/ipam` package](https://github.com/cilium/cilium/pull/48131) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [devcontainer: Update to work with new ubuntu 26.04 base and skip redundant nested container exec](https://github.com/cilium/cilium/pull/48082) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [datapath: Migrate auxilary prefixes to netip](https://github.com/cilium/cilium/pull/48026) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
