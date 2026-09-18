@@ -2,6 +2,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Dispatch deferred commands directly instead of reposting the comment body](https://github.com/cilium/ariane/pull/189) on [cilium/ariane](https://github.com/cilium/ariane) (2 days ago)
 - [operator: Transform the Pod informer to the fields actually read](https://github.com/cilium/cilium/pull/48750) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [node: Migrate `Address.IP` from `net.IP` to `netip`](https://github.com/cilium/cilium/pull/48663) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -20,5 +22,3 @@
 - [datapath: Migrate `IPv{4,6}PodSubnets` to `ip.Prefix`](https://github.com/cilium/cilium/pull/48253) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [bpf: Replace `mac_t` with `union macaddr` and `mac.Uint64MAC` with `mac.MAC`](https://github.com/cilium/cilium/pull/48249) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [ipam: Type the cloud provider MAC fields in the CiliumNode status](https://github.com/cilium/cilium/pull/48197) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [ipam/aws: Extract AWS-only logic from the global `pkg/ipam` package](https://github.com/cilium/cilium/pull/48131) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [mac: Make `mac.MAC` a `[6]byte`](https://github.com/cilium/cilium/pull/48089) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
