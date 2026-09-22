@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [k8s: Drop managedFields from the objects held in memory](https://github.com/cilium/cilium/pull/48864) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [vendor: Update `cel-go` module import path](https://github.com/cilium/cilium/pull/48341) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Fix trigger dependency checks and drop the inert comment recency guard](https://github.com/cilium/ariane/pull/182) on [cilium/ariane](https://github.com/cilium/ariane) (3 weeks ago)
 - [datapath: Migrate `IPv{4,6}PodSubnets` to `ip.Prefix`](https://github.com/cilium/cilium/pull/48253) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [bpf: Replace `mac_t` with `union macaddr` and `mac.Uint64MAC` with `mac.MAC`](https://github.com/cilium/cilium/pull/48249) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
