@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [k8s: Drop managedFields from the objects held in memory](https://github.com/cilium/cilium/pull/48864) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [vendor: Update k8s libraries to v1.37.0](https://github.com/cilium/cilium/pull/48400) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [vendor: Update `cel-go` module import path](https://github.com/cilium/cilium/pull/48341) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Fix trigger dependency checks and drop the inert comment recency guard](https://github.com/cilium/ariane/pull/182) on [cilium/ariane](https://github.com/cilium/ariane) (3 weeks ago)
-- [datapath: Migrate `IPv{4,6}PodSubnets` to `ip.Prefix`](https://github.com/cilium/cilium/pull/48253) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
