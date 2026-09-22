@@ -2,11 +2,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [k8s: Drop managedFields from the objects held in memory](https://github.com/cilium/cilium/pull/48864) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [Dispatch deferred commands directly instead of reposting the comment body](https://github.com/cilium/ariane/pull/189) on [cilium/ariane](https://github.com/cilium/ariane) (5 days ago)
-- [operator: Transform the Pod informer to the fields actually read](https://github.com/cilium/cilium/pull/48750) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [k8s: Drop managedFields from the objects held in memory](https://github.com/cilium/cilium/pull/48864) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [Dispatch deferred commands directly instead of reposting the comment body](https://github.com/cilium/ariane/pull/189) on [cilium/ariane](https://github.com/cilium/ariane) (6 days ago)
+- [operator: Transform the Pod informer to the fields actually read](https://github.com/cilium/cilium/pull/48750) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [node: Migrate `Address.IP` from `net.IP` to `netip`](https://github.com/cilium/cilium/pull/48663) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s/resource: Make `WithTransform` usable across a relist](https://github.com/cilium/cilium/pull/48639) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update jellyfin-ffmpeg to v8 for jellyfin v12](https://github.com/HadrienPatte/images/pull/48) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (1 week ago)
