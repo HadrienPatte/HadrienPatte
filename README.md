@@ -2,9 +2,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [k8s: Drop managedFields from the objects held in memory](https://github.com/cilium/cilium/pull/48864) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
