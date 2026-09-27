@@ -2,9 +2,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [k8s: Drop managedFields from the objects held in memory](https://github.com/cilium/cilium/pull/48864) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +21,4 @@
 - [Delete the pkg/cidr package](https://github.com/cilium/cilium/pull/48415) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [vendor: Update controller-tools to `v0.22.0-1`](https://github.com/cilium/cilium/pull/48408) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [vendor: Update k8s libraries to v1.37.0](https://github.com/cilium/cilium/pull/48400) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [vendor: Update `cel-go` module import path](https://github.com/cilium/cilium/pull/48341) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
+- [vendor: Update `cel-go` module import path](https://github.com/cilium/cilium/pull/48341) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
