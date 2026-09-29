@@ -2,6 +2,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (today)
+- [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [datapath: Attach netkit programs regardless of the tcx setting](https://github.com/cilium/cilium/pull/49089) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [aws: Provide the ENI CiliumNode mutator through hive](https://github.com/cilium/cilium/pull/49080) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -20,5 +22,3 @@
 - [[WIP: TEST CI] gha/eks: run the conformance suite on an IPv6-only cluster](https://github.com/cilium/cilium/pull/48492) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [crdtest: test CRDs per API channel](https://github.com/kubernetes-sigs/network-policy-api/pull/402) on [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) (3 weeks ago)
 - [ipam: Migrate IPAM map keys to netip](https://github.com/cilium/cilium/pull/48445) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [Delete the pkg/cidr package](https://github.com/cilium/cilium/pull/48415) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [vendor: Update controller-tools to `v0.22.0-1`](https://github.com/cilium/cilium/pull/48408) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
