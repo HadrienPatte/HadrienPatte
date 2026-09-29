@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [datapath: Attach netkit programs regardless of the tcx setting](https://github.com/cilium/cilium/pull/49089) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [aws: Provide the ENI CiliumNode mutator through hive](https://github.com/cilium/cilium/pull/49080) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [ipam: Migrate IPAM map keys to netip](https://github.com/cilium/cilium/pull/48445) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [Delete the pkg/cidr package](https://github.com/cilium/cilium/pull/48415) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [vendor: Update controller-tools to `v0.22.0-1`](https://github.com/cilium/cilium/pull/48408) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [vendor: Update k8s libraries to v1.37.0](https://github.com/cilium/cilium/pull/48400) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
