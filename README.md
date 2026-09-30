@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (1 day ago)
 - [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [datapath: Attach netkit programs regardless of the tcx setting](https://github.com/cilium/cilium/pull/49089) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
@@ -21,4 +22,3 @@
 - [node: Derive the IPsec pod subnets from the cloud provider](https://github.com/cilium/cilium/pull/48493) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [[WIP: TEST CI] gha/eks: run the conformance suite on an IPv6-only cluster](https://github.com/cilium/cilium/pull/48492) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [crdtest: test CRDs per API channel](https://github.com/kubernetes-sigs/network-policy-api/pull/402) on [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) (3 weeks ago)
-- [ipam: Migrate IPAM map keys to netip](https://github.com/cilium/cilium/pull/48445) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
