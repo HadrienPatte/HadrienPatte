@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (2 days ago)
 - [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
@@ -21,4 +22,3 @@
 - [node: Deduplicate node IP accessors and split them per address family](https://github.com/cilium/cilium/pull/48611) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [node: Derive the IPsec pod subnets from the cloud provider](https://github.com/cilium/cilium/pull/48493) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [[WIP: TEST CI] gha/eks: run the conformance suite on an IPv6-only cluster](https://github.com/cilium/cilium/pull/48492) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [crdtest: test CRDs per API channel](https://github.com/kubernetes-sigs/network-policy-api/pull/402) on [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) (3 weeks ago)
