@@ -2,11 +2,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (1 day ago)
-- [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [datapath: Attach netkit programs regardless of the tcx setting](https://github.com/cilium/cilium/pull/49089) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [aws: Provide the ENI CiliumNode mutator through hive](https://github.com/cilium/cilium/pull/49080) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (2 days ago)
+- [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [datapath: Attach netkit programs regardless of the tcx setting](https://github.com/cilium/cilium/pull/49089) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [aws: Provide the ENI CiliumNode mutator through hive](https://github.com/cilium/cilium/pull/49080) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
