@@ -2,6 +2,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [datapath: Fix NAT46x64 gateway prefix conversion panic](https://github.com/cilium/cilium/pull/49177) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [compilers: Bump to ubuntu 26.04](https://github.com/cilium/image-tools/pull/567) on [cilium/image-tools](https://github.com/cilium/image-tools) (today)
+- [Test native ci](https://github.com/HadrienPatte/image-tools/pull/1) on [HadrienPatte/image-tools](https://github.com/HadrienPatte/image-tools) (today)
 - [ipam: Remove `--bypass-ip-availability-upon-restore` flag](https://github.com/cilium/cilium/pull/49135) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
@@ -19,6 +22,3 @@
 - [operator: Transform the Pod informer to the fields actually read](https://github.com/cilium/cilium/pull/48750) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [node: Migrate `Address.IP` from `net.IP` to `netip`](https://github.com/cilium/cilium/pull/48663) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [k8s/resource: Make `WithTransform` usable across a relist](https://github.com/cilium/cilium/pull/48639) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [Update jellyfin-ffmpeg to v8 for jellyfin v12](https://github.com/HadrienPatte/images/pull/48) on [HadrienPatte/images](https://github.com/HadrienPatte/images) (3 weeks ago)
-- [node: Deduplicate node IP accessors and split them per address family](https://github.com/cilium/cilium/pull/48611) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [node: Derive the IPsec pod subnets from the cloud provider](https://github.com/cilium/cilium/pull/48493) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
