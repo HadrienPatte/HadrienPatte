@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [k8s: Use omitzero for struct fields of CiliumNode and CiliumEndpoint](https://github.com/cilium/cilium/pull/49220) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [datapath: Fix NAT46x64 gateway prefix conversion panic](https://github.com/cilium/cilium/pull/49177) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [compilers: Bump to ubuntu 26.04](https://github.com/cilium/image-tools/pull/567) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
@@ -21,4 +22,3 @@
 - [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Dispatch deferred commands directly instead of reposting the comment body](https://github.com/cilium/ariane/pull/189) on [cilium/ariane](https://github.com/cilium/ariane) (3 weeks ago)
 - [operator: Transform the Pod informer to the fields actually read](https://github.com/cilium/cilium/pull/48750) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [node: Migrate `Address.IP` from `net.IP` to `netip`](https://github.com/cilium/cilium/pull/48663) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
