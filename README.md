@@ -2,12 +2,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [k8s: Use omitzero for struct fields of CiliumNode and CiliumEndpoint](https://github.com/cilium/cilium/pull/49220) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [datapath: Fix NAT46x64 gateway prefix conversion panic](https://github.com/cilium/cilium/pull/49177) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [compilers: Bump to ubuntu 26.04](https://github.com/cilium/image-tools/pull/567) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
-- [Test native ci](https://github.com/HadrienPatte/image-tools/pull/1) on [HadrienPatte/image-tools](https://github.com/HadrienPatte/image-tools) (2 days ago)
-- [ipam: Remove `--bypass-ip-availability-upon-restore` flag](https://github.com/cilium/cilium/pull/49135) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [k8s: Use omitzero for struct fields of CiliumNode and CiliumEndpoint](https://github.com/cilium/cilium/pull/49220) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [datapath: Fix NAT46x64 gateway prefix conversion panic](https://github.com/cilium/cilium/pull/49177) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [compilers: Bump to ubuntu 26.04](https://github.com/cilium/image-tools/pull/567) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 days ago)
+- [Test native ci](https://github.com/HadrienPatte/image-tools/pull/1) on [HadrienPatte/image-tools](https://github.com/HadrienPatte/image-tools) (3 days ago)
+- [ipam: Remove `--bypass-ip-availability-upon-restore` flag](https://github.com/cilium/cilium/pull/49135) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (1 week ago)
 - [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
