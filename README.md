@@ -2,7 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [golangci-lint: Fix issues with latest version](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [golangci-lint: Set max issues parameters](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s: Use omitzero for struct fields of CiliumNode and CiliumEndpoint](https://github.com/cilium/cilium/pull/49220) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [datapath: Fix NAT46x64 gateway prefix conversion panic](https://github.com/cilium/cilium/pull/49177) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
