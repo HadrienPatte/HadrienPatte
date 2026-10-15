@@ -2,14 +2,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [golangci-lint: Fix issues with latest version](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
-- [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [golangci-lint: Fix issues with latest version](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s: Use omitzero for struct fields of CiliumNode and CiliumEndpoint](https://github.com/cilium/cilium/pull/49220) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [datapath: Fix NAT46x64 gateway prefix conversion panic](https://github.com/cilium/cilium/pull/49177) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [compilers: Bump to ubuntu 26.04](https://github.com/cilium/image-tools/pull/567) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [Test native ci](https://github.com/HadrienPatte/image-tools/pull/1) on [HadrienPatte/image-tools](https://github.com/HadrienPatte/image-tools) (1 week ago)
 - [ipam: Remove `--bypass-ip-availability-upon-restore` flag](https://github.com/cilium/cilium/pull/49135) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (2 weeks ago)
 - [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
