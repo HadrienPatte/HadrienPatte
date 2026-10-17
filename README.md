@@ -2,7 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [api: Migrate `NodeAddressingElement` ip and alloc-range to netip](https://github.com/cilium/cilium/pull/49425) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [api: Migrate `NodeAddressingElement` ip and alloc-range to netip](https://github.com/cilium/cilium/pull/49425) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [golangci-lint: Set max issues parameters](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [k8s: Use omitzero for struct fields of CiliumNode and CiliumEndpoint](https://github.com/cilium/cilium/pull/49220) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
