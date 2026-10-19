@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [vendor: Update `controller-runtime` to `v0.25.2`](https://github.com/cilium/cilium/pull/49478) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [api: Migrate `NodeAddressingElement` ip and alloc-range to netip](https://github.com/cilium/cilium/pull/49425) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 - [golangci-lint: Set max issues parameters](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [k8s: Drop managedFields from the objects held in memory](https://github.com/cilium/cilium/pull/48864) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [ipam, routing: Remove the unread VPC CIDRs from RoutingInfo and IPAM results](https://github.com/cilium/cilium/pull/48818) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [infraendpoints: Release the health IPv4 when the IPv6 allocation fails](https://github.com/cilium/cilium/pull/48816) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
