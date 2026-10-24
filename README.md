@@ -2,9 +2,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: Build images on native arch](https://github.com/cilium/image-tools/pull/580) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 day ago)
-- [api: Migrate `IPListEntry` cidr and hostIP to netip](https://github.com/cilium/cilium/pull/49523) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [vendor: Update `controller-runtime` to `v0.25.2`](https://github.com/cilium/cilium/pull/49478) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [ci: Build images on native arch](https://github.com/cilium/image-tools/pull/580) on [cilium/image-tools](https://github.com/cilium/image-tools) (2 days ago)
+- [api: Migrate `IPListEntry` cidr and hostIP to netip](https://github.com/cilium/cilium/pull/49523) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [vendor: Update `controller-runtime` to `v0.25.2`](https://github.com/cilium/cilium/pull/49478) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [api: Migrate `NodeAddressingElement` ip and alloc-range to netip](https://github.com/cilium/cilium/pull/49425) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [golangci-lint: Set max issues parameters](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
