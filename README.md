@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [api: Migrate cgroup pod `ips` and NAT46x64 gateway `prefixes` to netip](https://github.com/cilium/cilium/pull/49628) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [ci: Build images on native arch](https://github.com/cilium/image-tools/pull/580) on [cilium/image-tools](https://github.com/cilium/image-tools) (4 days ago)
 - [api: Migrate `IPListEntry` cidr and hostIP to netip](https://github.com/cilium/cilium/pull/49523) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [vendor: Update `controller-runtime` to `v0.25.2`](https://github.com/cilium/cilium/pull/49478) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -21,4 +22,3 @@
 - [aws: Provide the ENI CiliumNode mutator through hive](https://github.com/cilium/cilium/pull/49080) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
 - [ipam: Migrate `IPAMStatus.AssignedStaticIP` to `ip.Addr`](https://github.com/cilium/cilium/pull/48971) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [ipmasq: Start the agent from its own cell, drop it from the IPAM path](https://github.com/cilium/cilium/pull/48949) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [operator: Give the node watcher cells ownership of their state](https://github.com/cilium/cilium/pull/48931) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
