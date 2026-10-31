@@ -2,9 +2,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [k8s: Validate `CiliumPodIPPool` reserved ranges at admission](https://github.com/cilium/cilium/pull/49731) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [api: Migrate cgroup pod `ips` and NAT46x64 gateway `prefixes` to netip](https://github.com/cilium/cilium/pull/49628) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [k8s: Validate `CiliumPodIPPool` reserved ranges at admission](https://github.com/cilium/cilium/pull/49731) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [api: Migrate cgroup pod `ips` and NAT46x64 gateway `prefixes` to netip](https://github.com/cilium/cilium/pull/49628) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [ci: Build images on native arch](https://github.com/cilium/image-tools/pull/580) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [api: Migrate `IPListEntry` cidr and hostIP to netip](https://github.com/cilium/cilium/pull/49523) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [vendor: Update `controller-runtime` to `v0.25.2`](https://github.com/cilium/cilium/pull/49478) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -16,7 +16,7 @@
 - [compilers: Bump to ubuntu 26.04](https://github.com/cilium/image-tools/pull/567) on [cilium/image-tools](https://github.com/cilium/image-tools) (3 weeks ago)
 - [Test native ci](https://github.com/HadrienPatte/image-tools/pull/1) on [HadrienPatte/image-tools](https://github.com/HadrienPatte/image-tools) (3 weeks ago)
 - [ipam: Remove `--bypass-ip-availability-upon-restore` flag](https://github.com/cilium/cilium/pull/49135) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (1 month ago)
 - [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
