@@ -2,9 +2,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [k8s: Validate `CiliumPodIPPool` reserved ranges at admission](https://github.com/cilium/cilium/pull/49731) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [k8s: Validate `CiliumPodIPPool` reserved ranges at admission](https://github.com/cilium/cilium/pull/49731) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [api: Migrate cgroup pod `ips` and NAT46x64 gateway `prefixes` to netip](https://github.com/cilium/cilium/pull/49628) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ci: Build images on native arch](https://github.com/cilium/image-tools/pull/580) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 week ago)
 - [api: Migrate `IPListEntry` cidr and hostIP to netip](https://github.com/cilium/cilium/pull/49523) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
