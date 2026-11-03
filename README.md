@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [k8s: Validate `CiliumPodIPPool` reserved ranges at admission](https://github.com/cilium/cilium/pull/49731) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
@@ -21,4 +22,3 @@
 - [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (1 month ago)
 - [hive: Remove redundant netip.Prefix config decode hook](https://github.com/cilium/cilium/pull/49090) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [datapath: Attach netkit programs regardless of the tcx setting](https://github.com/cilium/cilium/pull/49089) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
