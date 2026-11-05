@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [clustermesh-apiserver: Fix stale IP entries after a namespace resync races with a CiliumEndpoint deletion](https://github.com/cilium/cilium/pull/49825) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
@@ -21,4 +22,3 @@
 - [ipam: Remove `--bypass-ip-availability-upon-restore` flag](https://github.com/cilium/cilium/pull/49135) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [Migrate from the deprecated `mitchellh/mapstructure` to `go-viper/mapstructure`](https://github.com/cilium/hive/pull/83) on [cilium/hive](https://github.com/cilium/hive) (1 month ago)
