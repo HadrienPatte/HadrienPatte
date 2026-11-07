@@ -2,10 +2,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [clustermesh-apiserver: Fix stale IP entries after a namespace resync races with a CiliumEndpoint deletion](https://github.com/cilium/cilium/pull/49825) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [clustermesh-apiserver: Fix stale IP entries after a namespace resync races with a CiliumEndpoint deletion](https://github.com/cilium/cilium/pull/49825) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 - [k8s: Validate `CiliumPodIPPool` reserved ranges at admission](https://github.com/cilium/cilium/pull/49731) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [api: Migrate cgroup pod `ips` and NAT46x64 gateway `prefixes` to netip](https://github.com/cilium/cilium/pull/49628) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
@@ -14,7 +14,7 @@
 - [vendor: Update `controller-runtime` to `v0.25.2`](https://github.com/cilium/cilium/pull/49478) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [api: Migrate `NodeAddressingElement` ip and alloc-range to netip](https://github.com/cilium/cilium/pull/49425) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [golangci-lint: Set max issues parameters](https://github.com/cilium/cilium/pull/49265) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
-- [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [kvstore: Fix truncated and high-cardinality metric scope labels](https://github.com/cilium/cilium/pull/49249) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [k8s: Use omitzero for struct fields of CiliumNode and CiliumEndpoint](https://github.com/cilium/cilium/pull/49220) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [datapath: Fix NAT46x64 gateway prefix conversion panic](https://github.com/cilium/cilium/pull/49177) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [compilers: Bump to ubuntu 26.04](https://github.com/cilium/image-tools/pull/567) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
