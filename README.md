@@ -2,6 +2,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Remove `fromRequires`/`toRequires` policy documentation](https://github.com/cilium/cilium/pull/50246) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [clustermesh-apiserver: Fix stale IP entries after a namespace resync races with a CiliumEndpoint deletion](https://github.com/cilium/cilium/pull/49825) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
@@ -21,4 +22,3 @@
 - [Test native ci](https://github.com/HadrienPatte/image-tools/pull/1) on [HadrienPatte/image-tools](https://github.com/HadrienPatte/image-tools) (1 month ago)
 - [ipam: Remove `--bypass-ip-availability-upon-restore` flag](https://github.com/cilium/cilium/pull/49135) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [fqdn: Remove obsolete toFQDNs pre-cache feature](https://github.com/cilium/cilium/pull/49124) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [cilium-cli: Apply standard scheduling params to all connectivity pods](https://github.com/cilium/cilium/pull/49113) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
