@@ -2,14 +2,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: Remove `fromRequires`/`toRequires` policy documentation](https://github.com/cilium/cilium/pull/50246) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [docs: Remove `fromRequires`/`toRequires` policy documentation](https://github.com/cilium/cilium/pull/50246) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [clustermesh-apiserver: Fix stale IP entries after a namespace resync races with a CiliumEndpoint deletion](https://github.com/cilium/cilium/pull/49825) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [k8s: Validate `CiliumPodIPPool` reserved ranges at admission](https://github.com/cilium/cilium/pull/49731) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
-- [api: Migrate cgroup pod `ips` and NAT46x64 gateway `prefixes` to netip](https://github.com/cilium/cilium/pull/49628) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [ipam: Scope a node's instance sync to that node instead of resyncing the whole cluster](https://github.com/cilium/cilium/pull/49687) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [api: Migrate cgroup pod `ips` and NAT46x64 gateway `prefixes` to netip](https://github.com/cilium/cilium/pull/49628) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [ci: Build images on native arch](https://github.com/cilium/image-tools/pull/580) on [cilium/image-tools](https://github.com/cilium/image-tools) (1 month ago)
 - [api: Migrate `IPListEntry` cidr and hostIP to netip](https://github.com/cilium/cilium/pull/49523) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [vendor: Update `controller-runtime` to `v0.25.2`](https://github.com/cilium/cilium/pull/49478) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
