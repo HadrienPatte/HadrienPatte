@@ -2,8 +2,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: Remove `fromRequires`/`toRequires` policy documentation](https://github.com/cilium/cilium/pull/50246) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [docs: Remove `fromRequires`/`toRequires` policy documentation](https://github.com/cilium/cilium/pull/50246) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [clustermesh-apiserver: Fix stale IP entries after a namespace resync races with a CiliumEndpoint deletion](https://github.com/cilium/cilium/pull/49825) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [operator: Drop duplicate `CiliumEndpoint` and `Pod` informers from the unmanaged pods controller](https://github.com/cilium/cilium/pull/49761) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
