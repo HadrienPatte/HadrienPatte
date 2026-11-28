@@ -2,8 +2,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [allocator: Don't return out-of-range IDs to the pool on delete](https://github.com/cilium/cilium/pull/50294) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [docs: Remove `fromRequires`/`toRequires` policy documentation](https://github.com/cilium/cilium/pull/50246) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [allocator: Don't return out-of-range IDs to the pool on delete](https://github.com/cilium/cilium/pull/50294) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [docs: Remove `fromRequires`/`toRequires` policy documentation](https://github.com/cilium/cilium/pull/50246) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [iptables: Remove AWS VPC CNI rules from the agent, not a postStart hook](https://github.com/cilium/cilium/pull/49858) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [clustermesh-apiserver: Fix stale IP entries after a namespace resync races with a CiliumEndpoint deletion](https://github.com/cilium/cilium/pull/49825) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [build: Update iptables-wrapper to v4](https://github.com/cilium/cilium/pull/49819) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
